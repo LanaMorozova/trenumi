@@ -177,7 +177,10 @@
       ],
       "video_short_format_verified": true,
       "video_match_verified": true,
-      "video_verification_basis": "YouTube public watch page, Show transcript with timestamps; duration from player/native metadata"
+      "video_verification_basis": "YouTube public watch page, Show transcript with timestamps; duration from player/native metadata",
+      "search_aliases": [
+        "Bodyweight squat"
+      ]
     },
     {
       "id": "TR-EX-0002",
@@ -310,7 +313,10 @@
       ],
       "video_short_format_verified": true,
       "video_match_verified": true,
-      "video_verification_basis": "YouTube public watch page, Show transcript with timestamps; duration from player/native metadata"
+      "video_verification_basis": "YouTube public watch page, Show transcript with timestamps; duration from player/native metadata",
+      "search_aliases": [
+        "Barbell back squat"
+      ]
     },
     {
       "id": "TR-EX-0003",
@@ -448,7 +454,10 @@
           "video_uk_fallback_locale": "en"
         }
       ],
-      "video_verification_basis": "YouTube public watch page, Show transcript with timestamps; duration from player/native metadata"
+      "video_verification_basis": "YouTube public watch page, Show transcript with timestamps; duration from player/native metadata",
+      "search_aliases": [
+        "Barbell front squat"
+      ]
     },
     {
       "id": "TR-EX-0004",
@@ -586,7 +595,10 @@
           "video_uk_fallback_locale": "en"
         }
       ],
-      "video_verification_basis": "YouTube public watch page, Show transcript with timestamps; duration from player/native metadata"
+      "video_verification_basis": "YouTube public watch page, Show transcript with timestamps; duration from player/native metadata",
+      "search_aliases": [
+        "Goblet squat"
+      ]
     },
     {
       "id": "TR-EX-0005",
@@ -716,7 +728,10 @@
       ],
       "video_short_format_verified": true,
       "video_match_verified": true,
-      "video_verification_basis": "YouTube public watch page, Show transcript with timestamps; duration from player/native metadata"
+      "video_verification_basis": "YouTube public watch page, Show transcript with timestamps; duration from player/native metadata",
+      "search_aliases": [
+        "Dumbbell squat"
+      ]
     },
     {
       "id": "TR-EX-0006",
@@ -808,7 +823,10 @@
       "video_uk_fallback_locale": "en",
       "video_short_format_verified": true,
       "video_match_verified": true,
-      "video_verification_basis": "YouTube Show transcript, timestamps 0:14–0:38; player duration 0:50"
+      "video_verification_basis": "YouTube Show transcript, timestamps 0:14–0:38; player duration 0:50",
+      "search_aliases": [
+        "Smith machine squat"
+      ]
     },
     {
       "id": "TR-EX-0007",
@@ -939,7 +957,10 @@
       "candidate_video_status": "Відхилено: сусідня варіація",
       "video_match_verified": true,
       "video_short_format_verified": true,
-      "video_verification_basis": "YouTube Show transcript 0:21–1:19; native metadata duration 99 s"
+      "video_verification_basis": "YouTube Show transcript 0:21–1:19; native metadata duration 99 s",
+      "search_aliases": [
+        "Box squat"
+      ]
     },
     {
       "id": "TR-EX-0008",
@@ -1050,6 +1071,9 @@
           "duration_seconds": 13,
           "reason": "Опис прямо вказує одну гантелю; інструкції всередині ролика, точну демонстрацію й професійні кваліфікації автора ще не підтверджено. Популярність сама по собі не є перевіркою компетентності."
         }
+      ],
+      "search_aliases": [
+        "Sumo squat"
       ]
     },
     {
@@ -1145,7 +1169,10 @@
       "video_additional_review_note": "19.11.2026: первинна сторінка автора підтверджує ту саму вправу з 2-секундною паузою. Текст сторінки/опису не використаний замість перевірки пояснення всередині відео; video_explanation_verified лишається false.",
       "video_match_verified": false,
       "video_short_format_verified": true,
-      "video_verification_basis": "Primary author technique page plus public YouTube still thumbnail 2; playback/pause not observed"
+      "video_verification_basis": "Primary author technique page plus public YouTube still thumbnail 2; playback/pause not observed",
+      "search_aliases": [
+        "Pause squat"
+      ]
     },
     {
       "id": "TR-EX-0010",
@@ -1277,7 +1304,10 @@
       ],
       "video_short_format_verified": true,
       "video_match_verified": true,
-      "video_verification_basis": "YouTube Show transcript with timestamps; player and native duration metadata"
+      "video_verification_basis": "YouTube Show transcript with timestamps; player and native duration metadata",
+      "search_aliases": [
+        "Zercher squat"
+      ]
     },
     {
       "id": "TR-EX-0011",
@@ -1409,7 +1439,10 @@
       ],
       "video_short_format_verified": true,
       "video_match_verified": true,
-      "video_verification_basis": "YouTube Show transcript with timestamps; player and native duration metadata"
+      "video_verification_basis": "YouTube Show transcript with timestamps; player and native duration metadata",
+      "search_aliases": [
+        "Kettlebell goblet squat"
+      ]
     },
     {
       "id": "TR-EX-0012",
@@ -1541,7 +1574,10 @@
       ],
       "video_short_format_verified": true,
       "video_match_verified": true,
-      "video_verification_basis": "YouTube Show transcript with timestamps; player and native duration metadata"
+      "video_verification_basis": "YouTube Show transcript with timestamps; player and native duration metadata",
+      "search_aliases": [
+        "Hack squat machine"
+      ]
     },
     {
       "id": "TR-EX-0013",
@@ -1630,7 +1666,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Pendulum squat"
+      ]
     },
     {
       "id": "TR-EX-0014",
@@ -1727,7 +1766,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Belt squat"
+      ]
     },
     {
       "id": "TR-EX-0015",
@@ -1816,7 +1858,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "45 degree leg press"
+      ]
     },
     {
       "id": "TR-EX-0016",
@@ -1905,7 +1950,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Seated leg press"
+      ]
     },
     {
       "id": "TR-EX-0017",
@@ -2002,7 +2050,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Vertical leg press"
+      ]
     },
     {
       "id": "TR-EX-0018",
@@ -2091,7 +2142,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Single leg press"
+      ]
     },
     {
       "id": "TR-EX-0019",
@@ -2179,7 +2233,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Seated leg extension"
+      ]
     },
     {
       "id": "TR-EX-0020",
@@ -2267,7 +2324,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Single leg extension"
+      ]
     },
     {
       "id": "TR-EX-0021",
@@ -2364,7 +2424,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Forward lunge bodyweight"
+      ]
     },
     {
       "id": "TR-EX-0022",
@@ -2462,7 +2525,10 @@
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
       "video_uk_fallback_locale": "en",
-      "video_caption_availability": "19.11.2026: після розгортання опису на YouTube кнопки Show transcript не знайдено. Плеєр 0:46, назву й автора звірено. Пояснення всередині ролика/текст у кадрі не підтверджені."
+      "video_caption_availability": "19.11.2026: після розгортання опису на YouTube кнопки Show transcript не знайдено. Плеєр 0:46, назву й автора звірено. Пояснення всередині ролика/текст у кадрі не підтверджені.",
+      "search_aliases": [
+        "Dumbbell forward lunge"
+      ]
     },
     {
       "id": "TR-EX-0023",
@@ -2551,7 +2617,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Dumbbell reverse lunge"
+      ]
     },
     {
       "id": "TR-EX-0024",
@@ -2640,7 +2709,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Smith machine reverse lunge"
+      ]
     },
     {
       "id": "TR-EX-0025",
@@ -2737,7 +2809,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Barbell lunge"
+      ]
     },
     {
       "id": "TR-EX-0026",
@@ -2829,7 +2904,10 @@
       "video_uk_fallback_locale": "en",
       "video_short_format_verified": true,
       "video_match_verified": true,
-      "video_verification_basis": "YouTube public watch page, Show transcript with timestamps; duration from player/native metadata"
+      "video_verification_basis": "YouTube public watch page, Show transcript with timestamps; duration from player/native metadata",
+      "search_aliases": [
+        "Dumbbell walking lunge"
+      ]
     },
     {
       "id": "TR-EX-0027",
@@ -2918,7 +2996,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Dumbbell Bulgarian split squat"
+      ]
     },
     {
       "id": "TR-EX-0028",
@@ -3021,7 +3102,10 @@
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
       "video_uk_fallback_locale": "en",
-      "video_verification_basis": "YouTube Show transcript 0:07–0:48; player 0:56"
+      "video_verification_basis": "YouTube Show transcript 0:07–0:48; player 0:56",
+      "search_aliases": [
+        "Smith machine Bulgarian split squat"
+      ]
     },
     {
       "id": "TR-EX-0029",
@@ -3141,7 +3225,10 @@
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
       "video_uk_fallback_locale": "en",
-      "video_verification_basis": "YouTube public watch page, Show transcript with timestamps; duration from player/native metadata"
+      "video_verification_basis": "YouTube public watch page, Show transcript with timestamps; duration from player/native metadata",
+      "search_aliases": [
+        "Bodyweight Bulgarian split squat"
+      ]
     },
     {
       "id": "TR-EX-0030",
@@ -3238,7 +3325,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Split squat"
+      ]
     },
     {
       "id": "TR-EX-0031",
@@ -3327,7 +3417,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Lateral lunge"
+      ]
     },
     {
       "id": "TR-EX-0032",
@@ -3446,13 +3539,16 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Cossack squat"
+      ]
     },
     {
       "id": "TR-EX-0033",
       "priority": "Розширення",
       "category": "Квадрицепси та присідання",
-      "name_uk": "Зашагування на платформу",
+      "name_uk": "Підйом на платформу (степ-ап)",
       "name_en": "Step-up",
       "short_description": "Наступи на платформу, підніми тіло силою опорної ноги та спустися.",
       "exercise_type": "Силова",
@@ -3535,13 +3631,22 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Зашагування на платформу",
+        "Step-up",
+        "зашагування",
+        "зашагування на лаву",
+        "виступи на лавку",
+        "крок на лаву",
+        "степ ап"
+      ]
     },
     {
       "id": "TR-EX-0034",
       "priority": "Розширення",
       "category": "Квадрицепси та присідання",
-      "name_uk": "Зашагування з гантелями",
+      "name_uk": "Підйом на платформу з гантелями (степ-ап)",
       "name_en": "Dumbbell step-up",
       "short_description": "Піднімайся на платформу з гантелями, не відштовхуючись надмірно нижньою ногою.",
       "exercise_type": "Силова",
@@ -3632,13 +3737,18 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Зашагування з гантелями",
+        "Dumbbell step-up",
+        "зашагування на лавку з гантелями"
+      ]
     },
     {
       "id": "TR-EX-0035",
       "priority": "Розширення",
       "category": "Квадрицепси та присідання",
-      "name_uk": "Спуск із платформи",
+      "name_uk": "Спуск із платформи (степ-даун)",
       "name_en": "Step-down",
       "short_description": "Повільно опускай вільну стопу з підвищення, контролюючи коліно опорної ноги.",
       "exercise_type": "Силова",
@@ -3721,7 +3831,11 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Спуск із платформи",
+        "Step-down"
+      ]
     },
     {
       "id": "TR-EX-0036",
@@ -3818,7 +3932,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Single leg box squat"
+      ]
     },
     {
       "id": "TR-EX-0037",
@@ -3907,13 +4024,16 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Pistol squat"
+      ]
     },
     {
       "id": "TR-EX-0038",
       "priority": "Розширення",
       "category": "Квадрицепси та присідання",
-      "name_uk": "Реверсивні нордичні нахили",
+      "name_uk": "Нахили назад із колін (зворотний нордік)",
       "name_en": "Reverse Nordic curl",
       "short_description": "Стоячи на колінах, відхиляй прямий корпус назад і повернися, працюючи передньою поверхнею стегон.",
       "exercise_type": "Силова",
@@ -3995,7 +4115,11 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Реверсивні нордичні нахили",
+        "Reverse Nordic curl"
+      ]
     },
     {
       "id": "TR-EX-0039",
@@ -4083,7 +4207,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Banded squat"
+      ]
     },
     {
       "id": "TR-EX-0040",
@@ -4184,7 +4311,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Squat calf raise"
+      ]
     },
     {
       "id": "TR-EX-0041",
@@ -4272,7 +4402,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Glute bridge"
+      ]
     },
     {
       "id": "TR-EX-0042",
@@ -4360,7 +4493,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Dumbbell glute bridge"
+      ]
     },
     {
       "id": "TR-EX-0043",
@@ -4448,13 +4584,16 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Barbell glute bridge"
+      ]
     },
     {
       "id": "TR-EX-0044",
       "priority": "Основна",
       "category": "Сідниці та відведення стегна",
-      "name_uk": "Хіп-траст зі штангою",
+      "name_uk": "Підйом таза зі штангою з опорою на лаву (хіп-траст)",
       "name_en": "Barbell hip thrust",
       "short_description": "Спирайся верхом спини на лаву, піднімай таз і повернися вниз.",
       "exercise_type": "Силова",
@@ -4536,13 +4675,21 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Хіп-траст зі штангою",
+        "Barbell hip thrust",
+        "хіп траст",
+        "хіптраст",
+        "підйом таза зі штангою",
+        "сідничний міст на лаві"
+      ]
     },
     {
       "id": "TR-EX-0045",
       "priority": "Основна",
       "category": "Сідниці та відведення стегна",
-      "name_uk": "Хіп-траст у тренажері",
+      "name_uk": "Підйом таза у тренажері (хіп-траст)",
       "name_en": "Machine hip thrust",
       "short_description": "Піднімай таз проти опору спеціального тренажера, не перерозгинаючи поперек.",
       "exercise_type": "Силова",
@@ -4636,13 +4783,18 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Хіп-траст у тренажері",
+        "Machine hip thrust",
+        "хіп траст тренажер"
+      ]
     },
     {
       "id": "TR-EX-0046",
       "priority": "Основна",
       "category": "Сідниці та відведення стегна",
-      "name_uk": "Хіп-траст у Сміті",
+      "name_uk": "Підйом таза у Сміті (хіп-траст)",
       "name_en": "Smith machine hip thrust",
       "short_description": "Виконуй розгинання таза з опорою верхньої частини спини на лаву.",
       "exercise_type": "Силова",
@@ -4724,13 +4876,18 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Хіп-траст у Сміті",
+        "Smith machine hip thrust",
+        "хіп траст сміт"
+      ]
     },
     {
       "id": "TR-EX-0047",
       "priority": "Основна",
       "category": "Сідниці та відведення стегна",
-      "name_uk": "Хіп-траст на одній нозі",
+      "name_uk": "Підйом таза на одній нозі з опорою на лаву (хіп-траст)",
       "name_en": "Single leg hip thrust",
       "short_description": "Піднімай таз однією ногою, утримуючи рівне положення таза.",
       "exercise_type": "Силова",
@@ -4812,7 +4969,12 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Хіп-траст на одній нозі",
+        "Single leg hip thrust",
+        "одноногий хіп траст"
+      ]
     },
     {
       "id": "TR-EX-0048",
@@ -4900,13 +5062,16 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Single leg glute bridge"
+      ]
     },
     {
       "id": "TR-EX-0049",
       "priority": "Основна",
       "category": "Сідниці та відведення стегна",
-      "name_uk": "Frog pumps",
+      "name_uk": "Підйом таза зі зведеними стопами (фрог-пампс)",
       "name_en": "Frog pumps",
       "short_description": "З'єднай стопи, розведи коліна та виконуй короткі підйоми таза.",
       "exercise_type": "Силова",
@@ -4988,7 +5153,12 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Frog pumps",
+        "фрог пампс",
+        "жаб'ячий міст"
+      ]
     },
     {
       "id": "TR-EX-0050",
@@ -5076,7 +5246,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Seated hip abduction machine"
+      ]
     },
     {
       "id": "TR-EX-0051",
@@ -5172,7 +5345,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Standing cable hip abduction"
+      ]
     },
     {
       "id": "TR-EX-0052",
@@ -5272,7 +5448,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Banded hip abduction"
+      ]
     },
     {
       "id": "TR-EX-0053",
@@ -5368,7 +5547,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Lateral band walk"
+      ]
     },
     {
       "id": "TR-EX-0054",
@@ -5456,7 +5638,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Monster walk"
+      ]
     },
     {
       "id": "TR-EX-0055",
@@ -5544,13 +5729,16 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Side lying hip abduction"
+      ]
     },
     {
       "id": "TR-EX-0056",
       "priority": "Основна",
       "category": "Сідниці та відведення стегна",
-      "name_uk": "Ракушка з міністрічкою",
+      "name_uk": "Розведення колін лежачи на боці (ракушка)",
       "name_en": "Banded clamshell",
       "short_description": "Лежачи на боці зі зігнутими ногами, розводь коліна з контролем таза.",
       "exercise_type": "Силова",
@@ -5632,13 +5820,17 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Ракушка з міністрічкою",
+        "Banded clamshell"
+      ]
     },
     {
       "id": "TR-EX-0057",
       "priority": "Основна",
       "category": "Сідниці та відведення стегна",
-      "name_uk": "Відведення коліна у квадрупеді",
+      "name_uk": "Відведення коліна вбік стоячи навкарачки (фаєр-гідрант)",
       "name_en": "Fire hydrant",
       "short_description": "Стоячи навкарачки, відводь зігнуту ногу убік без перекосу корпусу.",
       "exercise_type": "Силова",
@@ -5723,13 +5915,17 @@
       "video_uk_fallback_locale": "en",
       "video_match_verified": false,
       "video_short_format_verified": true,
-      "video_verification_basis": "YouTube Show transcript 0:01–0:33; native metadata duration 40 s"
+      "video_verification_basis": "YouTube Show transcript 0:01–0:33; native metadata duration 40 s",
+      "search_aliases": [
+        "Відведення коліна у квадрупеді",
+        "Fire hydrant"
+      ]
     },
     {
       "id": "TR-EX-0058",
       "priority": "Основна",
       "category": "Сідниці та відведення стегна",
-      "name_uk": "Махи ногою назад у квадрупеді",
+      "name_uk": "Мах ногою назад стоячи навкарачки (донкі-кік)",
       "name_en": "Donkey kick",
       "short_description": "На чотирьох опорах розгинай стегно, не прогинаючи поперек.",
       "exercise_type": "Силова",
@@ -5811,7 +6007,11 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Махи ногою назад у квадрупеді",
+        "Donkey kick"
+      ]
     },
     {
       "id": "TR-EX-0059",
@@ -5899,7 +6099,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Cable glute kickback"
+      ]
     },
     {
       "id": "TR-EX-0060",
@@ -5996,7 +6199,10 @@
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
       "video_uk_fallback_locale": "en",
-      "video_verification_basis": "YouTube Show transcript with timestamps; native watch-page duration metadata"
+      "video_verification_basis": "YouTube Show transcript with timestamps; native watch-page duration metadata",
+      "search_aliases": [
+        "Machine glute kickback"
+      ]
     },
     {
       "id": "TR-EX-0061",
@@ -6092,13 +6298,16 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Banded glute kickback"
+      ]
     },
     {
       "id": "TR-EX-0062",
       "priority": "Основна",
       "category": "Сідниці та відведення стегна",
-      "name_uk": "Пул-тру через блок",
+      "name_uk": "Тяга каната між ногами (пул-тру)",
       "name_en": "Cable pull through",
       "short_description": "Відводь таз назад із канатом між ногами й розгинай стегна вперед.",
       "exercise_type": "Силова",
@@ -6194,7 +6403,11 @@
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
       "video_uk_fallback_locale": "en",
-      "video_verification_basis": "YouTube Show transcript with timestamps; native watch-page duration metadata"
+      "video_verification_basis": "YouTube Show transcript with timestamps; native watch-page duration metadata",
+      "search_aliases": [
+        "Пул-тру через блок",
+        "Cable pull through"
+      ]
     },
     {
       "id": "TR-EX-0063",
@@ -6311,7 +6524,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Reverse hyperextension"
+      ]
     },
     {
       "id": "TR-EX-0064",
@@ -6400,7 +6616,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Glute biased back extension"
+      ]
     },
     {
       "id": "TR-EX-0065",
@@ -6534,7 +6753,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Stability ball glute bridge"
+      ]
     },
     {
       "id": "TR-EX-0066",
@@ -6652,7 +6874,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Banded hip thrust"
+      ]
     },
     {
       "id": "TR-EX-0067",
@@ -6749,7 +6974,10 @@
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
       "video_uk_fallback_locale": "en",
-      "video_verification_basis": "YouTube Show transcript with timestamps; native watch-page duration metadata"
+      "video_verification_basis": "YouTube Show transcript with timestamps; native watch-page duration metadata",
+      "search_aliases": [
+        "Standing hip abduction machine"
+      ]
     },
     {
       "id": "TR-EX-0068",
@@ -6837,7 +7065,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Seated hip adduction machine"
+      ]
     },
     {
       "id": "TR-EX-0069",
@@ -6938,7 +7169,10 @@
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
       "video_uk_fallback_locale": "en",
-      "video_verification_basis": "YouTube Show transcript with timestamps; native watch-page duration metadata"
+      "video_verification_basis": "YouTube Show transcript with timestamps; native watch-page duration metadata",
+      "search_aliases": [
+        "Standing cable hip adduction"
+      ]
     },
     {
       "id": "TR-EX-0070",
@@ -7039,7 +7273,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Side plank hip abduction"
+      ]
     },
     {
       "id": "TR-EX-0071",
@@ -7128,7 +7365,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Barbell Romanian deadlift"
+      ]
     },
     {
       "id": "TR-EX-0072",
@@ -7217,7 +7457,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Dumbbell Romanian deadlift"
+      ]
     },
     {
       "id": "TR-EX-0073",
@@ -7318,7 +7561,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Smith machine Romanian deadlift"
+      ]
     },
     {
       "id": "TR-EX-0074",
@@ -7407,7 +7653,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Single leg Romanian deadlift"
+      ]
     },
     {
       "id": "TR-EX-0075",
@@ -7504,7 +7753,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Stiff leg deadlift"
+      ]
     },
     {
       "id": "TR-EX-0076",
@@ -7593,7 +7845,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Conventional barbell deadlift"
+      ]
     },
     {
       "id": "TR-EX-0077",
@@ -7682,7 +7937,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Sumo deadlift"
+      ]
     },
     {
       "id": "TR-EX-0078",
@@ -7771,7 +8029,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Trap bar deadlift"
+      ]
     },
     {
       "id": "TR-EX-0079",
@@ -7868,7 +8129,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Dumbbell deadlift"
+      ]
     },
     {
       "id": "TR-EX-0080",
@@ -7957,13 +8221,16 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Kettlebell deadlift"
+      ]
     },
     {
       "id": "TR-EX-0081",
       "priority": "Основна",
       "category": "Задня поверхня стегна та тягові рухи ніг",
-      "name_uk": "Гудморнінг зі штангою",
+      "name_uk": "Нахили зі штангою на плечах (гудморнінг)",
       "name_en": "Barbell good morning",
       "short_description": "Із грифом на спині відводь таз назад і нахиляй корпус із нейтральною спиною.",
       "exercise_type": "Силова",
@@ -8046,7 +8313,12 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Гудморнінг зі штангою",
+        "Barbell good morning",
+        "гуд морнінг"
+      ]
     },
     {
       "id": "TR-EX-0082",
@@ -8134,7 +8406,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Lying leg curl"
+      ]
     },
     {
       "id": "TR-EX-0083",
@@ -8222,7 +8497,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Seated leg curl"
+      ]
     },
     {
       "id": "TR-EX-0084",
@@ -8319,7 +8597,10 @@
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
       "video_uk_fallback_locale": "en",
-      "video_verification_basis": "YouTube Show transcript with timestamps; native watch-page duration metadata"
+      "video_verification_basis": "YouTube Show transcript with timestamps; native watch-page duration metadata",
+      "search_aliases": [
+        "Standing leg curl"
+      ]
     },
     {
       "id": "TR-EX-0085",
@@ -8416,7 +8697,10 @@
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
       "video_uk_fallback_locale": "en",
-      "video_verification_basis": "YouTube Show transcript with timestamps; native watch-page duration metadata"
+      "video_verification_basis": "YouTube Show transcript with timestamps; native watch-page duration metadata",
+      "search_aliases": [
+        "Single leg lying leg curl"
+      ]
     },
     {
       "id": "TR-EX-0086",
@@ -8504,7 +8788,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Stability ball hamstring curl"
+      ]
     },
     {
       "id": "TR-EX-0087",
@@ -8592,7 +8879,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Slider leg curl"
+      ]
     },
     {
       "id": "TR-EX-0088",
@@ -8740,13 +9030,16 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Nordic hamstring curl"
+      ]
     },
     {
       "id": "TR-EX-0089",
       "priority": "Основна",
       "category": "Задня поверхня стегна та тягові рухи ніг",
-      "name_uk": "Глют-хем рейз",
+      "name_uk": "Підйом корпусу на GHD (глют-хем рейз)",
       "name_en": "Glute ham raise",
       "short_description": "Із фіксованими ногами піднімай і опускай корпус у тренажері GHD.",
       "exercise_type": "Силова",
@@ -8828,7 +9121,11 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Глют-хем рейз",
+        "Glute ham raise"
+      ]
     },
     {
       "id": "TR-EX-0090",
@@ -8957,7 +9254,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Single leg heel elevated bridge"
+      ]
     },
     {
       "id": "TR-EX-0091",
@@ -9046,7 +9346,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Kettlebell swing"
+      ]
     },
     {
       "id": "TR-EX-0092",
@@ -9159,7 +9462,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Block pull"
+      ]
     },
     {
       "id": "TR-EX-0093",
@@ -9248,7 +9554,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Pull-up pronated"
+      ]
     },
     {
       "id": "TR-EX-0094",
@@ -9337,7 +9646,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Chin-up supinated"
+      ]
     },
     {
       "id": "TR-EX-0095",
@@ -9452,7 +9764,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Neutral grip pull-up"
+      ]
     },
     {
       "id": "TR-EX-0096",
@@ -9541,7 +9856,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Band assisted pull-up"
+      ]
     },
     {
       "id": "TR-EX-0097",
@@ -9630,7 +9948,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Assisted pull-up machine"
+      ]
     },
     {
       "id": "TR-EX-0098",
@@ -9719,7 +10040,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Wide grip lat pulldown"
+      ]
     },
     {
       "id": "TR-EX-0099",
@@ -9821,7 +10145,10 @@
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
       "video_uk_fallback_locale": "en",
-      "video_verification_basis": "YouTube Show transcript with timestamps; native watch-page duration metadata"
+      "video_verification_basis": "YouTube Show transcript with timestamps; native watch-page duration metadata",
+      "search_aliases": [
+        "Neutral grip lat pulldown"
+      ]
     },
     {
       "id": "TR-EX-0100",
@@ -9922,7 +10249,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Supinated lat pulldown"
+      ]
     },
     {
       "id": "TR-EX-0101",
@@ -10035,7 +10365,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Single arm lat pulldown"
+      ]
     },
     {
       "id": "TR-EX-0102",
@@ -10124,7 +10457,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Close grip lat pulldown"
+      ]
     },
     {
       "id": "TR-EX-0103",
@@ -10216,7 +10552,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Straight arm pulldown"
+      ]
     },
     {
       "id": "TR-EX-0104",
@@ -10305,13 +10644,16 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Bent over barbell row"
+      ]
     },
     {
       "id": "TR-EX-0105",
       "priority": "Основна",
       "category": "Спина та вертикальні/горизонтальні тяги",
-      "name_uk": "Тяга штанги з підлоги Пендлея",
+      "name_uk": "Тяга штанги Пендлея",
       "name_en": "Pendlay row",
       "short_description": "Підтягуй штангу до нижньої частини грудей із горизонтального нахилу й повертай на підлогу.",
       "exercise_type": "Силова",
@@ -10394,7 +10736,11 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Тяга штанги з підлоги Пендлея",
+        "Pendlay row"
+      ]
     },
     {
       "id": "TR-EX-0106",
@@ -10483,7 +10829,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "One arm dumbbell row"
+      ]
     },
     {
       "id": "TR-EX-0107",
@@ -10572,7 +10921,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Bent over dumbbell row"
+      ]
     },
     {
       "id": "TR-EX-0108",
@@ -10661,7 +11013,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Chest supported dumbbell row"
+      ]
     },
     {
       "id": "TR-EX-0109",
@@ -10762,7 +11117,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Seated close grip cable row"
+      ]
     },
     {
       "id": "TR-EX-0110",
@@ -10871,7 +11229,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Seated wide grip cable row"
+      ]
     },
     {
       "id": "TR-EX-0111",
@@ -11008,7 +11369,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Single arm seated cable row"
+      ]
     },
     {
       "id": "TR-EX-0112",
@@ -11097,7 +11461,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Seated machine row"
+      ]
     },
     {
       "id": "TR-EX-0113",
@@ -11190,7 +11557,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Chest supported machine row"
+      ]
     },
     {
       "id": "TR-EX-0114",
@@ -11279,7 +11649,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "T bar row"
+      ]
     },
     {
       "id": "TR-EX-0115",
@@ -11376,7 +11749,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Chest supported T bar row"
+      ]
     },
     {
       "id": "TR-EX-0116",
@@ -11465,7 +11841,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Smith machine row"
+      ]
     },
     {
       "id": "TR-EX-0117",
@@ -11584,7 +11963,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Inverted row"
+      ]
     },
     {
       "id": "TR-EX-0118",
@@ -11681,7 +12063,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "TRX row"
+      ]
     },
     {
       "id": "TR-EX-0119",
@@ -11778,7 +12163,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Seated band row"
+      ]
     },
     {
       "id": "TR-EX-0120",
@@ -11871,7 +12259,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Single arm kettlebell row"
+      ]
     },
     {
       "id": "TR-EX-0121",
@@ -11960,7 +12351,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Wide elbow dumbbell row"
+      ]
     },
     {
       "id": "TR-EX-0122",
@@ -12048,7 +12442,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Dumbbell shrug"
+      ]
     },
     {
       "id": "TR-EX-0123",
@@ -12148,13 +12545,16 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Barbell shrug"
+      ]
     },
     {
       "id": "TR-EX-0124",
       "priority": "Основна",
       "category": "Спина та вертикальні/горизонтальні тяги",
-      "name_uk": "Тяга каната до обличчя",
+      "name_uk": "Тяга каната до обличчя (фейс-пул)",
       "name_en": "Face pull",
       "short_description": "Тягни канат до рівня обличчя з розведенням рук і контролем лопаток.",
       "exercise_type": "Силова",
@@ -12302,7 +12702,11 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Тяга каната до обличчя",
+        "Face pull"
+      ]
     },
     {
       "id": "TR-EX-0125",
@@ -12421,7 +12825,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Scapular pull-up"
+      ]
     },
     {
       "id": "TR-EX-0126",
@@ -12509,7 +12916,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Back extension"
+      ]
     },
     {
       "id": "TR-EX-0127",
@@ -12606,7 +13016,10 @@
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
       "video_uk_fallback_locale": "en",
-      "video_verification_basis": "YouTube Show transcript with timestamps; native watch-page duration metadata"
+      "video_verification_basis": "YouTube Show transcript with timestamps; native watch-page duration metadata",
+      "search_aliases": [
+        "Superman raise"
+      ]
     },
     {
       "id": "TR-EX-0128",
@@ -12694,7 +13107,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Dumbbell pullover"
+      ]
     },
     {
       "id": "TR-EX-0129",
@@ -12785,7 +13201,10 @@
       "video_uk_fallback_locale": "en",
       "video_short_format_verified": true,
       "video_match_verified": true,
-      "video_verification_basis": "YouTube Show transcript 0:07–0:29; player and native metadata 43 s"
+      "video_verification_basis": "YouTube Show transcript 0:07–0:29; player and native metadata 43 s",
+      "search_aliases": [
+        "Machine pullover"
+      ]
     },
     {
       "id": "TR-EX-0130",
@@ -12874,7 +13293,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Standing rope row"
+      ]
     },
     {
       "id": "TR-EX-0131",
@@ -12963,7 +13385,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Barbell bench press"
+      ]
     },
     {
       "id": "TR-EX-0132",
@@ -13052,7 +13477,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Incline barbell bench press"
+      ]
     },
     {
       "id": "TR-EX-0133",
@@ -13144,7 +13572,10 @@
       "video_uk_fallback_locale": "en",
       "video_short_format_verified": true,
       "video_match_verified": true,
-      "video_verification_basis": "YouTube Show transcript with timestamps; player/native duration metadata"
+      "video_verification_basis": "YouTube Show transcript with timestamps; player/native duration metadata",
+      "search_aliases": [
+        "Decline barbell bench press"
+      ]
     },
     {
       "id": "TR-EX-0134",
@@ -13233,7 +13664,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Close grip bench press"
+      ]
     },
     {
       "id": "TR-EX-0135",
@@ -13322,7 +13756,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Dumbbell bench press"
+      ]
     },
     {
       "id": "TR-EX-0136",
@@ -13411,7 +13848,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Incline dumbbell press"
+      ]
     },
     {
       "id": "TR-EX-0137",
@@ -13500,7 +13940,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Decline dumbbell press"
+      ]
     },
     {
       "id": "TR-EX-0138",
@@ -13589,7 +14032,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Dumbbell floor press"
+      ]
     },
     {
       "id": "TR-EX-0139",
@@ -13678,7 +14124,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Barbell floor press"
+      ]
     },
     {
       "id": "TR-EX-0140",
@@ -13767,7 +14216,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Smith machine bench press"
+      ]
     },
     {
       "id": "TR-EX-0141",
@@ -13868,7 +14320,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Smith machine incline bench press"
+      ]
     },
     {
       "id": "TR-EX-0142",
@@ -13957,7 +14412,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Machine chest press"
+      ]
     },
     {
       "id": "TR-EX-0143",
@@ -14068,7 +14526,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Single arm machine chest press"
+      ]
     },
     {
       "id": "TR-EX-0144",
@@ -14157,7 +14618,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Push-up"
+      ]
     },
     {
       "id": "TR-EX-0145",
@@ -14255,7 +14719,10 @@
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
       "video_uk_fallback_locale": "en",
-      "video_verification_basis": "YouTube Show transcript with timestamps; player/native duration metadata"
+      "video_verification_basis": "YouTube Show transcript with timestamps; player/native duration metadata",
+      "search_aliases": [
+        "Knee push-up"
+      ]
     },
     {
       "id": "TR-EX-0146",
@@ -14344,7 +14811,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Incline push-up"
+      ]
     },
     {
       "id": "TR-EX-0147",
@@ -14433,7 +14903,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Decline push-up"
+      ]
     },
     {
       "id": "TR-EX-0148",
@@ -14535,7 +15008,10 @@
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
       "video_uk_fallback_locale": "en",
-      "video_verification_basis": "YouTube Show transcript with timestamps; player/native duration metadata"
+      "video_verification_basis": "YouTube Show transcript with timestamps; player/native duration metadata",
+      "search_aliases": [
+        "Close grip push-up"
+      ]
     },
     {
       "id": "TR-EX-0149",
@@ -14624,7 +15100,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Parallel bar dip"
+      ]
     },
     {
       "id": "TR-EX-0150",
@@ -14717,7 +15196,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Assisted dip machine"
+      ]
     },
     {
       "id": "TR-EX-0151",
@@ -14805,7 +15287,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Dumbbell chest fly"
+      ]
     },
     {
       "id": "TR-EX-0152",
@@ -14905,7 +15390,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Incline dumbbell fly"
+      ]
     },
     {
       "id": "TR-EX-0153",
@@ -14993,7 +15481,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "High to low cable fly"
+      ]
     },
     {
       "id": "TR-EX-0154",
@@ -15094,7 +15585,10 @@
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
       "video_uk_fallback_locale": "en",
-      "video_verification_basis": "YouTube Show transcript with timestamps; player/native duration metadata"
+      "video_verification_basis": "YouTube Show transcript with timestamps; player/native duration metadata",
+      "search_aliases": [
+        "Low to high cable fly"
+      ]
     },
     {
       "id": "TR-EX-0155",
@@ -15182,13 +15676,16 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Mid cable chest fly"
+      ]
     },
     {
       "id": "TR-EX-0156",
       "priority": "Розширення",
       "category": "Груди та жимові рухи",
-      "name_uk": "Зведення рук у тренажері пек-дек",
+      "name_uk": "Зведення рук у тренажері (пек-дек)",
       "name_en": "Pec deck",
       "short_description": "Зводь руків'я грудного тренажера перед собою без відриву спини.",
       "exercise_type": "Силова",
@@ -15270,7 +15767,15 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Зведення рук у тренажері пек-дек",
+        "Pec deck",
+        "пек дек",
+        "пек-дек",
+        "метелик",
+        "бабочка"
+      ]
     },
     {
       "id": "TR-EX-0157",
@@ -15367,7 +15872,10 @@
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
       "video_uk_fallback_locale": "en",
-      "video_verification_basis": "YouTube Show transcript with timestamps; player/native duration metadata"
+      "video_verification_basis": "YouTube Show transcript with timestamps; player/native duration metadata",
+      "search_aliases": [
+        "Band chest fly"
+      ]
     },
     {
       "id": "TR-EX-0158",
@@ -15456,7 +15964,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Single arm dumbbell chest press"
+      ]
     },
     {
       "id": "TR-EX-0159",
@@ -15545,7 +16056,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Standing cable chest press"
+      ]
     },
     {
       "id": "TR-EX-0160",
@@ -15634,7 +16148,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Clap push-up"
+      ]
     },
     {
       "id": "TR-EX-0161",
@@ -15723,7 +16240,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Seated dumbbell shoulder press"
+      ]
     },
     {
       "id": "TR-EX-0162",
@@ -15825,13 +16345,16 @@
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
       "video_uk_fallback_locale": "en",
-      "video_verification_basis": "YouTube Show transcript with timestamps; player/native duration metadata"
+      "video_verification_basis": "YouTube Show transcript with timestamps; player/native duration metadata",
+      "search_aliases": [
+        "Standing dumbbell shoulder press"
+      ]
     },
     {
       "id": "TR-EX-0163",
       "priority": "Основна",
       "category": "Плечі та лопатки",
-      "name_uk": "Арнольд-прес",
+      "name_uk": "Жим Арнольда",
       "name_en": "Arnold press",
       "short_description": "Жми гантелі з поступовим розворотом передпліч під час підйому.",
       "exercise_type": "Силова",
@@ -15914,7 +16437,11 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Арнольд-прес",
+        "Arnold press"
+      ]
     },
     {
       "id": "TR-EX-0164",
@@ -16003,7 +16530,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Standing barbell overhead press"
+      ]
     },
     {
       "id": "TR-EX-0165",
@@ -16099,7 +16629,10 @@
       "video_uk_fallback_locale": "en",
       "video_short_format_verified": true,
       "video_match_verified": true,
-      "video_verification_basis": "YouTube Show transcript with timestamps; player/native duration metadata"
+      "video_verification_basis": "YouTube Show transcript with timestamps; player/native duration metadata",
+      "search_aliases": [
+        "Seated barbell shoulder press"
+      ]
     },
     {
       "id": "TR-EX-0166",
@@ -16188,7 +16721,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Machine shoulder press"
+      ]
     },
     {
       "id": "TR-EX-0167",
@@ -16289,7 +16825,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Single arm kettlebell press"
+      ]
     },
     {
       "id": "TR-EX-0168",
@@ -16382,7 +16921,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Single arm landmine press"
+      ]
     },
     {
       "id": "TR-EX-0169",
@@ -16471,7 +17013,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Two arm landmine press"
+      ]
     },
     {
       "id": "TR-EX-0170",
@@ -16559,7 +17104,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Dumbbell lateral raise"
+      ]
     },
     {
       "id": "TR-EX-0171",
@@ -16693,7 +17241,10 @@
       "candidate_video_reason": "Show transcript 0:18–0:33 додає специфічну техніку: мізинець вище великого пальця, pouring out a glass of water. Каталог описує базовий підйом однієї гантелі вбік без такого повороту. Потрібна перевірка відповідності саме базовій варіації; не схвалено автоматично. Це примітка щодо варіації, а не висновок про безпеку вправи.",
       "candidate_video_status": "Потребує перевірки додаткового повороту кисті",
       "video_match_verified": false,
-      "video_short_format_verified": true
+      "video_short_format_verified": true,
+      "search_aliases": [
+        "Single arm dumbbell lateral raise"
+      ]
     },
     {
       "id": "TR-EX-0172",
@@ -16781,7 +17332,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Cable lateral raise"
+      ]
     },
     {
       "id": "TR-EX-0173",
@@ -16869,7 +17423,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Machine lateral raise"
+      ]
     },
     {
       "id": "TR-EX-0174",
@@ -16957,7 +17514,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Dumbbell front raise"
+      ]
     },
     {
       "id": "TR-EX-0175",
@@ -17049,7 +17609,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Plate front raise"
+      ]
     },
     {
       "id": "TR-EX-0176",
@@ -17149,13 +17712,16 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Bent over reverse fly"
+      ]
     },
     {
       "id": "TR-EX-0177",
       "priority": "Основна",
       "category": "Плечі та лопатки",
-      "name_uk": "Розведення рук назад у тренажері пек-дек",
+      "name_uk": "Розведення рук назад у тренажері (зворотний пек-дек)",
       "name_en": "Reverse pec deck",
       "short_description": "Розводь руків'я тренажера назад, утримуючи груди на опорі.",
       "exercise_type": "Силова",
@@ -17237,7 +17803,13 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Розведення рук назад у тренажері пек-дек",
+        "Reverse pec deck",
+        "зворотний пек дек",
+        "розведення на задню дельту"
+      ]
     },
     {
       "id": "TR-EX-0178",
@@ -17325,7 +17897,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Cable rear delt fly"
+      ]
     },
     {
       "id": "TR-EX-0179",
@@ -17413,7 +17988,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Face pull external rotation"
+      ]
     },
     {
       "id": "TR-EX-0180",
@@ -17502,7 +18080,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Upright barbell row"
+      ]
     },
     {
       "id": "TR-EX-0181",
@@ -17591,7 +18172,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Dumbbell upright row"
+      ]
     },
     {
       "id": "TR-EX-0182",
@@ -17689,7 +18273,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Prone Y raise"
+      ]
     },
     {
       "id": "TR-EX-0183",
@@ -17787,7 +18374,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Prone T raise"
+      ]
     },
     {
       "id": "TR-EX-0184",
@@ -17884,7 +18474,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Band pull apart"
+      ]
     },
     {
       "id": "TR-EX-0185",
@@ -17984,7 +18577,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Band shoulder external rotation"
+      ]
     },
     {
       "id": "TR-EX-0186",
@@ -18081,7 +18677,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Band shoulder internal rotation"
+      ]
     },
     {
       "id": "TR-EX-0187",
@@ -18174,13 +18773,16 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Cable shoulder external rotation"
+      ]
     },
     {
       "id": "TR-EX-0188",
       "priority": "Розширення",
       "category": "Плечі та лопатки",
-      "name_uk": "Пайк-віджимання",
+      "name_uk": "Віджимання з піднятим тазом (пайк-віджимання)",
       "name_en": "Pike push-up",
       "short_description": "Із положення таза високо опускай голову між долонями й відтискайся.",
       "exercise_type": "Силова",
@@ -18299,7 +18901,11 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Пайк-віджимання",
+        "Pike push-up"
+      ]
     },
     {
       "id": "TR-EX-0189",
@@ -18388,7 +18994,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Handstand push-up"
+      ]
     },
     {
       "id": "TR-EX-0190",
@@ -18476,7 +19085,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Kettlebell shrug"
+      ]
     },
     {
       "id": "TR-EX-0191",
@@ -18564,7 +19176,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Barbell biceps curl"
+      ]
     },
     {
       "id": "TR-EX-0192",
@@ -18652,7 +19267,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "EZ bar curl"
+      ]
     },
     {
       "id": "TR-EX-0193",
@@ -18749,7 +19367,10 @@
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
       "video_uk_fallback_locale": "en",
-      "video_verification_basis": "YouTube Show transcript with timestamps; player/native duration metadata"
+      "video_verification_basis": "YouTube Show transcript with timestamps; player/native duration metadata",
+      "search_aliases": [
+        "Standing dumbbell curl"
+      ]
     },
     {
       "id": "TR-EX-0194",
@@ -18846,7 +19467,10 @@
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
       "video_uk_fallback_locale": "en",
-      "video_verification_basis": "YouTube Show transcript with timestamps; player/native duration metadata"
+      "video_verification_basis": "YouTube Show transcript with timestamps; player/native duration metadata",
+      "search_aliases": [
+        "Seated dumbbell curl"
+      ]
     },
     {
       "id": "TR-EX-0195",
@@ -18935,7 +19559,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Hammer curl"
+      ]
     },
     {
       "id": "TR-EX-0196",
@@ -19023,7 +19650,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Preacher curl"
+      ]
     },
     {
       "id": "TR-EX-0197",
@@ -19115,7 +19745,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Single arm preacher curl"
+      ]
     },
     {
       "id": "TR-EX-0198",
@@ -19206,7 +19839,10 @@
       "video_uk_fallback_locale": "en",
       "video_short_format_verified": true,
       "video_match_verified": true,
-      "video_verification_basis": "YouTube Show transcript with timestamps; player/native duration metadata"
+      "video_verification_basis": "YouTube Show transcript with timestamps; player/native duration metadata",
+      "search_aliases": [
+        "Concentration curl"
+      ]
     },
     {
       "id": "TR-EX-0199",
@@ -19294,7 +19930,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Incline dumbbell curl"
+      ]
     },
     {
       "id": "TR-EX-0200",
@@ -19391,7 +20030,10 @@
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
       "video_uk_fallback_locale": "en",
-      "video_verification_basis": "YouTube Show transcript with timestamps; player/native duration metadata"
+      "video_verification_basis": "YouTube Show transcript with timestamps; player/native duration metadata",
+      "search_aliases": [
+        "Cable biceps curl"
+      ]
     },
     {
       "id": "TR-EX-0201",
@@ -19480,7 +20122,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Rope cable hammer curl"
+      ]
     },
     {
       "id": "TR-EX-0202",
@@ -19576,13 +20221,16 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Machine biceps curl"
+      ]
     },
     {
       "id": "TR-EX-0203",
       "priority": "Основна",
       "category": "Біцепс і передпліччя",
-      "name_uk": "Згинання однієї руки за корпусом на блоці",
+      "name_uk": "Згинання руки на блоці за корпусом (згинання Байєса)",
       "name_en": "Bayesian cable curl",
       "short_description": "Згинай руку з тросом позаду корпуса, залишаючи плече стабільним.",
       "exercise_type": "Силова",
@@ -19672,7 +20320,11 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Згинання однієї руки за корпусом на блоці",
+        "Bayesian cable curl"
+      ]
     },
     {
       "id": "TR-EX-0204",
@@ -19760,7 +20412,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "High cable biceps curl"
+      ]
     },
     {
       "id": "TR-EX-0205",
@@ -19849,7 +20504,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Reverse barbell curl"
+      ]
     },
     {
       "id": "TR-EX-0206",
@@ -19949,7 +20607,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Barbell wrist curl"
+      ]
     },
     {
       "id": "TR-EX-0207",
@@ -20045,7 +20706,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Dumbbell reverse wrist curl"
+      ]
     },
     {
       "id": "TR-EX-0208",
@@ -20137,7 +20801,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Wrist roller"
+      ]
     },
     {
       "id": "TR-EX-0209",
@@ -20225,7 +20892,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Plate pinch hold"
+      ]
     },
     {
       "id": "TR-EX-0210",
@@ -20313,7 +20983,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Dead hang"
+      ]
     },
     {
       "id": "TR-EX-0211",
@@ -20401,7 +21074,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Rope triceps pushdown"
+      ]
     },
     {
       "id": "TR-EX-0212",
@@ -20489,7 +21165,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Bar triceps pushdown"
+      ]
     },
     {
       "id": "TR-EX-0213",
@@ -20585,7 +21264,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Single arm cable triceps extension"
+      ]
     },
     {
       "id": "TR-EX-0214",
@@ -20673,7 +21355,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Overhead rope triceps extension"
+      ]
     },
     {
       "id": "TR-EX-0215",
@@ -20761,7 +21446,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Single arm overhead triceps extension"
+      ]
     },
     {
       "id": "TR-EX-0216",
@@ -20849,7 +21537,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "EZ bar skull crusher"
+      ]
     },
     {
       "id": "TR-EX-0217",
@@ -20937,7 +21628,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Dumbbell skull crusher"
+      ]
     },
     {
       "id": "TR-EX-0218",
@@ -21033,7 +21727,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Seated overhead triceps extension"
+      ]
     },
     {
       "id": "TR-EX-0219",
@@ -21129,13 +21826,16 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Machine triceps extension"
+      ]
     },
     {
       "id": "TR-EX-0220",
       "priority": "Основна",
       "category": "Трицепс",
-      "name_uk": "Кікбек із гантеллю",
+      "name_uk": "Розгинання руки з гантеллю в нахилі (кікбек)",
       "name_en": "Dumbbell triceps kickback",
       "short_description": "У нахилі розгинай лікоть назад, не рухаючи плечовою кісткою.",
       "exercise_type": "Силова",
@@ -21217,13 +21917,17 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Кікбек із гантеллю",
+        "Dumbbell triceps kickback"
+      ]
     },
     {
       "id": "TR-EX-0221",
       "priority": "Основна",
       "category": "Трицепс",
-      "name_uk": "Кікбек на кросовері",
+      "name_uk": "Розгинання руки в кросовері назад (кікбек)",
       "name_en": "Cable triceps kickback",
       "short_description": "Розгинай лікоть назад проти тяги блока, утримуючи плече нерухомим.",
       "exercise_type": "Силова",
@@ -21305,7 +22009,11 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Кікбек на кросовері",
+        "Cable triceps kickback"
+      ]
     },
     {
       "id": "TR-EX-0222",
@@ -21394,7 +22102,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Diamond push-up"
+      ]
     },
     {
       "id": "TR-EX-0223",
@@ -21483,7 +22194,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Bench dip"
+      ]
     },
     {
       "id": "TR-EX-0224",
@@ -21572,7 +22286,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Triceps focused dip"
+      ]
     },
     {
       "id": "TR-EX-0225",
@@ -21661,7 +22378,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Smith machine close grip press"
+      ]
     },
     {
       "id": "TR-EX-0226",
@@ -21749,7 +22469,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Band triceps pushdown"
+      ]
     },
     {
       "id": "TR-EX-0227",
@@ -21837,7 +22560,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Forearm plank"
+      ]
     },
     {
       "id": "TR-EX-0228",
@@ -21925,7 +22651,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "High plank"
+      ]
     },
     {
       "id": "TR-EX-0229",
@@ -22013,7 +22742,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Side plank"
+      ]
     },
     {
       "id": "TR-EX-0230",
@@ -22105,7 +22837,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Kneeling side plank"
+      ]
     },
     {
       "id": "TR-EX-0231",
@@ -22193,7 +22928,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Plank shoulder taps"
+      ]
     },
     {
       "id": "TR-EX-0232",
@@ -22303,7 +23041,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Plank leg raise"
+      ]
     },
     {
       "id": "TR-EX-0233",
@@ -22391,7 +23132,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Plank up-down"
+      ]
     },
     {
       "id": "TR-EX-0234",
@@ -22479,7 +23223,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Crunch"
+      ]
     },
     {
       "id": "TR-EX-0235",
@@ -22567,7 +23314,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Reverse crunch"
+      ]
     },
     {
       "id": "TR-EX-0236",
@@ -22655,7 +23405,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Bicycle crunch"
+      ]
     },
     {
       "id": "TR-EX-0237",
@@ -22761,7 +23514,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Lying leg raise"
+      ]
     },
     {
       "id": "TR-EX-0238",
@@ -22849,7 +23605,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Hanging knee raise"
+      ]
     },
     {
       "id": "TR-EX-0239",
@@ -22945,7 +23704,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Hanging leg raise"
+      ]
     },
     {
       "id": "TR-EX-0240",
@@ -23041,7 +23803,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Captain chair knee raise"
+      ]
     },
     {
       "id": "TR-EX-0241",
@@ -23137,7 +23902,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Captain chair leg raise"
+      ]
     },
     {
       "id": "TR-EX-0242",
@@ -23237,7 +24005,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Cable crunch"
+      ]
     },
     {
       "id": "TR-EX-0243",
@@ -23337,13 +24108,16 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Machine crunch"
+      ]
     },
     {
       "id": "TR-EX-0244",
       "priority": "Основна",
       "category": "Кор та м'язи живота",
-      "name_uk": "Дед-баг",
+      "name_uk": "Почергове опускання руки й ноги лежачи (дед-баг)",
       "name_en": "Dead bug",
       "short_description": "По черзі опускай протилежні руку й ногу, утримуючи таз стабільним.",
       "exercise_type": "Силова",
@@ -23425,13 +24199,18 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Дед-баг",
+        "Dead bug",
+        "дед баг"
+      ]
     },
     {
       "id": "TR-EX-0245",
       "priority": "Основна",
       "category": "Кор та м'язи живота",
-      "name_uk": "Берд-дог",
+      "name_uk": "Почергове витягування руки й ноги навкарачки (берд-дог)",
       "name_en": "Bird dog",
       "short_description": "Витягуй протилежні руку й ногу з позиції навкарачки без повороту таза.",
       "exercise_type": "Силова",
@@ -23513,13 +24292,18 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Берд-дог",
+        "Bird dog",
+        "берд дог"
+      ]
     },
     {
       "id": "TR-EX-0246",
       "priority": "Основна",
       "category": "Кор та м'язи живота",
-      "name_uk": "Паллоф-прес",
+      "name_uk": "Утримання рук перед собою з опором блока (Паллоф-прес)",
       "name_en": "Pallof press",
       "short_description": "Виштовхуй руків'я вперед, протидіючи повороту корпуса.",
       "exercise_type": "Силова",
@@ -23601,13 +24385,19 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Паллоф-прес",
+        "Pallof press",
+        "палоф прес",
+        "паллоф прес"
+      ]
     },
     {
       "id": "TR-EX-0247",
       "priority": "Основна",
       "category": "Кор та м'язи живота",
-      "name_uk": "Паллоф-прес із еспандером",
+      "name_uk": "Утримання рук перед собою з еспандером (Паллоф-прес)",
       "name_en": "Band Pallof press",
       "short_description": "Випрямляй руки перед собою, протидіючи боковій тязі стрічки.",
       "exercise_type": "Силова",
@@ -23693,7 +24483,12 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Паллоф-прес із еспандером",
+        "Band Pallof press",
+        "палоф прес з гумою"
+      ]
     },
     {
       "id": "TR-EX-0248",
@@ -23803,7 +24598,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Russian twist"
+      ]
     },
     {
       "id": "TR-EX-0249",
@@ -23899,7 +24697,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "High to low cable wood chop"
+      ]
     },
     {
       "id": "TR-EX-0250",
@@ -23995,7 +24796,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Low to high cable wood chop"
+      ]
     },
     {
       "id": "TR-EX-0251",
@@ -24083,7 +24887,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Kneeling ab wheel rollout"
+      ]
     },
     {
       "id": "TR-EX-0252",
@@ -24179,13 +24986,16 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Barbell rollout"
+      ]
     },
     {
       "id": "TR-EX-0253",
       "priority": "Основна",
       "category": "Кор та м'язи живота",
-      "name_uk": "Холоу-холд",
+      "name_uk": "Утримання положення човника на спині (холоу-холд)",
       "name_en": "Hollow body hold",
       "short_description": "Утримуй округлене положення корпуса з відірваними від підлоги кінцівками.",
       "exercise_type": "Силова",
@@ -24279,13 +25089,17 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Холоу-холд",
+        "Hollow body hold"
+      ]
     },
     {
       "id": "TR-EX-0254",
       "priority": "Основна",
       "category": "Кор та м'язи живота",
-      "name_uk": "Холоу-рок",
+      "name_uk": "Погойдування в положенні човника (холоу-рок)",
       "name_en": "Hollow rock",
       "short_description": "Розгойдуйся невеликими рухами, утримуючи форму hollow body.",
       "exercise_type": "Силова",
@@ -24389,7 +25203,11 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Холоу-рок",
+        "Hollow rock"
+      ]
     },
     {
       "id": "TR-EX-0255",
@@ -24477,7 +25295,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "L sit on parallettes"
+      ]
     },
     {
       "id": "TR-EX-0256",
@@ -24565,7 +25386,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Dumbbell farmer carry"
+      ]
     },
     {
       "id": "TR-EX-0257",
@@ -24653,7 +25477,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Suitcase carry"
+      ]
     },
     {
       "id": "TR-EX-0258",
@@ -24742,7 +25569,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Copenhagen plank"
+      ]
     },
     {
       "id": "TR-EX-0259",
@@ -24830,7 +25660,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Dumbbell side bend"
+      ]
     },
     {
       "id": "TR-EX-0260",
@@ -24918,7 +25751,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Bench reverse crunch"
+      ]
     },
     {
       "id": "TR-EX-0261",
@@ -25006,7 +25842,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Standing calf raise"
+      ]
     },
     {
       "id": "TR-EX-0262",
@@ -25094,7 +25933,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Dumbbell standing calf raise"
+      ]
     },
     {
       "id": "TR-EX-0263",
@@ -25190,7 +26032,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Machine standing calf raise"
+      ]
     },
     {
       "id": "TR-EX-0264",
@@ -25278,7 +26123,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Seated calf raise"
+      ]
     },
     {
       "id": "TR-EX-0265",
@@ -25366,7 +26214,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Leg press calf raise"
+      ]
     },
     {
       "id": "TR-EX-0266",
@@ -25454,13 +26305,16 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Single leg calf raise"
+      ]
     },
     {
       "id": "TR-EX-0267",
       "priority": "Основна",
       "category": "Литки, гомілки й стопи",
-      "name_uk": "Осел — підйоми на носки",
+      "name_uk": "Підйоми на носки з нахиленим корпусом (донкі)",
       "name_en": "Donkey calf raise",
       "short_description": "Нахили корпус уперед і піднімай п'яти під навантаженням.",
       "exercise_type": "Силова",
@@ -25550,7 +26404,11 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Осел — підйоми на носки",
+        "Donkey calf raise"
+      ]
     },
     {
       "id": "TR-EX-0268",
@@ -25646,7 +26504,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Tibialis raise"
+      ]
     },
     {
       "id": "TR-EX-0269",
@@ -25734,7 +26595,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Band dorsiflexion"
+      ]
     },
     {
       "id": "TR-EX-0270",
@@ -25822,7 +26686,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Eccentric heel drop"
+      ]
     },
     {
       "id": "TR-EX-0271",
@@ -25918,7 +26785,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Treadmill walking"
+      ]
     },
     {
       "id": "TR-EX-0272",
@@ -26006,7 +26876,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Treadmill running"
+      ]
     },
     {
       "id": "TR-EX-0273",
@@ -26094,7 +26967,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Outdoor running"
+      ]
     },
     {
       "id": "TR-EX-0274",
@@ -26186,7 +27062,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Brisk walking"
+      ]
     },
     {
       "id": "TR-EX-0275",
@@ -26274,13 +27153,16 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Stationary bike"
+      ]
     },
     {
       "id": "TR-EX-0276",
       "priority": "Основна",
       "category": "Кардіо та інтервали",
-      "name_uk": "Сайклінг на спін-байку",
+      "name_uk": "Їзда на спін-байку (сайклінг)",
       "name_en": "Spin bike cycling",
       "short_description": "Підтримуй каденс і опір на спін-байку згідно з інтервалом.",
       "exercise_type": "Кардіо",
@@ -26362,7 +27244,11 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Сайклінг на спін-байку",
+        "Spin bike cycling"
+      ]
     },
     {
       "id": "TR-EX-0277",
@@ -26450,13 +27336,16 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Elliptical trainer"
+      ]
     },
     {
       "id": "TR-EX-0278",
       "priority": "Основна",
       "category": "Кардіо та інтервали",
-      "name_uk": "Гребний ергометр",
+      "name_uk": "Веслування на тренажері",
       "name_en": "Rowing machine",
       "short_description": "Відштовхуйся ногами, завершуй тягу руками й повертайся послідовно.",
       "exercise_type": "Кардіо",
@@ -26560,13 +27449,17 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Гребний ергометр",
+        "Rowing machine"
+      ]
     },
     {
       "id": "TR-EX-0279",
       "priority": "Основна",
       "category": "Кардіо та інтервали",
-      "name_uk": "Лижний ергометр",
+      "name_uk": "Імітація лижного ходу на тренажері (SkiErg)",
       "name_en": "Ski erg",
       "short_description": "Тягни руків'я вниз і назад синхронним рухом рук та корпуса.",
       "exercise_type": "Кардіо",
@@ -26648,7 +27541,11 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Лижний ергометр",
+        "Ski erg"
+      ]
     },
     {
       "id": "TR-EX-0280",
@@ -26744,7 +27641,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Stair stepper"
+      ]
     },
     {
       "id": "TR-EX-0281",
@@ -26832,7 +27732,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Stair climbing"
+      ]
     },
     {
       "id": "TR-EX-0282",
@@ -26920,13 +27823,16 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Jump rope"
+      ]
     },
     {
       "id": "TR-EX-0283",
       "priority": "Основна",
       "category": "Кардіо та інтервали",
-      "name_uk": "Джампінг-джеки",
+      "name_uk": "Стрибки з розведенням рук і ніг (джампінг-джеки)",
       "name_en": "Jumping jacks",
       "short_description": "Стрибай, одночасно розводячи ноги й піднімаючи руки над головою.",
       "exercise_type": "Кардіо",
@@ -27020,7 +27926,12 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Джампінг-джеки",
+        "Jumping jacks",
+        "джампінг джек"
+      ]
     },
     {
       "id": "TR-EX-0284",
@@ -27108,13 +28019,16 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Burpee"
+      ]
     },
     {
       "id": "TR-EX-0285",
       "priority": "Основна",
       "category": "Кардіо та інтервали",
-      "name_uk": "Альпініст",
+      "name_uk": "Почергове підтягування колін у планці (альпініст)",
       "name_en": "Mountain climber",
       "short_description": "Почергово підтягай коліна до грудей з упору лежачи.",
       "exercise_type": "Кардіо",
@@ -27208,7 +28122,12 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Альпініст",
+        "Mountain climber",
+        "скелелаз"
+      ]
     },
     {
       "id": "TR-EX-0286",
@@ -27305,7 +28224,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "High knees"
+      ]
     },
     {
       "id": "TR-EX-0287",
@@ -27429,7 +28351,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Butt kicks"
+      ]
     },
     {
       "id": "TR-EX-0288",
@@ -27529,7 +28454,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Battle rope alternating waves"
+      ]
     },
     {
       "id": "TR-EX-0289",
@@ -27621,7 +28549,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Battle rope slams"
+      ]
     },
     {
       "id": "TR-EX-0290",
@@ -27727,7 +28658,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Sled push"
+      ]
     },
     {
       "id": "TR-EX-0291",
@@ -27815,13 +28749,16 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Backward sled drag"
+      ]
     },
     {
       "id": "TR-EX-0292",
       "priority": "Розширення",
       "category": "Кардіо та інтервали",
-      "name_uk": "Медбол-слем",
+      "name_uk": "Удар медболом об підлогу (слем)",
       "name_en": "Medicine ball slam",
       "short_description": "Підніми медбол і кинь його в підлогу, контролюючи повернення.",
       "exercise_type": "Кардіо",
@@ -27911,13 +28848,17 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Медбол-слем",
+        "Medicine ball slam"
+      ]
     },
     {
       "id": "TR-EX-0293",
       "priority": "Розширення",
       "category": "Кардіо та інтервали",
-      "name_uk": "Підйоми на степ у темпі",
+      "name_uk": "Швидкі підйоми на степ-платформу",
       "name_en": "Aerobic step-ups",
       "short_description": "Ритмічно піднімайся на степ і спускайся, чергуючи опорні ноги.",
       "exercise_type": "Кардіо",
@@ -28000,7 +28941,11 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Підйоми на степ у темпі",
+        "Aerobic step-ups"
+      ]
     },
     {
       "id": "TR-EX-0294",
@@ -28090,7 +29035,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Jump squat"
+      ]
     },
     {
       "id": "TR-EX-0295",
@@ -28187,7 +29135,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Box jump"
+      ]
     },
     {
       "id": "TR-EX-0296",
@@ -28280,7 +29231,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Drop jump"
+      ]
     },
     {
       "id": "TR-EX-0297",
@@ -28378,7 +29332,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Jumping lunge"
+      ]
     },
     {
       "id": "TR-EX-0298",
@@ -28475,13 +29432,16 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Lateral bounds"
+      ]
     },
     {
       "id": "TR-EX-0299",
       "priority": "Основна",
       "category": "Функціональні та вибухові рухи",
-      "name_uk": "Бокс-степ-ап із вибуховим підйомом коліна",
+      "name_uk": "Вибуховий підйом на платформу з підйомом коліна",
       "name_en": "Explosive step-up",
       "short_description": "Піднімайся на платформу вибухово та виводь вільне коліно вперед.",
       "exercise_type": "Функціональна",
@@ -28576,7 +29536,11 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Бокс-степ-ап із вибуховим підйомом коліна",
+        "Explosive step-up"
+      ]
     },
     {
       "id": "TR-EX-0300",
@@ -28672,13 +29636,16 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Double kettlebell push press"
+      ]
     },
     {
       "id": "TR-EX-0301",
       "priority": "Основна",
       "category": "Функціональні та вибухові рухи",
-      "name_uk": "Трастер із гантелями",
+      "name_uk": "Присідання з жимом гантелей над головою (трастер)",
       "name_en": "Dumbbell thruster",
       "short_description": "Поєднай присідання з жимом гантелей над головою в одному русі.",
       "exercise_type": "Функціональна",
@@ -28770,13 +29737,18 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Трастер із гантелями",
+        "Dumbbell thruster",
+        "трастер"
+      ]
     },
     {
       "id": "TR-EX-0302",
       "priority": "Основна",
       "category": "Функціональні та вибухові рухи",
-      "name_uk": "Трастер зі штангою",
+      "name_uk": "Присідання з жимом штанги над головою (трастер)",
       "name_en": "Barbell thruster",
       "short_description": "Піднімися з фронтального присіду та продовж рух жимом грифа вгору.",
       "exercise_type": "Функціональна",
@@ -28860,7 +29832,12 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Трастер зі штангою",
+        "Barbell thruster",
+        "трастер"
+      ]
     },
     {
       "id": "TR-EX-0303",
@@ -28948,7 +29925,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Push press barbell"
+      ]
     },
     {
       "id": "TR-EX-0304",
@@ -29036,7 +30016,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Kettlebell snatch"
+      ]
     },
     {
       "id": "TR-EX-0305",
@@ -29149,7 +30132,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Kettlebell clean"
+      ]
     },
     {
       "id": "TR-EX-0306",
@@ -29238,7 +30224,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Turkish get-up"
+      ]
     },
     {
       "id": "TR-EX-0307",
@@ -29339,7 +30328,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Medicine ball chest pass"
+      ]
     },
     {
       "id": "TR-EX-0308",
@@ -29458,7 +30450,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Rotational medicine ball throw"
+      ]
     },
     {
       "id": "TR-EX-0309",
@@ -29560,7 +30555,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Kettlebell farmer carry"
+      ]
     },
     {
       "id": "TR-EX-0310",
@@ -29662,7 +30660,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Overhead kettlebell carry"
+      ]
     },
     {
       "id": "TR-EX-0311",
@@ -29752,7 +30753,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Sandbag shoulder carry"
+      ]
     },
     {
       "id": "TR-EX-0312",
@@ -29854,7 +30858,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Sandbag front squat"
+      ]
     },
     {
       "id": "TR-EX-0313",
@@ -29954,7 +30961,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "TRX assisted squat"
+      ]
     },
     {
       "id": "TR-EX-0314",
@@ -30043,7 +31053,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Single leg TRX row"
+      ]
     },
     {
       "id": "TR-EX-0315",
@@ -30156,7 +31169,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Ring push-up"
+      ]
     },
     {
       "id": "TR-EX-0316",
@@ -30279,7 +31295,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "TRX knee tuck"
+      ]
     },
     {
       "id": "TR-EX-0317",
@@ -30376,7 +31395,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Single arm kettlebell swing"
+      ]
     },
     {
       "id": "TR-EX-0318",
@@ -30465,7 +31487,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Cat cow"
+      ]
     },
     {
       "id": "TR-EX-0319",
@@ -30554,13 +31579,16 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Open book stretch"
+      ]
     },
     {
       "id": "TR-EX-0320",
       "priority": "Основна",
       "category": "Мобільність та рухливість",
-      "name_uk": "Повороти грудного відділу в квадрупеді",
+      "name_uk": "Повороти грудного відділу стоячи навкарачки",
       "name_en": "Quadruped thoracic rotation",
       "short_description": "Із позиції навкарачки розкривай лікоть убік, повертаючи грудний відділ.",
       "exercise_type": "Мобільність",
@@ -30667,7 +31695,11 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Повороти грудного відділу в квадрупеді",
+        "Quadruped thoracic rotation"
+      ]
     },
     {
       "id": "TR-EX-0321",
@@ -30756,7 +31788,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Child's pose"
+      ]
     },
     {
       "id": "TR-EX-0322",
@@ -30846,7 +31881,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Pigeon stretch"
+      ]
     },
     {
       "id": "TR-EX-0323",
@@ -30960,7 +31998,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Kneeling hip flexor stretch"
+      ]
     },
     {
       "id": "TR-EX-0324",
@@ -31073,7 +32114,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Standing quad stretch"
+      ]
     },
     {
       "id": "TR-EX-0325",
@@ -31166,7 +32210,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Seated hamstring stretch"
+      ]
     },
     {
       "id": "TR-EX-0326",
@@ -31325,7 +32372,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Wall calf stretch"
+      ]
     },
     {
       "id": "TR-EX-0327",
@@ -31446,7 +32496,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Bent knee calf stretch"
+      ]
     },
     {
       "id": "TR-EX-0328",
@@ -31536,13 +32589,16 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Butterfly stretch"
+      ]
     },
     {
       "id": "TR-EX-0329",
       "priority": "Основна",
       "category": "Мобільність та рухливість",
-      "name_uk": "90/90 ротація стегон",
+      "name_uk": "Повороти стегон сидячи (90/90)",
       "name_en": "90 90 hip switches",
       "short_description": "Перекладай обидва коліна між боками в сидячому положенні 90/90.",
       "exercise_type": "Мобільність",
@@ -31638,7 +32694,11 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "90/90 ротація стегон",
+        "90 90 hip switches"
+      ]
     },
     {
       "id": "TR-EX-0330",
@@ -31727,7 +32787,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Deep squat hold"
+      ]
     },
     {
       "id": "TR-EX-0331",
@@ -31824,7 +32887,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Knee to wall ankle mobility"
+      ]
     },
     {
       "id": "TR-EX-0332",
@@ -31917,7 +32983,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Shoulder circles"
+      ]
     },
     {
       "id": "TR-EX-0333",
@@ -32006,7 +33075,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Shoulder pass-through"
+      ]
     },
     {
       "id": "TR-EX-0334",
@@ -32099,7 +33171,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Thoracic foam rolling"
+      ]
     },
     {
       "id": "TR-EX-0335",
@@ -32192,7 +33267,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Thoracic extension foam roller"
+      ]
     },
     {
       "id": "TR-EX-0336",
@@ -32289,7 +33367,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Quadriceps foam rolling"
+      ]
     },
     {
       "id": "TR-EX-0337",
@@ -32386,7 +33467,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Glute foam rolling"
+      ]
     },
     {
       "id": "TR-EX-0338",
@@ -32483,7 +33567,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Doorway chest stretch"
+      ]
     },
     {
       "id": "TR-EX-0339",
@@ -32576,7 +33663,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Lat stretch at bench"
+      ]
     },
     {
       "id": "TR-EX-0340",
@@ -32689,7 +33779,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Seated neck rotation"
+      ]
     },
     {
       "id": "TR-EX-0341",
@@ -32782,7 +33875,10 @@
         "uk": null
       },
       "video_uk_status": "Українськомовну версію ще не підібрано; допускається явний fallback на en",
-      "video_uk_fallback_locale": "en"
+      "video_uk_fallback_locale": "en",
+      "search_aliases": [
+        "Neck lateral flexion"
+      ]
     }
   ],
   "video_collection_date": "2026-11-19",
@@ -32838,5 +33934,10 @@
       ],
       "applied_on": "2026-11-19"
     }
-  ]
+  ],
+  "naming_policy": {
+    "version": "2026-11-27",
+    "primary": "Зрозуміла українська назва руху й обладнання; професійний термін у дужках лише коли корисний",
+    "search": "Пошук за name_uk, name_en та search_aliases без урахування регістру, дефісів і зайвих пробілів"
+  }
 }
