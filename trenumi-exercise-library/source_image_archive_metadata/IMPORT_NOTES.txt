@@ -1,0 +1,8 @@
+Trenumi Exercise Images Package
+
+The current exercise catalog is supplied SEPARATELY as trenumi_exercises_catalog_v3_with_video_links.json.
+Do NOT use catalog/trenumi_exercises_catalog_v1.json from the old archive.
+Use image_actual_file_location / image_filename to locate images under images/batch_XX/.
+All 341 images are included. Keep original exercise IDs and relative image paths.
+The image QC flags in JSON are draft statuses and must NOT be treated as formal trainer certification.
+Content review will happen with actual trainers in app testing.

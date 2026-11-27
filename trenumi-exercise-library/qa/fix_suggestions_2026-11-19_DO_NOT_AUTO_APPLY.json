@@ -1,0 +1,881 @@
+{
+  "policy": "SUGGESTIONS ONLY; do not auto-apply; cross-check against actual v3 and intended UX taxonomy",
+  "count_affected": 65,
+  "fixes": [
+    {
+      "id": "TR-EX-0010",
+      "name_uk": "Присідання Зерхера",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "needs_detailed_view",
+          "domain": "equipment_anatomy",
+          "problem_uk": "Положення грифа у згинах ліктів на ілюстрації Зерхера неоднозначне: потрібен перегляд перетину грифа й передпліч на збільшеному зображенні.",
+          "suggested_correction_uk": "Перевірити, що гриф справді лежить у ліктьових згинах, не проходить крізь руки та утримується коректно."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0014",
+      "name_uk": "Присідання з поясом навантаження",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "needs_detailed_view",
+          "domain": "equipment_mechanics",
+          "problem_uk": "На одиночному ракурсі не повністю підтверджена геометрія механізму/точок контакту тренажера, що прямо позначено у вихідному журналі QC.",
+          "suggested_correction_uk": "Перевірити збільшене зображення та аналог реального тренажера; звірити контакти валика/важеля, трос, вісь і траєкторію."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0017",
+      "name_uk": "Вертикальний жим ногами",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "needs_detailed_view",
+          "domain": "equipment_mechanics",
+          "problem_uk": "На одиночному ракурсі не повністю підтверджена геометрія механізму/точок контакту тренажера, що прямо позначено у вихідному журналі QC.",
+          "suggested_correction_uk": "Перевірити збільшене зображення та аналог реального тренажера; звірити контакти валика/важеля, трос, вісь і траєкторію."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0019",
+      "name_uk": "Розгинання ніг сидячи",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "major",
+          "domain": "secondary_muscles",
+          "problem_uk": "У розгинаннях коліна в тренажері в secondary_muscles автоматично стоять Сідниці, але це не основний синергіст розгинання коліна.",
+          "suggested_correction_uk": "Прибрати Сідниці з secondary_muscles для цих ізолювальних вправ."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0020",
+      "name_uk": "Розгинання однієї ноги",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "major",
+          "domain": "secondary_muscles",
+          "problem_uk": "У розгинаннях коліна в тренажері в secondary_muscles автоматично стоять Сідниці, але це не основний синергіст розгинання коліна.",
+          "suggested_correction_uk": "Прибрати Сідниці з secondary_muscles для цих ізолювальних вправ."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0023",
+      "name_uk": "Зворотні випади з гантелями",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "needs_motion",
+          "domain": "single_frame",
+          "problem_uk": "Кінцева нижня фаза не дозволяє відрізнити рух уперед, назад або ходьбу випадами.",
+          "suggested_correction_uk": "У detail потрібна динамічна демонстрація напрямку руху; картинка допустима як прев’ю з правильною назвою."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0024",
+      "name_uk": "Зворотні випади у Сміті",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "needs_detailed_view",
+          "domain": "highlight",
+          "problem_uk": "Підсвічування обох квадрицепсів у випаді Сміта може створювати враження однакового цільового навантаження на опорну та задню ногу.",
+          "suggested_correction_uk": "Зафіксувати робочу опорну ногу й виділити її; іншу можна лишити без основного акценту."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0026",
+      "name_uk": "Ходьба випадами з гантелями",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "needs_motion",
+          "domain": "single_frame",
+          "problem_uk": "Кінцева нижня фаза не дозволяє відрізнити рух уперед, назад або ходьбу випадами.",
+          "suggested_correction_uk": "У detail потрібна динамічна демонстрація напрямку руху; картинка допустима як прев’ю з правильною назвою."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0032",
+      "name_uk": "Козацькі присідання",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "needs_detailed_view",
+          "domain": "highlight",
+          "problem_uk": "У козацькому присіданні виділена й пряма нога; потрібно визначити чи це квадрицепс працюючої ноги чи м’язи, які розтягуються.",
+          "suggested_correction_uk": "Для силового акценту підсвічувати переважно квадрицепс зігнутої ноги; для мобільності окремо відзначати привідні прямої."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0040",
+      "name_uk": "Підйом на носки з присіду",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "blocker",
+          "domain": "muscle_highlight",
+          "problem_uk": "Підйом на носки: у кадрі підсвічені квадрицепси, литки залишилися сірими; primary_muscle=Квадрицепси не відбиває акцент підйому на носки.",
+          "suggested_correction_uk": "Додати/зробити основним тег Литки для підйому на носки, підсвітити литковий та камбалоподібний м’язи; квадрицепси залишити залученими у фазі присіду."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0050",
+      "name_uk": "Відведення стегон у тренажері сидячи",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "needs_detailed_view",
+          "domain": "equipment_mechanics",
+          "problem_uk": "На одиночному ракурсі не повністю підтверджена геометрія механізму/точок контакту тренажера, що прямо позначено у вихідному журналі QC.",
+          "suggested_correction_uk": "Перевірити збільшене зображення та аналог реального тренажера; звірити контакти валика/важеля, трос, вісь і траєкторію."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0067",
+      "name_uk": "Розведення стегон стоячи у тренажері",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "needs_detailed_view",
+          "domain": "equipment_mechanics",
+          "problem_uk": "На одиночному ракурсі не повністю підтверджена геометрія механізму/точок контакту тренажера, що прямо позначено у вихідному журналі QC.",
+          "suggested_correction_uk": "Перевірити збільшене зображення та аналог реального тренажера; звірити контакти валика/важеля, трос, вісь і траєкторію."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0082",
+      "name_uk": "Згинання ніг лежачи",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "major",
+          "domain": "secondary_muscles",
+          "problem_uk": "У згинаннях коліна задньої поверхні стегна шаблонно вказані Сідниці, хоча вони не є основними динамічними синергістами.",
+          "suggested_correction_uk": "Прибрати загальне Сідниці для ізольованих згинань; вказувати конкретні синергісти лише за потреби."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0083",
+      "name_uk": "Згинання ніг сидячи",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "major",
+          "domain": "secondary_muscles",
+          "problem_uk": "У згинаннях коліна задньої поверхні стегна шаблонно вказані Сідниці, хоча вони не є основними динамічними синергістами.",
+          "suggested_correction_uk": "Прибрати загальне Сідниці для ізольованих згинань; вказувати конкретні синергісти лише за потреби."
+        },
+        {
+          "severity": "needs_detailed_view",
+          "domain": "equipment_mechanics",
+          "problem_uk": "На одиночному ракурсі не повністю підтверджена геометрія механізму/точок контакту тренажера, що прямо позначено у вихідному журналі QC.",
+          "suggested_correction_uk": "Перевірити збільшене зображення та аналог реального тренажера; звірити контакти валика/важеля, трос, вісь і траєкторію."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0084",
+      "name_uk": "Згинання ніг стоячи",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "major",
+          "domain": "secondary_muscles",
+          "problem_uk": "У згинаннях коліна задньої поверхні стегна шаблонно вказані Сідниці, хоча вони не є основними динамічними синергістами.",
+          "suggested_correction_uk": "Прибрати загальне Сідниці для ізольованих згинань; вказувати конкретні синергісти лише за потреби."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0085",
+      "name_uk": "Згинання однієї ноги лежачи",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "major",
+          "domain": "secondary_muscles",
+          "problem_uk": "У згинаннях коліна задньої поверхні стегна шаблонно вказані Сідниці, хоча вони не є основними динамічними синергістами.",
+          "suggested_correction_uk": "Прибрати загальне Сідниці для ізольованих згинань; вказувати конкретні синергісти лише за потреби."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0086",
+      "name_uk": "Згинання ніг на фітболі",
+      "source_image_status": "approved",
+      "recommended_changes": [
+        {
+          "severity": "major",
+          "domain": "secondary_muscles",
+          "problem_uk": "У згинаннях коліна задньої поверхні стегна шаблонно вказані Сідниці, хоча вони не є основними динамічними синергістами.",
+          "suggested_correction_uk": "Прибрати загальне Сідниці для ізольованих згинань; вказувати конкретні синергісти лише за потреби."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0087",
+      "name_uk": "Згинання ніг із ковзанням",
+      "source_image_status": "approved",
+      "recommended_changes": [
+        {
+          "severity": "major",
+          "domain": "secondary_muscles",
+          "problem_uk": "У згинаннях коліна задньої поверхні стегна шаблонно вказані Сідниці, хоча вони не є основними динамічними синергістами.",
+          "suggested_correction_uk": "Прибрати загальне Сідниці для ізольованих згинань; вказувати конкретні синергісти лише за потреби."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0088",
+      "name_uk": "Нордичне згинання ніг",
+      "source_image_status": "approved",
+      "recommended_changes": [
+        {
+          "severity": "major",
+          "domain": "secondary_muscles",
+          "problem_uk": "У згинаннях коліна задньої поверхні стегна шаблонно вказані Сідниці, хоча вони не є основними динамічними синергістами.",
+          "suggested_correction_uk": "Прибрати загальне Сідниці для ізольованих згинань; вказувати конкретні синергісти лише за потреби."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0089",
+      "name_uk": "Глют-хем рейз",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "major",
+          "domain": "secondary_muscles",
+          "problem_uk": "У згинаннях коліна задньої поверхні стегна шаблонно вказані Сідниці, хоча вони не є основними динамічними синергістами.",
+          "suggested_correction_uk": "Прибрати загальне Сідниці для ізольованих згинань; вказувати конкретні синергісти лише за потреби."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0103",
+      "name_uk": "Тяга прямими руками на блоці",
+      "source_image_status": "approved",
+      "recommended_changes": [
+        {
+          "severity": "major",
+          "domain": "secondary_muscles",
+          "problem_uk": "У не-згинальних тягах, пуловерах, екстензії спини та зведенні лопаток дубльовано шаблон Біцепс; Задні дельти, хоча в цих рухах вони часто не основні синергісти.",
+          "suggested_correction_uk": "Підібрати вторинні м’язи окремо для кожної вправи; не переносити автоматично шаблон для тяги зі згинанням ліктя."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0125",
+      "name_uk": "Зведення лопаток у висі",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "major",
+          "domain": "secondary_muscles",
+          "problem_uk": "У не-згинальних тягах, пуловерах, екстензії спини та зведенні лопаток дубльовано шаблон Біцепс; Задні дельти, хоча в цих рухах вони часто не основні синергісти.",
+          "suggested_correction_uk": "Підібрати вторинні м’язи окремо для кожної вправи; не переносити автоматично шаблон для тяги зі згинанням ліктя."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0126",
+      "name_uk": "Розгинання спини на римському стільці",
+      "source_image_status": "approved",
+      "recommended_changes": [
+        {
+          "severity": "major",
+          "domain": "secondary_muscles",
+          "problem_uk": "У не-згинальних тягах, пуловерах, екстензії спини та зведенні лопаток дубльовано шаблон Біцепс; Задні дельти, хоча в цих рухах вони часто не основні синергісти.",
+          "suggested_correction_uk": "Підібрати вторинні м’язи окремо для кожної вправи; не переносити автоматично шаблон для тяги зі згинанням ліктя."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0127",
+      "name_uk": "Супермен лежачи",
+      "source_image_status": "approved",
+      "recommended_changes": [
+        {
+          "severity": "major",
+          "domain": "secondary_muscles",
+          "problem_uk": "У не-згинальних тягах, пуловерах, екстензії спини та зведенні лопаток дубльовано шаблон Біцепс; Задні дельти, хоча в цих рухах вони часто не основні синергісти.",
+          "suggested_correction_uk": "Підібрати вторинні м’язи окремо для кожної вправи; не переносити автоматично шаблон для тяги зі згинанням ліктя."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0128",
+      "name_uk": "Пуловер із гантеллю",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "major",
+          "domain": "secondary_muscles",
+          "problem_uk": "У не-згинальних тягах, пуловерах, екстензії спини та зведенні лопаток дубльовано шаблон Біцепс; Задні дельти, хоча в цих рухах вони часто не основні синергісти.",
+          "suggested_correction_uk": "Підібрати вторинні м’язи окремо для кожної вправи; не переносити автоматично шаблон для тяги зі згинанням ліктя."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0129",
+      "name_uk": "Пуловер у тренажері",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "major",
+          "domain": "secondary_muscles",
+          "problem_uk": "У не-згинальних тягах, пуловерах, екстензії спини та зведенні лопаток дубльовано шаблон Біцепс; Задні дельти, хоча в цих рухах вони часто не основні синергісти.",
+          "suggested_correction_uk": "Підібрати вторинні м’язи окремо для кожної вправи; не переносити автоматично шаблон для тяги зі згинанням ліктя."
+        },
+        {
+          "severity": "needs_detailed_view",
+          "domain": "equipment_mechanics",
+          "problem_uk": "На одиночному ракурсі не повністю підтверджена геометрія механізму/точок контакту тренажера, що прямо позначено у вихідному журналі QC.",
+          "suggested_correction_uk": "Перевірити збільшене зображення та аналог реального тренажера; звірити контакти валика/важеля, трос, вісь і траєкторію."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0134",
+      "name_uk": "Жим штанги вузьким хватом",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "minor",
+          "domain": "taxonomy",
+          "problem_uk": "Жим вузьким хватом знаходиться лише в категорії Груди; цей варіант часто використовують з акцентом на трицепс.",
+          "suggested_correction_uk": "Додати категорію/тег Трицепс, не обов’язково прибираючи Груди."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0151",
+      "name_uk": "Розведення гантелей лежачи",
+      "source_image_status": "approved",
+      "recommended_changes": [
+        {
+          "severity": "major",
+          "domain": "secondary_muscles",
+          "problem_uk": "Для розведень рук/флай грудей в secondary_muscles записано Трицепс; Передні дельти; трицепс не є основним динамічним синергістом приведення плеча.",
+          "suggested_correction_uk": "Прибрати трицепс як вторинну мішень для fly-рухів; передній дельтоподібний можливий як синергіст залежно від траєкторії."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0152",
+      "name_uk": "Розведення гантелей на похилій лаві",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "major",
+          "domain": "secondary_muscles",
+          "problem_uk": "Для розведень рук/флай грудей в secondary_muscles записано Трицепс; Передні дельти; трицепс не є основним динамічним синергістом приведення плеча.",
+          "suggested_correction_uk": "Прибрати трицепс як вторинну мішень для fly-рухів; передній дельтоподібний можливий як синергіст залежно від траєкторії."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0153",
+      "name_uk": "Зведення рук у кросовері зверху вниз",
+      "source_image_status": "approved",
+      "recommended_changes": [
+        {
+          "severity": "major",
+          "domain": "secondary_muscles",
+          "problem_uk": "Для розведень рук/флай грудей в secondary_muscles записано Трицепс; Передні дельти; трицепс не є основним динамічним синергістом приведення плеча.",
+          "suggested_correction_uk": "Прибрати трицепс як вторинну мішень для fly-рухів; передній дельтоподібний можливий як синергіст залежно від траєкторії."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0154",
+      "name_uk": "Зведення рук у кросовері знизу вгору",
+      "source_image_status": "approved",
+      "recommended_changes": [
+        {
+          "severity": "major",
+          "domain": "secondary_muscles",
+          "problem_uk": "Для розведень рук/флай грудей в secondary_muscles записано Трицепс; Передні дельти; трицепс не є основним динамічним синергістом приведення плеча.",
+          "suggested_correction_uk": "Прибрати трицепс як вторинну мішень для fly-рухів; передній дельтоподібний можливий як синергіст залежно від траєкторії."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0155",
+      "name_uk": "Зведення рук у кросовері на рівні грудей",
+      "source_image_status": "approved",
+      "recommended_changes": [
+        {
+          "severity": "major",
+          "domain": "secondary_muscles",
+          "problem_uk": "Для розведень рук/флай грудей в secondary_muscles записано Трицепс; Передні дельти; трицепс не є основним динамічним синергістом приведення плеча.",
+          "suggested_correction_uk": "Прибрати трицепс як вторинну мішень для fly-рухів; передній дельтоподібний можливий як синергіст залежно від траєкторії."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0156",
+      "name_uk": "Пек-дек",
+      "source_image_status": "approved",
+      "recommended_changes": [
+        {
+          "severity": "major",
+          "domain": "secondary_muscles",
+          "problem_uk": "Для розведень рук/флай грудей в secondary_muscles записано Трицепс; Передні дельти; трицепс не є основним динамічним синергістом приведення плеча.",
+          "suggested_correction_uk": "Прибрати трицепс як вторинну мішень для fly-рухів; передній дельтоподібний можливий як синергіст залежно від траєкторії."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0157",
+      "name_uk": "Розведення рук із гумою для грудей",
+      "source_image_status": "approved",
+      "recommended_changes": [
+        {
+          "severity": "major",
+          "domain": "secondary_muscles",
+          "problem_uk": "Для розведень рук/флай грудей в secondary_muscles записано Трицепс; Передні дельти; трицепс не є основним динамічним синергістом приведення плеча.",
+          "suggested_correction_uk": "Прибрати трицепс як вторинну мішень для fly-рухів; передній дельтоподібний можливий як синергіст залежно від траєкторії."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0185",
+      "name_uk": "Зовнішня ротація плеча з гумою",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "needs_detailed_view",
+          "domain": "deep_rotator_anatomy",
+          "problem_uk": "Зовнішню/внутрішню ротацію плеча показано, але глибокі м’язи ротаторної манжети не можна достовірно розмітити поверхневим кольором без окремої анатомічної моделі.",
+          "suggested_correction_uk": "Не імітувати точне фарбування невидимих підшкірних м’язів; підписати групу Ротатори плеча або використати окрему анатомічну схему."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0186",
+      "name_uk": "Внутрішня ротація плеча з гумою",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "needs_detailed_view",
+          "domain": "deep_rotator_anatomy",
+          "problem_uk": "Зовнішню/внутрішню ротацію плеча показано, але глибокі м’язи ротаторної манжети не можна достовірно розмітити поверхневим кольором без окремої анатомічної моделі.",
+          "suggested_correction_uk": "Не імітувати точне фарбування невидимих підшкірних м’язів; підписати групу Ротатори плеча або використати окрему анатомічну схему."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0187",
+      "name_uk": "Зовнішня ротація плеча на блоці",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "needs_detailed_view",
+          "domain": "deep_rotator_anatomy",
+          "problem_uk": "Зовнішню/внутрішню ротацію плеча показано, але глибокі м’язи ротаторної манжети не можна достовірно розмітити поверхневим кольором без окремої анатомічної моделі.",
+          "suggested_correction_uk": "Не імітувати точне фарбування невидимих підшкірних м’язів; підписати групу Ротатори плеча або використати окрему анатомічну схему."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0211",
+      "name_uk": "Розгинання рук на верхньому блоці з канатом",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "major",
+          "domain": "secondary_muscles",
+          "problem_uk": "Для багатьох ізолювальних розгинань ліктя шаблонно вказано Передні дельти, хоча вони здебільшого стабілізують положення плеча, а не виконують розгинання ліктя.",
+          "suggested_correction_uk": "Відокремити стабілізатори від secondary target muscles; для ізолювальних варіантів не показувати передню дельту як м’яз-мішень без підстав."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0212",
+      "name_uk": "Розгинання рук на верхньому блоці з прямим грифом",
+      "source_image_status": "approved",
+      "recommended_changes": [
+        {
+          "severity": "major",
+          "domain": "secondary_muscles",
+          "problem_uk": "Для багатьох ізолювальних розгинань ліктя шаблонно вказано Передні дельти, хоча вони здебільшого стабілізують положення плеча, а не виконують розгинання ліктя.",
+          "suggested_correction_uk": "Відокремити стабілізатори від secondary target muscles; для ізолювальних варіантів не показувати передню дельту як м’яз-мішень без підстав."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0213",
+      "name_uk": "Розгинання руки на блоці однією рукою",
+      "source_image_status": "approved",
+      "recommended_changes": [
+        {
+          "severity": "major",
+          "domain": "secondary_muscles",
+          "problem_uk": "Для багатьох ізолювальних розгинань ліктя шаблонно вказано Передні дельти, хоча вони здебільшого стабілізують положення плеча, а не виконують розгинання ліктя.",
+          "suggested_correction_uk": "Відокремити стабілізатори від secondary target muscles; для ізолювальних варіантів не показувати передню дельту як м’яз-мішень без підстав."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0214",
+      "name_uk": "Розгинання рук з канатом над головою",
+      "source_image_status": "approved",
+      "recommended_changes": [
+        {
+          "severity": "major",
+          "domain": "secondary_muscles",
+          "problem_uk": "Для багатьох ізолювальних розгинань ліктя шаблонно вказано Передні дельти, хоча вони здебільшого стабілізують положення плеча, а не виконують розгинання ліктя.",
+          "suggested_correction_uk": "Відокремити стабілізатори від secondary target muscles; для ізолювальних варіантів не показувати передню дельту як м’яз-мішень без підстав."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0215",
+      "name_uk": "Розгинання однієї руки над головою з гантеллю",
+      "source_image_status": "approved",
+      "recommended_changes": [
+        {
+          "severity": "major",
+          "domain": "secondary_muscles",
+          "problem_uk": "Для багатьох ізолювальних розгинань ліктя шаблонно вказано Передні дельти, хоча вони здебільшого стабілізують положення плеча, а не виконують розгинання ліктя.",
+          "suggested_correction_uk": "Відокремити стабілізатори від secondary target muscles; для ізолювальних варіантів не показувати передню дельту як м’яз-мішень без підстав."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0216",
+      "name_uk": "Французький жим лежачи з EZ-грифом",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "major",
+          "domain": "secondary_muscles",
+          "problem_uk": "Для багатьох ізолювальних розгинань ліктя шаблонно вказано Передні дельти, хоча вони здебільшого стабілізують положення плеча, а не виконують розгинання ліктя.",
+          "suggested_correction_uk": "Відокремити стабілізатори від secondary target muscles; для ізолювальних варіантів не показувати передню дельту як м’яз-мішень без підстав."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0217",
+      "name_uk": "Французький жим лежачи з гантелями",
+      "source_image_status": "approved",
+      "recommended_changes": [
+        {
+          "severity": "major",
+          "domain": "secondary_muscles",
+          "problem_uk": "Для багатьох ізолювальних розгинань ліктя шаблонно вказано Передні дельти, хоча вони здебільшого стабілізують положення плеча, а не виконують розгинання ліктя.",
+          "suggested_correction_uk": "Відокремити стабілізатори від secondary target muscles; для ізолювальних варіантів не показувати передню дельту як м’яз-мішень без підстав."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0218",
+      "name_uk": "Французький жим сидячи",
+      "source_image_status": "approved",
+      "recommended_changes": [
+        {
+          "severity": "major",
+          "domain": "secondary_muscles",
+          "problem_uk": "Для багатьох ізолювальних розгинань ліктя шаблонно вказано Передні дельти, хоча вони здебільшого стабілізують положення плеча, а не виконують розгинання ліктя.",
+          "suggested_correction_uk": "Відокремити стабілізатори від secondary target muscles; для ізолювальних варіантів не показувати передню дельту як м’яз-мішень без підстав."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0219",
+      "name_uk": "Розгинання рук у тренажері",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "major",
+          "domain": "secondary_muscles",
+          "problem_uk": "Для багатьох ізолювальних розгинань ліктя шаблонно вказано Передні дельти, хоча вони здебільшого стабілізують положення плеча, а не виконують розгинання ліктя.",
+          "suggested_correction_uk": "Відокремити стабілізатори від secondary target muscles; для ізолювальних варіантів не показувати передню дельту як м’яз-мішень без підстав."
+        },
+        {
+          "severity": "needs_detailed_view",
+          "domain": "equipment_mechanics",
+          "problem_uk": "На одиночному ракурсі не повністю підтверджена геометрія механізму/точок контакту тренажера, що прямо позначено у вихідному журналі QC.",
+          "suggested_correction_uk": "Перевірити збільшене зображення та аналог реального тренажера; звірити контакти валика/важеля, трос, вісь і траєкторію."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0220",
+      "name_uk": "Кікбек із гантеллю",
+      "source_image_status": "approved",
+      "recommended_changes": [
+        {
+          "severity": "major",
+          "domain": "secondary_muscles",
+          "problem_uk": "Для багатьох ізолювальних розгинань ліктя шаблонно вказано Передні дельти, хоча вони здебільшого стабілізують положення плеча, а не виконують розгинання ліктя.",
+          "suggested_correction_uk": "Відокремити стабілізатори від secondary target muscles; для ізолювальних варіантів не показувати передню дельту як м’яз-мішень без підстав."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0221",
+      "name_uk": "Кікбек на кросовері",
+      "source_image_status": "approved",
+      "recommended_changes": [
+        {
+          "severity": "major",
+          "domain": "secondary_muscles",
+          "problem_uk": "Для багатьох ізолювальних розгинань ліктя шаблонно вказано Передні дельти, хоча вони здебільшого стабілізують положення плеча, а не виконують розгинання ліктя.",
+          "suggested_correction_uk": "Відокремити стабілізатори від secondary target muscles; для ізолювальних варіантів не показувати передню дельту як м’яз-мішень без підстав."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0226",
+      "name_uk": "Розгинання рук із гумою",
+      "source_image_status": "approved",
+      "recommended_changes": [
+        {
+          "severity": "major",
+          "domain": "secondary_muscles",
+          "problem_uk": "Для багатьох ізолювальних розгинань ліктя шаблонно вказано Передні дельти, хоча вони здебільшого стабілізують положення плеча, а не виконують розгинання ліктя.",
+          "suggested_correction_uk": "Відокремити стабілізатори від secondary target muscles; для ізолювальних варіантів не показувати передню дельту як м’яз-мішень без підстав."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0236",
+      "name_uk": "Велосипед лежачи",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "needs_detailed_view",
+          "domain": "pose",
+          "problem_uk": "У вправі Велосипед лежачи перехрест плеча й протилежного коліна частково перекритий, через що складно оцінити контрлатеральний рух.",
+          "suggested_correction_uk": "Змінити ракурс або вибрати фазу, де протилежне плече направлене до коліна, а таз і шия залишаються контрольованими."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0238",
+      "name_uk": "Підйоми зігнутих колін у висі",
+      "source_image_status": "approved",
+      "recommended_changes": [
+        {
+          "severity": "blocker",
+          "domain": "muscle_category",
+          "problem_uk": "Підйоми колін/ніг у висі записані як Передпліччя (primary_muscle), хоча це рух згинання стегна та контроль таза/кора; передпліччя працюють на утримання хвату.",
+          "suggested_correction_uk": "У продукті primary_muscle=Кор, secondary_muscles=Згиначі стегна; Передпліччя (хват), оновити tags; для точної біомеханіки зазначити роль згиначів стегна і підкручування таза."
+        },
+        {
+          "severity": "major",
+          "domain": "measurement",
+          "problem_uk": "Для повторюваного руху у висі measurement_type=Час, а не Повторення.",
+          "suggested_correction_uk": "Змінити на Повторення; час може бути додатковим параметром для ізометричного утримання, не базовим."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0239",
+      "name_uk": "Підйоми прямих ніг у висі",
+      "source_image_status": "approved",
+      "recommended_changes": [
+        {
+          "severity": "blocker",
+          "domain": "muscle_category",
+          "problem_uk": "Підйоми колін/ніг у висі записані як Передпліччя (primary_muscle), хоча це рух згинання стегна та контроль таза/кора; передпліччя працюють на утримання хвату.",
+          "suggested_correction_uk": "У продукті primary_muscle=Кор, secondary_muscles=Згиначі стегна; Передпліччя (хват), оновити tags; для точної біомеханіки зазначити роль згиначів стегна і підкручування таза."
+        },
+        {
+          "severity": "major",
+          "domain": "measurement",
+          "problem_uk": "Для повторюваного руху у висі measurement_type=Час, а не Повторення.",
+          "suggested_correction_uk": "Змінити на Повторення; час може бути додатковим параметром для ізометричного утримання, не базовим."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0256",
+      "name_uk": "Фермерська хода з гантелями",
+      "source_image_status": "approved",
+      "recommended_changes": [
+        {
+          "severity": "minor",
+          "domain": "taxonomy",
+          "problem_uk": "Фермерська хода з гантелями має primary_muscle=Кор, але це повнотілове перенесення з важливим внеском хвата, трапецій і корпуса.",
+          "suggested_correction_uk": "Залишити тег Кор як стабілізацію та додати Все тіло/Функціональні й Хват; відобразити як багатом’язову вправу."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0268",
+      "name_uk": "Підйоми носків стоячи біля стіни",
+      "source_image_status": "approved",
+      "recommended_changes": [
+        {
+          "severity": "needs_detailed_view",
+          "domain": "highlight",
+          "problem_uk": "Для підйому носків біля стіни необхідно відрізнити передній великогомілковий від литкових; маска має бути на передній поверхні гомілки.",
+          "suggested_correction_uk": "Підтвердити точну передню маску і постановку п’ят та опору спиною об стіну."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0275",
+      "name_uk": "Велотренажер",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "major",
+          "domain": "measurement",
+          "problem_uk": "Велотренажер/еліпс позначений Час; Повторення: повторення не підходять як основна метрика цього кардіотренажера.",
+          "suggested_correction_uk": "Замість Повторення використовувати Час; Дистанція або Час із додатковими метриками інтенсивності, пульсу, каденсу, якщо їх підтримує Trenumi."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0277",
+      "name_uk": "Еліптичний тренажер",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "major",
+          "domain": "measurement",
+          "problem_uk": "Велотренажер/еліпс позначений Час; Повторення: повторення не підходять як основна метрика цього кардіотренажера.",
+          "suggested_correction_uk": "Замість Повторення використовувати Час; Дистанція або Час із додатковими метриками інтенсивності, пульсу, каденсу, якщо їх підтримує Trenumi."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0280",
+      "name_uk": "Степер",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "minor",
+          "domain": "measurement",
+          "problem_uk": "Степер має Час; Дистанція; багато степерів ведуть кроки/поверхи, а не дистанцію.",
+          "suggested_correction_uk": "Якщо додаток не підтримує Кроки/Поверхи, залишити Час; дистанцію дозволяти лише на тренажерах із відповідною метрикою."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0284",
+      "name_uk": "Берпі",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "needs_motion",
+          "domain": "single_frame",
+          "problem_uk": "Один статичний кадр не розкриває ключової траєкторії багатофазного руху (берпі, трастер, турецький підйом, кола плечима, повороти шиї).",
+          "suggested_correction_uk": "Залишити ілюстрацію як прев’ю, але на detail обов’язково показати коректну багатофазну демонстрацію (відео/послідовність), або уточнити фазу в підписі."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0301",
+      "name_uk": "Трастер із гантелями",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "needs_motion",
+          "domain": "single_frame",
+          "problem_uk": "Один статичний кадр не розкриває ключової траєкторії багатофазного руху (берпі, трастер, турецький підйом, кола плечима, повороти шиї).",
+          "suggested_correction_uk": "Залишити ілюстрацію як прев’ю, але на detail обов’язково показати коректну багатофазну демонстрацію (відео/послідовність), або уточнити фазу в підписі."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0302",
+      "name_uk": "Трастер зі штангою",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "needs_motion",
+          "domain": "single_frame",
+          "problem_uk": "Один статичний кадр не розкриває ключової траєкторії багатофазного руху (берпі, трастер, турецький підйом, кола плечима, повороти шиї).",
+          "suggested_correction_uk": "Залишити ілюстрацію як прев’ю, але на detail обов’язково показати коректну багатофазну демонстрацію (відео/послідовність), або уточнити фазу в підписі."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0306",
+      "name_uk": "Турецький підйом із гирею",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "needs_motion",
+          "domain": "single_frame",
+          "problem_uk": "Один статичний кадр не розкриває ключової траєкторії багатофазного руху (берпі, трастер, турецький підйом, кола плечима, повороти шиї).",
+          "suggested_correction_uk": "Залишити ілюстрацію як прев’ю, але на detail обов’язково показати коректну багатофазну демонстрацію (відео/послідовність), або уточнити фазу в підписі."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0321",
+      "name_uk": "Дитяча поза",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "needs_detailed_view",
+          "domain": "highlight",
+          "problem_uk": "У дитячій позі підсвічені сідниця й передня поверхня стегна; для загального розслаблення/мобільності це може хибно показувати основну м’язову мішень.",
+          "suggested_correction_uk": "Визначити політику підсвітки для вправ мобільності; можливо лишити нейтральне тіло чи акцентувати спину/найширші відповідно до мети."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0322",
+      "name_uk": "Поза голуба",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "blocker",
+          "domain": "muscle_highlight",
+          "problem_uk": "Поза голуба: підсвічені передня частина переднього стегна й задня частина заднього стегна, але головний акцент розтягнення — сідничні та зовнішні ротатори передньої ноги.",
+          "suggested_correction_uk": "Перегенерувати або перемалювати маску підсвітки: глютеальна зона і зовнішні ротатори передньої ноги; не виділяти обидва стегна як основну мішень."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0332",
+      "name_uk": "Кола плечима",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "needs_motion",
+          "domain": "single_frame",
+          "problem_uk": "Один статичний кадр не розкриває ключової траєкторії багатофазного руху (берпі, трастер, турецький підйом, кола плечима, повороти шиї).",
+          "suggested_correction_uk": "Залишити ілюстрацію як прев’ю, але на detail обов’язково показати коректну багатофазну демонстрацію (відео/послідовність), або уточнити фазу в підписі."
+        }
+      ]
+    },
+    {
+      "id": "TR-EX-0340",
+      "name_uk": "Повороти шиї сидячи",
+      "source_image_status": "specialist_review_required",
+      "recommended_changes": [
+        {
+          "severity": "needs_motion",
+          "domain": "single_frame",
+          "problem_uk": "Один статичний кадр не розкриває ключової траєкторії багатофазного руху (берпі, трастер, турецький підйом, кола плечима, повороти шиї).",
+          "suggested_correction_uk": "Залишити ілюстрацію як прев’ю, але на detail обов’язково показати коректну багатофазну демонстрацію (відео/послідовність), або уточнити фазу в підписі."
+        }
+      ]
+    }
+  ]
+}

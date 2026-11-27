@@ -1,0 +1,1366 @@
+{
+  "TR-EX-0001": {
+    "status": "specialist_review_required",
+    "notes": "Bodyweight setup, full-body crop and visible limbs checked. Confirm precise quadriceps mask boundaries."
+  },
+  "TR-EX-0002": {
+    "status": "specialist_review_required",
+    "notes": "Upper-back bar, rack and planted feet identifiable. Confirm exact quadriceps map and that the far sleeve collar reads correctly."
+  },
+  "TR-EX-0003": {
+    "status": "specialist_review_required",
+    "notes": "Front-rack squat, loaded bar and full-body crop visible. Confirm wrist and fingertip placement and quadriceps mask."
+  },
+  "TR-EX-0004": {
+    "status": "specialist_review_required",
+    "notes": "One dumbbell vertically cupped against chest, squat position and full-body framing checked. Confirm precise quadriceps boundary."
+  },
+  "TR-EX-0005": {
+    "status": "specialist_review_required",
+    "notes": "Both dumbbells visible; far grip is occluded. Confirm the exact grip and quadriceps mask."
+  },
+  "TR-EX-0006": {
+    "status": "specialist_review_required",
+    "notes": "Both Smith guide tracks and carriage connections visible. Check bar seating and quadriceps mask."
+  },
+  "TR-EX-0007": {
+    "status": "specialist_review_required",
+    "notes": "Bench, feet and hands visible. Verify the squat phase and quadriceps mask boundary."
+  },
+  "TR-EX-0008": {
+    "status": "specialist_review_required",
+    "notes": "Wide stance and one dumbbell between the legs visible. Check highlight overlap at shorts and knee."
+  },
+  "TR-EX-0009": {
+    "status": "specialist_review_required",
+    "notes": "Lowered pause pose and back bar identifiable. Check collars and quadriceps boundary."
+  },
+  "TR-EX-0010": {
+    "status": "specialist_review_required",
+    "notes": "Zercher position identifiable. Check that the shaft seats in both elbow creases without intersecting either forearm."
+  },
+  "TR-EX-0011": {
+    "status": "specialist_review_required",
+    "notes": "One kettlebell and both hands at chest, both feet visible. Check precise quadriceps boundaries."
+  },
+  "TR-EX-0012": {
+    "status": "specialist_review_required",
+    "notes": "Hack sled rails, shoulder pads and both planted feet visible. Check pad contact and alignment."
+  },
+  "TR-EX-0013": {
+    "status": "specialist_review_required",
+    "notes": "Replacement rendering. Confirm the corrected equipment mechanism and body contacts before approval."
+  },
+  "TR-EX-0014": {
+    "status": "specialist_review_required",
+    "notes": "Hip belt, visible chain and both feet on platform. Verify the linkage transfers resistance between chain and loaded lever."
+  },
+  "TR-EX-0015": {
+    "status": "specialist_review_required",
+    "notes": "45-degree sled, bilateral foot contact and quadriceps visible. Right end of rail and sleeve leave the frame; verify framing and mechanics."
+  },
+  "TR-EX-0016": {
+    "status": "specialist_review_required",
+    "notes": "Seated horizontal press is distinguishable by rail direction and foot placement. Check cable connection and terminal knee position."
+  },
+  "TR-EX-0017": {
+    "status": "specialist_review_required",
+    "notes": "Replacement rendering. Confirm the corrected equipment mechanism and body contacts before approval."
+  },
+  "TR-EX-0018": {
+    "status": "specialist_review_required",
+    "notes": "Only the active leg contacts the sled and has a highlighted quadriceps. Check clearance of the resting foot and the near-lockout position."
+  },
+  "TR-EX-0019": {
+    "status": "specialist_review_required",
+    "notes": "Both shins extend together against a front roller. Check the knee-axis alignment with the machine pivot."
+  },
+  "TR-EX-0020": {
+    "status": "specialist_review_required",
+    "notes": "Replacement rendering. Confirm the corrected equipment mechanism and body contacts before approval."
+  },
+  "TR-EX-0021": {
+    "status": "specialist_review_required",
+    "notes": "Forward lunge endpoint with planted lead foot and elevated rear heel. Confirm lead quadriceps mask and rear toe contact."
+  },
+  "TR-EX-0022": {
+    "status": "specialist_review_required",
+    "notes": "Both dumbbells and forward lunge endpoint visible. Confirm lead quadriceps mask and far grip."
+  },
+  "TR-EX-0023": {
+    "status": "specialist_review_required",
+    "notes": "Reverse lunge endpoints match the load and stance. The step direction is conveyed by the exercise name because the bottom pose resembles a forward lunge."
+  },
+  "TR-EX-0024": {
+    "status": "specialist_review_required",
+    "notes": "Both Smith guide rails and rear foot visible. Check that coloring the rear quadriceps is consistent with the lead-leg emphasis used in other lunge illustrations."
+  },
+  "TR-EX-0025": {
+    "status": "specialist_review_required",
+    "notes": "Barbell on upper back and lead quadriceps visible. Confirm collar and kneeling-depth details."
+  },
+  "TR-EX-0026": {
+    "status": "specialist_review_required",
+    "notes": "Walking-lunge load and stance visible. Still shows the bottom phase; see the movement label for direction."
+  },
+  "TR-EX-0027": {
+    "status": "specialist_review_required",
+    "notes": "Rear instep supported on bench, two separate dumbbells and planted lead foot. Confirm far-hand contact and mask."
+  },
+  "TR-EX-0028": {
+    "status": "specialist_review_required",
+    "notes": "Rear-foot elevation, guide rails and bar carriage visible. Confirm equipment and stance."
+  },
+  "TR-EX-0029": {
+    "status": "specialist_review_required",
+    "notes": "Rear instep on bench and lead-leg quadriceps highlighted. Confirm far empty hand and contact."
+  },
+  "TR-EX-0030": {
+    "status": "specialist_review_required",
+    "notes": "Both feet on the floor in split stance, no equipment. Confirm precise quadriceps mask and depth."
+  },
+  "TR-EX-0031": {
+    "status": "specialist_review_required",
+    "notes": "Lateral lunge stance, both foot contacts and loaded-side quadriceps visible. Confirm mask boundary."
+  },
+  "TR-EX-0032": {
+    "status": "specialist_review_required",
+    "notes": "Cossack stance with opposite heel grounded and toes raised. Confirm whether the extended-leg highlight is appropriate."
+  },
+  "TR-EX-0033": {
+    "status": "specialist_review_required",
+    "notes": "Replacement after removal of unintended dumbbells. Confirm lead foot contact and quadriceps boundary."
+  },
+  "TR-EX-0034": {
+    "status": "specialist_review_required",
+    "notes": "Both dumbbells, planted lead foot and lifted rear foot are visible. Confirm precise lead quadriceps boundary."
+  },
+  "TR-EX-0035": {
+    "status": "specialist_review_required",
+    "notes": "Controlled step-down with free heel hovering above the floor; quadriceps highlighted on the platform leg. Confirm precise muscle boundary."
+  },
+  "TR-EX-0036": {
+    "status": "approved",
+    "notes": "Working foot flat, free heel visibly clear of floor, hips in contact with flat bench, both hands visible. Only the working anterior thigh colored, stopping above the patella. Full figure and bench within the export."
+  },
+  "TR-EX-0037": {
+    "status": "approved",
+    "notes": "Deep unassisted pistol position, with support foot flat and straight leg clear of floor. Hands and feet distinguishable, no equipment. Only the working anterior thigh highlighted; patella and free leg gray."
+  },
+  "TR-EX-0038": {
+    "status": "approved",
+    "notes": "Both knees and shins rest on the mat, hips extended and trunk in line with thighs at backward lean. Hands and shoes are visible, entire mat in frame. Both anterior thighs highlighted above gray kneecaps."
+  },
+  "TR-EX-0039": {
+    "status": "specialist_review_required",
+    "notes": "Both feet planted and the primary highlight stays on gray-background anterior thighs. Check the loop position at the upper border of the far kneecap and the direction of tension where the loop leaves the near thigh."
+  },
+  "TR-EX-0040": {
+    "status": "specialist_review_required",
+    "notes": "Both heels visibly raised in the top transition, toes on the floor and knees slightly flexed. Quadriceps highlighted per catalog; calves gray. A single top-phase frame cannot show the preceding squat."
+  },
+  "TR-EX-0041": {
+    "status": "approved",
+    "notes": "Top of a bodyweight floor bridge. Shoulders and hands on the mat, both feet planted, hips extended. Lime overlay restricted to the posterior buttocks, with full mat and athlete in frame."
+  },
+  "TR-EX-0042": {
+    "status": "approved",
+    "notes": "Corrected image shows head and shoulders supported on the floor, both feet flat, a single dumbbell held against the pelvis by both hands, and lime gluteal overlay confined to the buttocks. Full body in frame."
+  },
+  "TR-EX-0043": {
+    "status": "specialist_review_required",
+    "notes": "Corrected padded bar is across the hips, with both hands and planted feet visible and gluteal highlight. Upper-back support appears near the mat but neutral head and shoulder-blade contact remain ambiguous from this angle."
+  },
+  "TR-EX-0044": {
+    "status": "specialist_review_required",
+    "notes": "Raised hip-thrust phase with both feet planted, hands stabilizing the padded bar, and gluteal-only overlay. Confirm shoulder-blade support at the bench edge, partially obscured by the arm and near plate."
+  },
+  "TR-EX-0045": {
+    "status": "approved",
+    "notes": "Unmarked plates in corrected render. Both soles on the footplate, upper back contacts the fixed pad, hands on grips, hip roller crosses the pelvis and moving bracket connects to the visible pivot. Only gluteal tissue highlighted."
+  },
+  "TR-EX-0046": {
+    "status": "specialist_review_required",
+    "notes": "Corrected bar is continuous through both carriages, hands and pad. Feet planted, equipment fully in frame, gluteal-only overlay on workout shorts. Confirm bench contact is at the lower shoulder blades rather than the upper arms or lower back."
+  },
+  "TR-EX-0047": {
+    "status": "approved",
+    "notes": "Single supported foot flat, free leg flexed and visibly clear of floor, upper back resting at bench edge. Clear full bench and limbs, only lateral-posterior glute of working leg in lime."
+  },
+  "TR-EX-0048": {
+    "status": "approved",
+    "notes": "Head and upper back clearly on mat in corrected image. Working foot planted, free leg clear, palms grounded. Gluteal-only highlight and full body visible."
+  },
+  "TR-EX-0049": {
+    "status": "specialist_review_required",
+    "notes": "Corrected view shows soles meeting, knees splayed, and near gluteal highlight confined to the posterior hip. Hair obscures exact head contact with the mat; confirm the neck and head support before publication."
+  },
+  "TR-EX-0050": {
+    "status": "specialist_review_required",
+    "notes": "Pads contact outside of knees, feet supported, and full apparatus visible. Corrected overlay is lower than the waist but the upper boundary of gluteus medius and linkage from both swing arms to the resistance stack still warrant verification."
+  },
+  "TR-EX-0051": {
+    "status": "specialist_review_required",
+    "notes": "Standing lateral abduction, grip and planted stance verified. Continuous low-pulley cable joins the cuff on the raised leg, lower machine and athlete remain visible. Confirm that the anterior edge of the isolated lateral hip overlay belongs to gluteus medius rather than tensor fasciae latae."
+  },
+  "TR-EX-0052": {
+    "status": "approved",
+    "notes": "Seated posture, knees pressed outward, both feet planted, and visible bench support. Taut dark loop across distal thighs, small isolated outer hip highlight, grayscale clothing and bench. Far hand naturally obscured by the far thigh."
+  },
+  "TR-EX-0053": {
+    "status": "approved",
+    "notes": "Rear three-quarter view shows a broad lateral step, flexed knees, both shoes, and the taut dark mini-band just above both ankles. Color follows the gluteal region without entering the lower back or thigh."
+  },
+  "TR-EX-0054": {
+    "status": "approved",
+    "notes": "Forward-diagonal stagger is distinct from lateral walk. Lead foot flat, rear forefoot in contact, knees flexed, same mini-band visibly looped at ankles. Highlight is confined to outer gluteal tissue. Full figure in frame."
+  },
+  "TR-EX-0055": {
+    "status": "approved",
+    "notes": "Corrected neck and lower-arm support. Head visibly resting on the lower arm, both hands visible, near palm planted, straight upper leg lifted over the lower leg, highlights confined to the lateral hip. Fingertips and shoes remain inside the exported frame."
+  },
+  "TR-EX-0056": {
+    "status": "approved",
+    "notes": "Lower elbow supports the head through the hand; free palm and lower leg are grounded. Shoes touch, top knee opens with both knees bent, and one band loops above both knees. Compact outer gluteal highlight."
+  },
+  "TR-EX-0057": {
+    "status": "specialist_review_required",
+    "notes": "Revised camera shows two grounded palms, supporting shin and knee, and a distinct bend at the lifted knee. Color is on the working outer glute. Confirm whether the visible pelvic turn is due to perspective or rotation through the movement."
+  },
+  "TR-EX-0058": {
+    "status": "approved",
+    "notes": "Both hands and opposite knee/shin are supported. Bent working knee reaches straight back, heel above knee, and only the working glute is highlighted. All extremities are in frame."
+  },
+  "TR-EX-0059": {
+    "status": "approved",
+    "notes": "Standing hip extension with hands braced, support foot flat, working heel clear of floor, and continuous steel cable from the visible lower pulley to the working ankle cuff. Only the posterior working hip is colored. Upper fixed tower continues beyond frame, all movement-defining components remain visible."
+  },
+  "TR-EX-0060": {
+    "status": "specialist_review_required",
+    "notes": "Working shoe maintains contact with the rear lever plate, support foot is flat on the fixed deck, chest and both hands are supported, and lime is limited to the working glute. Lever and floor pivot are visible. The linkage between pivot and weight stack is obscured and still needs confirmation."
+  },
+  "TR-EX-0061": {
+    "status": "approved",
+    "notes": "Working foot clears the floor in hip extension, standing foot is planted, both arms brace on a rail, and a single dark taut loop wraps both ankles. Lime remains on posterior glute. Full hair silhouette and both shoes are within frame."
+  },
+  "TR-EX-0062": {
+    "status": "approved",
+    "notes": "Feet flat and hip hinge visible. Low pulley feeds a single continuous cable into the rope clip behind the legs, rope passes between the thighs to both hands, and lime is confined to the visible glute. Upper fixed tower continues beyond frame while all active parts remain visible."
+  },
+  "TR-EX-0063": {
+    "status": "approved",
+    "notes": "Revised pose lowers heels and gaze to a controlled mid-range position. Both hands grip the fixed handles, chest and pelvis rest on the high padded reverse hyperextension bench, and both feet hover clear of the floor. Bodyweight bench variant, glutes only in lime."
+  },
+  "TR-EX-0064": {
+    "status": "approved",
+    "notes": "The Roman chair supports upper thighs, shoes press the footplate, and padded ankle assembly is visible. Arms crossed, neck neutral, torso in the near-top phase of the hinge. Color remains on the posterior hip."
+  },
+  "TR-EX-0065": {
+    "status": "approved",
+    "notes": "Corrected head and upper-back contact with the mat. Both heels rest on the stability ball, both palms on mat, pelvis elevated, glute overlay limited to the target. Full figure, mat and ball remain in frame."
+  },
+  "TR-EX-0066": {
+    "status": "approved",
+    "notes": "Revised loop is around both distal thighs with kneecaps visible and lime ends at the posterior hip. Both feet planted and upper back supported on a bench. Clear top phase of a band-only hip thrust."
+  },
+  "TR-EX-0067": {
+    "status": "specialist_review_required",
+    "notes": "Revised frame integrates base and pivot; support shoe, both grips and lifted leg are visible. Verify that the roller contacts the lateral thigh, the plate-loading horn rotates with the working lever, and the overlay is correctly confined to the lateral hip abductors."
+  },
+  "TR-EX-0068": {
+    "status": "specialist_review_required",
+    "notes": "Both pads are clearly medial, shoes are supported, back rests on the seat, and lime is on the inner thighs. Confirm if the far mask extends too far anteriorly and whether the footrests are linked appropriately to the swing arms."
+  },
+  "TR-EX-0069": {
+    "status": "approved",
+    "notes": "The cuffed leg crosses the body centerline in front of the planted leg. Low pulley, taut cable, connector and cuff are traceable. Only medial thigh of crossing leg in lime. Both hands, shoes and moving parts remain visible."
+  },
+  "TR-EX-0070": {
+    "status": "approved",
+    "notes": "Bottom elbow under shoulder, forearm and outer edge of bottom shoe supported, elevated hip and straight upper leg separated. Color stays on the raised-side lateral hip. All extremities in frame."
+  },
+  "TR-EX-0071": {
+    "status": "specialist_review_required",
+    "notes": "Revised gaze and bar position. Feet flat, knees softly bent, both hands hold one continuous bar and plates suspended. Lime limited to posterior thighs. Confirm actual bar-to-shin clearance in this oblique view."
+  },
+  "TR-EX-0072": {
+    "status": "approved",
+    "notes": "Hip hinge, soft knees, planted shoes and both dumbbells held close to shins. Posterior thigh overlay stops at the knee and excludes calves and glutes. Whole figure and both dumbbells remain in frame."
+  },
+  "TR-EX-0073": {
+    "status": "approved",
+    "notes": "Corrected highlight is limited to the near posterior thigh. Both matching Smith carriages connect to a continuous bar, guides pass through the collars, shoes flat and knees soft. Moving equipment, hands and extremities in frame."
+  },
+  "TR-EX-0074": {
+    "status": "approved",
+    "notes": "One support foot flat and opposite leg extended behind. One visible dumbbell and a free hand for balance, loaded hand hangs below shoulder. Lime is confined to the supporting posterior thigh; all edges are clear."
+  },
+  "TR-EX-0075": {
+    "status": "approved",
+    "notes": "Near-straight knees, hips hinged back, both soles supported, both hands gripping one bar with plates clear of the floor. Posterior thigh only. Full equipment inside the crop."
+  },
+  "TR-EX-0076": {
+    "status": "approved",
+    "notes": "Rear-side correction confines overlay to posterior thigh. Both feet flat, knees clearly bent, hands grip the straight bar outside knees, both plates intact within crop."
+  },
+  "TR-EX-0077": {
+    "status": "approved",
+    "notes": "Wide sumo stance with planted feet, toes outward and hands inside knees. Continuous loaded bar and both end plates visible. Color stays on posterior thighs."
+  },
+  "TR-EX-0078": {
+    "status": "specialist_review_required",
+    "notes": "Revised render makes both raised handles, grips and continuous closed frame visible. Both feet supported and overlay on posterior thighs. Confirm neutral handles align fore-aft with the stance and side sections of the frame."
+  },
+  "TR-EX-0079": {
+    "status": "specialist_review_required",
+    "notes": "Both hex dumbbells are separate, grasped and clear of the floor. Planted feet and flexed knees distinguish the lifting phase. Near highlight follows posterior thigh. Confirm edge on the far thigh stays clear of the adductors."
+  },
+  "TR-EX-0080": {
+    "status": "approved",
+    "notes": "Both hands share a continuous handle. One kettlebell hangs between two planted feet. The visible posterior thigh is highlighted and the full silhouette remains inside the crop."
+  },
+  "TR-EX-0081": {
+    "status": "approved",
+    "notes": "Rear-side correction shows the bar supported across upper traps and gripped with both hands. Feet planted, hips hinged, knees soft. Posterior thigh boundaries are visible, with the whole bar inside the crop."
+  },
+  "TR-EX-0082": {
+    "status": "specialist_review_required",
+    "notes": "Corrected pivot is beside the knees. Torso and hips supported, knees flexed, both hands grip and highlight follows posterior thighs. Confirm roller presses on the backs of both lower legs rather than passing through the near leg."
+  },
+  "TR-EX-0083": {
+    "status": "specialist_review_required",
+    "notes": "Corrected first render with a front-shin roller and stack markings. Seat, back support, thigh pad, grips and hamstrings are clear. Confirm continuous lower-leg-to-shoe anatomy and posterior ankle contact behind the partly occluding roller."
+  },
+  "TR-EX-0084": {
+    "status": "specialist_review_required",
+    "notes": "Revised lever is continuous from pivot to roller, with supported foot flat, working knee bent, both hands supported and one main highlight. Confirm pivot alignment and exact posterior lower-leg contact."
+  },
+  "TR-EX-0085": {
+    "status": "specialist_review_required",
+    "notes": "Corrected crop shows both shoes, grips and complete equipment. One knee flexed and the other straight, with pelvis supported. Confirm posterior ankle contact and that the green edge belongs solely to the working thigh."
+  },
+  "TR-EX-0086": {
+    "status": "approved",
+    "notes": "Corrected head and shoulders rest on floor, palms down, hips elevated and both heels visibly press the ball. Color stays on underside of the visible thigh. Full silhouette preserved."
+  },
+  "TR-EX-0087": {
+    "status": "approved",
+    "notes": "Corrected head and shoulder support. Hips lifted during partial curl, heels contact separate grounded sliders, both palms visible. Posterior thigh highlight only and both sliders inside the crop."
+  },
+  "TR-EX-0088": {
+    "status": "approved",
+    "notes": "Both lower legs rest on the base, heels secured under both anchor pads, knee-driven forward lean with hips extended. Hands visibly ready to catch and overlay confined to posterior thighs."
+  },
+  "TR-EX-0089": {
+    "status": "specialist_review_required",
+    "notes": "Corrected frame shows flexed knees, a distinct GHD mid-raise and posterior thighs highlighted. Near shoe visibly against footplate. Far shoe is occluded by near shoe and rollers, so bilateral fixation requires confirmation."
+  },
+  "TR-EX-0090": {
+    "status": "approved",
+    "notes": "Single working heel visibly bears on the flat bench, opposite leg raised, and head, shoulders and palms supported. Only working posterior thigh highlighted. Complete silhouette fits export."
+  },
+  "TR-EX-0091": {
+    "status": "approved",
+    "notes": "Corrected top phase distinguishes swing. Full-body stance with both hands on one unmarked bell, arms extending at chest height and posterior-thigh mask."
+  },
+  "TR-EX-0092": {
+    "status": "specialist_review_required",
+    "notes": "Both loaded ends start on raised blocks while feet remain planted on studio floor. Grip and hinge visible. Verify apparent left and right plate count and exact upper edge of the posterior-thigh mask."
+  },
+  "TR-EX-0093": {
+    "status": "specialist_review_required",
+    "notes": "Straight rear correction restored head alignment and a clearly visible overhand grip with both feet unsupported. Check the top edge of the lat highlight at the sports top hem."
+  },
+  "TR-EX-0094": {
+    "status": "approved",
+    "notes": "Shoulder-width underhand grip visibly distinct from pronated pull-up. Both feet hang, hands wrap the bar and lats only are highlighted."
+  },
+  "TR-EX-0095": {
+    "status": "approved",
+    "notes": "Two independent parallel handles secured to the frame. Palms face each other, feet free, garment and spine graphite after mask correction."
+  },
+  "TR-EX-0096": {
+    "status": "specialist_review_required",
+    "notes": "Revised resistance loop is visibly continuous from bar to proximal lower leg, and feet hang free. Verify exact load point below knee and the stability of the one-leg setup."
+  },
+  "TR-EX-0097": {
+    "status": "approved",
+    "notes": "Both knees bear on the carriage pad, each hand encloses one overhead handle and feet hang free. Corrected color remains on exposed lateral back."
+  },
+  "TR-EX-0098": {
+    "status": "specialist_review_required",
+    "notes": "Reframed to include both ends of the mechanism and continuous path from long bar eyelet to overhead pulley. Wide pronated grip and toe and thigh contacts clear. Confirm bar is ahead of the torso at upper chest from this rear angle."
+  },
+  "TR-EX-0099": {
+    "status": "specialist_review_required",
+    "notes": "Revised handle has separated grips, center clip and visible overhead cable. Feet and thigh restraints make contact. Confirm both grips are oriented fore-aft and that the lateral mask stays clear of the garment."
+  },
+  "TR-EX-0100": {
+    "status": "approved",
+    "notes": "Corrected wider framing shows top pulley, straight bar, continuous taut cable and grounded machine. Supinated grip, supported thighs and both planted feet visible. Lime stays on lateral back."
+  },
+  "TR-EX-0101": {
+    "status": "specialist_review_required",
+    "notes": "Single D-handle and cable path are distinct, feet seated and planted, working-side lat alone highlighted. After correction, verify far idle arm and same-side thigh contact, partially obscured by torso."
+  },
+  "TR-EX-0102": {
+    "status": "approved",
+    "notes": "Compact V attachment held by both hands directly in front of the chest, centered on connected overhead cable. Seat, thigh restraint and feet visibly supported. Highlight confined to exposed lateral back."
+  },
+  "TR-EX-0103": {
+    "status": "approved",
+    "notes": "Both arms near straight with short bar at thighs, taut centered cable reaches high pulley, both shoes grounded. Graphite apparatus and muscle overlay isolated to lats. Full apparatus and body visible."
+  },
+  "TR-EX-0104": {
+    "status": "specialist_review_required",
+    "notes": "Corrected angle shows both hands wrapped around an uninterrupted bar, feet planted and elbows back. Verify the visible lateral mask does not extend onto serratus or abdominal flank."
+  },
+  "TR-EX-0105": {
+    "status": "specialist_review_required",
+    "notes": "Corrected version maintains near-horizontal torso with rearward flexed elbows, both hands on bar and both feet planted. The frame depicts a later pull than the requested near-floor phase; confirm phase and broad lateral mask."
+  },
+  "TR-EX-0106": {
+    "status": "approved",
+    "notes": "Separate same-side supporting palm and knee both bear on bench, working foot planted, working hand lifts one dumbbell toward lower ribs. Only exposed working lat highlighted."
+  },
+  "TR-EX-0107": {
+    "status": "specialist_review_required",
+    "notes": "Corrected angle shows both independently grasped dumbbells, both planted feet and hinge. Verify exact lateral mask edge near the lower ribs."
+  },
+  "TR-EX-0108": {
+    "status": "approved",
+    "notes": "Chest is supported on inclined pad, both hands on separate dumbbells with elbows rearward, and both shoes meet floor. Full bench and isolated bilateral lat mask visible."
+  },
+  "TR-EX-0109": {
+    "status": "approved",
+    "notes": "Corrected handle reveals both closed neutral grips, one taut low cable and both soles planted against separate footplates. Hips supported, torso upright, lateral back alone colored."
+  },
+  "TR-EX-0110": {
+    "status": "specialist_review_required",
+    "notes": "Reframed render shows full tower, footplate contacts and a wide bar with two hands and center clip. Repeated correction did not resolve symmetry of the elbows or the exact position of the bar relative to the torso."
+  },
+  "TR-EX-0111": {
+    "status": "approved",
+    "notes": "One hand grips one connected D-handle while the other rests on its own thigh. Grounded frame, neutral seated torso and two soles on footplates. Working lateral back highlighted."
+  },
+  "TR-EX-0112": {
+    "status": "specialist_review_required",
+    "notes": "Corrected bilateral lever machine is shown with hand contact on both independent handles and both feet supported. Confirm that the green falloff near the top edge of the shirt does not leave exposed lat area."
+  },
+  "TR-EX-0113": {
+    "status": "approved",
+    "notes": "Both feet on foot platforms, chest against fixed pad and hands on the two linked lever grips. Complete machine and exposed lat highlight visible."
+  },
+  "TR-EX-0114": {
+    "status": "approved",
+    "notes": "Rear-side correction shows full fixed landmine hinge, continuous bar, plate load and two hand contacts. Feet grounded on either side and the visible posterior lat stays highlighted."
+  },
+  "TR-EX-0115": {
+    "status": "approved",
+    "notes": "Chest held against inclined pad, both feet flat on separate platforms and both hands wrap handles fixed to the loaded lever. Full grounded apparatus and lateral lat only visible."
+  },
+  "TR-EX-0116": {
+    "status": "specialist_review_required",
+    "notes": "Corrected crop includes both full Smith uprights and shows one solid bar running through the sliding carriages. Both grips and feet visible. Verify plate balance and lateral mask edge near the serratus."
+  },
+  "TR-EX-0117": {
+    "status": "approved",
+    "notes": "Both heels visibly supported beneath a straight body, both hands grip the low rigid bar and elbows draw back. Entire fixed frame present and visible lateral lat colored."
+  },
+  "TR-EX-0118": {
+    "status": "specialist_review_required",
+    "notes": "Both straps taut through distinct hand loops and both shoes planted with straight-body lean. Verify wall plane and load-bearing anchor behind the visible bolt plate."
+  },
+  "TR-EX-0119": {
+    "status": "specialist_review_required",
+    "notes": "Corrected rear angle places mask on lateral back instead of front ribs. Both heels rest and the loop wraps both shoes. Verify that the far strand reaches the far grip, which is largely hidden."
+  },
+  "TR-EX-0120": {
+    "status": "specialist_review_required",
+    "notes": "Single kettlebell held by working hand and opposite palm braces same-side thigh, feet planted. Verify edge of the highlight near the side ribs."
+  },
+  "TR-EX-0121": {
+    "status": "specialist_review_required",
+    "notes": "Wide elbows, two separately gripped dumbbells and both feet visible. Highlight follows the rear-delt action wording while the category reads Back. Verify target and exact posterior shoulder boundaries."
+  },
+  "TR-EX-0122": {
+    "status": "approved",
+    "notes": "Two dumbbells hang below nearly straight arms, feet grounded and shoulder girdle elevated. Color is confined to upper trapezius and the full rear silhouette fits."
+  },
+  "TR-EX-0123": {
+    "status": "specialist_review_required",
+    "notes": "Front barbell position, raised shoulders, long arms and firmly planted feet confirmed. Rear-angle correction moved bar behind thighs, so retained front-bar render. Check faint highlight along front neck."
+  },
+  "TR-EX-0124": {
+    "status": "approved",
+    "notes": "Both rope ends held with elbows open, rope connects to taut face-height cable and pulley. Both shoes flat and lime isolated to posterior deltoid caps."
+  },
+  "TR-EX-0125": {
+    "status": "specialist_review_required",
+    "notes": "Corrected image shows both arms extended in an unsupported active hang and both hands on fixed bar. Reduced mask to lower scapular region. Confirm lower-trapezius boundary and active depression from this single frame."
+  },
+  "TR-EX-0126": {
+    "status": "approved",
+    "notes": "Roman chair pad supports frontal pelvis and thighs, padded rollers secure both ankles and shoes press footplates. Torso aligned with legs, crossed arms and only lumbar extensors colored."
+  },
+  "TR-EX-0127": {
+    "status": "approved",
+    "notes": "Reframed so both hands and both feet have clear margins. Abdomen and pelvis supported, gaze down, both arms and legs modestly elevated. Highlight confined to lumbar extensor area."
+  },
+  "TR-EX-0128": {
+    "status": "specialist_review_required",
+    "notes": "Revised head and upper back are supported, both feet grounded and both hands cup one intact dumbbell. Confirm the narrow near-lat highlight boundary along the dark shirt opening."
+  },
+  "TR-EX-0129": {
+    "status": "specialist_review_required",
+    "notes": "Full seated pullover machine, two visible hand grips, near elbow on lever pad and both feet planted. Confirm far elbow-pad contact and alignment of the linked levers."
+  },
+  "TR-EX-0130": {
+    "status": "specialist_review_required",
+    "notes": "Corrected viewpoint reveals both hands on separate rope ends and a shared cable carabiner, with both feet planted. Confirm the near lateral mask does not spread onto the serratus and the exact chest-height pull."
+  },
+  "TR-EX-0131": {
+    "status": "approved",
+    "notes": "Revised flat bench visibly supports the head, shoulders and hips. Two hands on a continuous bar, both feet planted, and both plate stacks inside frame. Only the chest region highlighted."
+  },
+  "TR-EX-0132": {
+    "status": "approved",
+    "notes": "Reframed to show both rack uprights, loaded bar and incline bench. Head and shoulders supported, hips seated and both soles planted. Upper chest highlight clear."
+  },
+  "TR-EX-0133": {
+    "status": "specialist_review_required",
+    "notes": "Decline, both hand grips, head and shoulder contact, and weighted bar are clear. Verify far ankle is held by the rear roller; it is partially hidden by the near leg and plates."
+  },
+  "TR-EX-0134": {
+    "status": "specialist_review_required",
+    "notes": "Revised frame shows narrow symmetric grip, elbows tucked and both feet planted. Confirm the back of the head contacts the pad and the bar projects above the sternum from this oblique view."
+  },
+  "TR-EX-0135": {
+    "status": "approved",
+    "notes": "Corrected horizontal head and torso support with both feet flat and two independently gripped dumbbells separated over chest. Pectoral-only highlight."
+  },
+  "TR-EX-0136": {
+    "status": "approved",
+    "notes": "Distinct incline seat and back pad, both feet supported, symmetrical press phase with two visible dumbbell grips. Upper pectoral overlay only."
+  },
+  "TR-EX-0137": {
+    "status": "specialist_review_required",
+    "notes": "Clearly declined bench, head supported and both separate dumbbells gripped. Confirm bilateral ankle roller support and the pectoral mask boundary at anterior shoulder."
+  },
+  "TR-EX-0138": {
+    "status": "specialist_review_required",
+    "notes": "Corrected camera separates both dumbbells and hand contacts, with feet and near elbow supported. Confirm the back of the head and far elbow rest on floor from the selected angle."
+  },
+  "TR-EX-0139": {
+    "status": "approved",
+    "notes": "Corrected head, shoulders and pelvis rest visibly on floor, soles planted, both hands grip one level bar. Pectoral overlay clear and complete plates visible."
+  },
+  "TR-EX-0140": {
+    "status": "approved",
+    "notes": "Corrected flat bench supports head and shoulders. Bar continuous through both Smith carriages, both hands grasp bar, feet planted and full machine visible."
+  },
+  "TR-EX-0141": {
+    "status": "specialist_review_required",
+    "notes": "Corrected rack crop and two carriage connections. Incline seat and both grounded feet visible. Confirm head contact through hair and exact upper-chest bar path."
+  },
+  "TR-EX-0142": {
+    "status": "approved",
+    "notes": "Two hands grip matched separate machine arms, seated back support and both feet flat. Pectorals highlighted and complete apparatus visible."
+  },
+  "TR-EX-0143": {
+    "status": "approved",
+    "notes": "Working hand holds one handle while opposite hand rests on its own thigh. Seated support and both feet planted, highlight limited to working pectoral area."
+  },
+  "TR-EX-0144": {
+    "status": "approved",
+    "notes": "Both palms and both forefeet planted in an unsupported knee-free plank. Elbows flexed and chest overlay restricted to pectorals. Whole figure in crop."
+  },
+  "TR-EX-0145": {
+    "status": "specialist_review_required",
+    "notes": "Knees and both palms supported, both feet elevated, and pectoral highlight readable. Confirm hip alignment in the lowered phase and lateral pectoral boundary."
+  },
+  "TR-EX-0146": {
+    "status": "approved",
+    "notes": "Hands support weight on the flat bench top and both forefeet contact floor. Elbows flexed, body elevated and pectorals alone highlighted."
+  },
+  "TR-EX-0147": {
+    "status": "approved",
+    "notes": "Both palms grounded and both forefeet supported by bench. Hips and legs elevated, elbows bent and chest highlight visible. Complete equipment just inside frame."
+  },
+  "TR-EX-0148": {
+    "status": "approved",
+    "notes": "Narrow pair of flat palms under torso, both toes anchored, elbows tucked, knees off floor. Pectoral-only overlay."
+  },
+  "TR-EX-0149": {
+    "status": "specialist_review_required",
+    "notes": "Both hands grasp separate parallel apparatus rails, torso leans forward, knees flex and feet hang unsupported. Confirm fore-aft grip alignment and matched elbow angle."
+  },
+  "TR-EX-0150": {
+    "status": "approved",
+    "notes": "Both knees rest directly on connected counterweight pad, both feet hang free and both hands grasp fixed dip handles. Whole machine and pectoral-only overlay visible."
+  },
+  "TR-EX-0151": {
+    "status": "approved",
+    "notes": "Flat pad supports head and back. Both feet planted, double arms form a wide soft-elbow fly arc, independently grasped hex dumbbells and isolated pectoral mask."
+  },
+  "TR-EX-0152": {
+    "status": "specialist_review_required",
+    "notes": "Incline pad and seat support torso and hips, arms spread symmetrically with two separately grasped weights and feet flat. Confirm back of head is in contact with top of pad behind hair."
+  },
+  "TR-EX-0153": {
+    "status": "approved",
+    "notes": "Both taut cables slope from overhead pulleys to separated handles near hips. Staggered stance has floor contact, only lower chest highlighted."
+  },
+  "TR-EX-0154": {
+    "status": "approved",
+    "notes": "Both low pulleys and continuous connections lead to hands raised at the top of an upward path. Feet planted and mask on pectorals; full machine present."
+  },
+  "TR-EX-0155": {
+    "status": "approved",
+    "notes": "Corrected arm angle clearly reads as a fly. Separate handles and both visible chest-height cable paths, feet and full apparatus in frame. Pectoral overlay only."
+  },
+  "TR-EX-0156": {
+    "status": "approved",
+    "notes": "Both vertically flexed forearms visibly load the inward-moving pads, handles gripped and back supported. Both feet flat, complete machine shown and chest highlighted."
+  },
+  "TR-EX-0157": {
+    "status": "approved",
+    "notes": "Single bolted anchor supports two visible taut band strands leading to both hand contacts. Feet planted uphill of the load path, chest only colored. All movement-defining connections in frame."
+  },
+  "TR-EX-0158": {
+    "status": "approved",
+    "notes": "Corrected side view shows skull, shoulder blades and hips supported by flat bench. One hand presses one dumbbell, other hand rests on abdomen and both feet stay planted. Ipsilateral chest only."
+  },
+  "TR-EX-0159": {
+    "status": "approved",
+    "notes": "Standing split-stance press with both handles and independently connected cables visible. Elbows remain flexed as handles drive forward. Feet supported and pectoral target isolated."
+  },
+  "TR-EX-0160": {
+    "status": "approved",
+    "notes": "Both palms meet airborne with two intact arms, both forefeet planted, knees clear and body extended. Near and far pectoral highlight clear."
+  },
+  "TR-EX-0161": {
+    "status": "approved",
+    "notes": "Two separately gripped dumbbells, centered seated posture, upright back support and planted feet. Only shoulder caps highlighted."
+  },
+  "TR-EX-0162": {
+    "status": "specialist_review_required",
+    "notes": "Standing overhead phase, two separate dumbbells at comparable height and both feet planted. Confirm the lower anterior-deltoid highlight falloff does not cover the adjacent upper arm."
+  },
+  "TR-EX-0163": {
+    "status": "approved",
+    "notes": "Floor and seat support, both hands grasp separate dumbbells at front starting position. Inward-facing palms and forwards elbows differentiate the Arnold press. Deltoid color only."
+  },
+  "TR-EX-0164": {
+    "status": "approved",
+    "notes": "Full loaded overhead bar clear of head, both hands gripping, planted stance and deltoid-only color. Plate edges are inside crop."
+  },
+  "TR-EX-0165": {
+    "status": "specialist_review_required",
+    "notes": "Seated back support, planted feet, two overhand grips and deltoid highlight. Verify bar position just in front of head from the selected front-biased angle."
+  },
+  "TR-EX-0166": {
+    "status": "approved",
+    "notes": "Both hands wrap separate connected lever handles. Seated hip and back support, both soles planted, and isolated shoulder caps. Complete frame edges visible."
+  },
+  "TR-EX-0167": {
+    "status": "approved",
+    "notes": "One hand supports bell handle overhead with bell resting behind forearm. Other arm relaxed, stance planted and only working deltoid colored. Raised hand and bell fit the export."
+  },
+  "TR-EX-0168": {
+    "status": "approved",
+    "notes": "One hand holds the rising sleeve, idle hand is empty, feet planted. Clear fixed floor hinge and one continuous diagonal loaded shaft. Working anterior shoulder highlighted."
+  },
+  "TR-EX-0169": {
+    "status": "specialist_review_required",
+    "notes": "Both hands clasp same sleeve of one continuous diagonal bar with a visible floor pivot and load. Feet planted. Check near deltoid overlay edge adjacent to the upper arm."
+  },
+  "TR-EX-0170": {
+    "status": "approved",
+    "notes": "Two separate weights on laterally raised, softly bent arms, neutral stance and isolated mid-deltoid caps. Full width and height in frame."
+  },
+  "TR-EX-0171": {
+    "status": "approved",
+    "notes": "One lateral lift with one intact dumbbell, other arm empty and relaxed, feet flat. Only working lateral deltoid colored."
+  },
+  "TR-EX-0172": {
+    "status": "approved",
+    "notes": "One raised hand grips one connected handle; cable can be traced to the opposite low pulley. Feet grounded, other arm relaxed and working mid deltoid alone highlighted."
+  },
+  "TR-EX-0173": {
+    "status": "approved",
+    "notes": "Corrected front view shows both lateral upper arms rising into paired rollers without overlap. Both hand grips, seat support, feet and bilateral shoulder mask are visible."
+  },
+  "TR-EX-0174": {
+    "status": "specialist_review_required",
+    "notes": "Two separate dumbbells held in front at matching height and both soles planted. Verify the front shoulder target excludes the lateral deltoid."
+  },
+  "TR-EX-0175": {
+    "status": "approved",
+    "notes": "Both hands grasp opposite edges of one unmarked plate raised in front. Both feet flat, upright trunk, full silhouette and isolated shoulder overlay."
+  },
+  "TR-EX-0176": {
+    "status": "approved",
+    "notes": "Rear-biased view shows both separate weights in an open arc, hinged torso, two grounded feet and posterior deltoid-only target."
+  },
+  "TR-EX-0177": {
+    "status": "approved",
+    "notes": "Chest braced against pad with both hands on separate connected levers, feet flat and rear deltoids colored. Full apparatus fits the card."
+  },
+  "TR-EX-0178": {
+    "status": "approved",
+    "notes": "Two continuous diagonal cables cross between opposite handles and their pulleys. Both shoes grounded, both hands distinct and posterior shoulder only highlighted."
+  },
+  "TR-EX-0179": {
+    "status": "specialist_review_required",
+    "notes": "Reframed full tower and body, forearms rotate upward and hands hold separate rope ends. Confirm far rope routing behind the partly obscuring hair and right-hand symmetry."
+  },
+  "TR-EX-0180": {
+    "status": "approved",
+    "notes": "One loaded bar grasped in pronation with both elbows guided outward and bar in front. Feet flat, full plates visible and middle deltoids highlighted."
+  },
+  "TR-EX-0181": {
+    "status": "approved",
+    "notes": "Two distinct chest-height dumbbells and both grips visible, elbows above wrists, planted feet and isolated middle-deltoid caps."
+  },
+  "TR-EX-0182": {
+    "status": "specialist_review_required",
+    "notes": "Corrected rear view shows a clear upward Y, both thumbs and grip-free hands, supported chest and feet. Confirm muscle emphasis between posterior deltoid and lower trapezius for this raise."
+  },
+  "TR-EX-0183": {
+    "status": "approved",
+    "notes": "Two unweighted hands form lateral T, thumbs up, chest supported with both feet braced. Target only posterior deltoids and full bench within frame."
+  },
+  "TR-EX-0184": {
+    "status": "approved",
+    "notes": "One continuous unanchored band held with both hands at chest level, shoulders open, feet planted. Rear shoulder caps only highlighted."
+  },
+  "TR-EX-0185": {
+    "status": "specialist_review_required",
+    "notes": "Corrected frontal pose: band lies across abdomen pulling inward, elbow fixed, working forearm rotates outward, feet planted. Fluorescent deltoid removed. Deep cuff muscle overlay pending anatomical review."
+  },
+  "TR-EX-0186": {
+    "status": "specialist_review_required",
+    "notes": "Corrected setup shows band attached on working side, anchored elbow at waist and hand drawing inward. No overlay because the deep subscapularis is occluded. Anatomical overlay pending."
+  },
+  "TR-EX-0187": {
+    "status": "specialist_review_required",
+    "notes": "Corrected front view shows working hand pulls outward against an opposite-side waist-height cable, with pinned elbow, clear D-handle and planted feet. Deep cuff overlay pending anatomical review."
+  },
+  "TR-EX-0188": {
+    "status": "specialist_review_required",
+    "notes": "Inverted V and both palm and forefoot contacts are clear; head stays clear of floor, elbows bend. Verify anterior-versus-lateral deltoid mask from the elevated angle."
+  },
+  "TR-EX-0189": {
+    "status": "specialist_review_required",
+    "notes": "Both palms grounded, head clear and both shoes visibly contact vertical wall. Confirm bilateral heel contact and anterior deltoid boundary in inverted view."
+  },
+  "TR-EX-0190": {
+    "status": "approved",
+    "notes": "Two hanging kettlebells gripped separately, arms straight, raised scapular girdle and both feet flat. Upper trapezius isolated."
+  },
+  "TR-EX-0191": {
+    "status": "approved",
+    "notes": "Both supinated hands grasp one straight bar in mid curl, torso upright and feet flat. Bilateral front upper-arm biceps only highlighted."
+  },
+  "TR-EX-0192": {
+    "status": "approved",
+    "notes": "Clear curved EZ bar and both angled underhand grips, elbows flexed beside torso, feet supported. Biceps only."
+  },
+  "TR-EX-0193": {
+    "status": "approved",
+    "notes": "Standing dumbbell curl with two underhand grips, soft knees and both feet grounded. Biceps overlay contained."
+  },
+  "TR-EX-0194": {
+    "status": "approved",
+    "notes": "Flat bench seat and both feet support posture. Separate underhand dumbbells and both biceps clear."
+  },
+  "TR-EX-0195": {
+    "status": "specialist_review_required",
+    "notes": "True neutral thumb-up hammer grip and both feet grounded. Confirm the mask distinguishes brachialis emphasis within the catalog's biceps category."
+  },
+  "TR-EX-0196": {
+    "status": "approved",
+    "notes": "Both upper arms supported on preacher pad, supinated grip on EZ bar, seated hips and grounded feet; only biceps colored."
+  },
+  "TR-EX-0197": {
+    "status": "approved",
+    "notes": "One working upper arm presses onto angled pad, one dumbbell in supination, idle hand braced on bench. Working biceps only."
+  },
+  "TR-EX-0198": {
+    "status": "approved",
+    "notes": "Working elbow braced against inner thigh and single dumbbell gripped. Both feet planted and idle hand supported. Only working biceps colored."
+  },
+  "TR-EX-0199": {
+    "status": "approved",
+    "notes": "Torso supported on incline backrest, hips seated, both soles planted and separate supinated grips with arms close to body. Biceps isolated."
+  },
+  "TR-EX-0200": {
+    "status": "approved",
+    "notes": "Both palms under a short bar, elbows flex close to torso, taut center cable and low pulley visible. Feet planted and biceps isolated."
+  },
+  "TR-EX-0201": {
+    "status": "approved",
+    "notes": "Exactly two neutral rope grips with continuous strands, low pulley and centered connector. Upright stance, floor contact and isolated anterior upper-arm target."
+  },
+  "TR-EX-0202": {
+    "status": "approved",
+    "notes": "Both upper arms supported on curl pad, both grips and the attached moving lever visible, both feet planted. Biceps overlay contained."
+  },
+  "TR-EX-0203": {
+    "status": "approved",
+    "notes": "Reframe contains full equipment. Working elbow remains behind torso and single low cable behind connects to working grip. Feet grounded, only working biceps."
+  },
+  "TR-EX-0204": {
+    "status": "approved",
+    "notes": "Two independently anchored high cables and grips, both elbows held out and flexed. Biceps highlighted with torso and stance stable."
+  },
+  "TR-EX-0205": {
+    "status": "specialist_review_required",
+    "notes": "Overhand grip, bar and grounded stance visible. Confirm that the small flexor patch emphasizes brachialis in pronation rather than primarily biceps."
+  },
+  "TR-EX-0206": {
+    "status": "specialist_review_required",
+    "notes": "Seated support and both forearms braced on thighs, shaft and both grips clear after correction. Confirm palms are fully supinated and wrists project beyond knees."
+  },
+  "TR-EX-0207": {
+    "status": "specialist_review_required",
+    "notes": "Both forearms supported and pronated, each hand holds one dumbbell, dorsal forearm target. Verify extension angle at both wrists."
+  },
+  "TR-EX-0208": {
+    "status": "approved",
+    "notes": "Two hands grip one roller, center cord winds around it and supports one plate free of floor. Stable stance, forearm color only."
+  },
+  "TR-EX-0209": {
+    "status": "approved",
+    "notes": "One disc is pinched on the solid edge with center hole unused, second hand relaxed, both soles on floor. Color limited to loaded forearm."
+  },
+  "TR-EX-0210": {
+    "status": "approved",
+    "notes": "Overhead fixed bar with both wrapped grips, extended elbows and unsupported feet. Only forearm grip region highlighted. Full fixture in frame."
+  },
+  "TR-EX-0211": {
+    "status": "specialist_review_required",
+    "notes": "Reframed pulley and complete tower, rope ends held separately, torso upright and feet planted. Confirm far-arm highlight stays on posterior upper arm."
+  },
+  "TR-EX-0212": {
+    "status": "approved",
+    "notes": "Both hands hold one short straight bar, elbows extended beside torso and cable joins center clip to high pulley. Feet flat, triceps highlighted."
+  },
+  "TR-EX-0213": {
+    "status": "approved",
+    "notes": "One working handle connected to visible high pulley, working elbow fixed, other hand empty and both soles grounded. Only working triceps colored."
+  },
+  "TR-EX-0214": {
+    "status": "approved",
+    "notes": "Removed stack labels. Both distinct rope ends held overhead, taut rearward cable, full split stance and posterior upper arm highlight."
+  },
+  "TR-EX-0215": {
+    "status": "approved",
+    "notes": "One loaded arm with upper arm beside head and elbow bent, only one dumbbell and stable stance. Working triceps colored."
+  },
+  "TR-EX-0216": {
+    "status": "specialist_review_required",
+    "notes": "Both hands grasp a single curved bar with elbow flexion and grounded feet. Check occipital pad contact and far triceps boundary from this oblique view."
+  },
+  "TR-EX-0217": {
+    "status": "approved",
+    "notes": "Two independent dumbbells, elbows bent above shoulders, head and torso supported by bench and both feet planted. Triceps only colored."
+  },
+  "TR-EX-0218": {
+    "status": "approved",
+    "notes": "Both hands share one dumbbell behind head, elbows drawn up, seated support and soles grounded. Posterior upper arms highlighted."
+  },
+  "TR-EX-0220": {
+    "status": "approved",
+    "notes": "Rear upper-arm triceps only, one dumbbell with intact plates, both feet grounded and free palm braced on thigh."
+  },
+  "TR-EX-0221": {
+    "status": "approved",
+    "notes": "Single D-handle attached to a continuous cable down to the anchored low pulley. Rear upper-arm triceps only, both feet grounded. Tall frame continues beyond the edge without losing the pulley or connection."
+  },
+  "TR-EX-0223": {
+    "status": "approved",
+    "notes": "Both hands support the body at the front edge of the bench, feet planted, knees bent, elbows bend rearward, and visible posterior upper arm is highlighted."
+  },
+  "TR-EX-0225": {
+    "status": "approved",
+    "notes": "Close bilateral grip with the bar constrained by the Smith guide rails, the back supported, both feet planted, and the posterior upper arms isolated."
+  },
+  "TR-EX-0226": {
+    "status": "approved",
+    "notes": "Taut loop of resistance band anchored high on a rack, one strand in each hand at full extension, shoulders steady, posterior upper arms highlighted."
+  },
+  "TR-EX-0227": {
+    "status": "approved",
+    "notes": "Both forearms and tucked toes contact the floor, body remains braced without obvious sag, and the lateral abdominal wall is isolated."
+  },
+  "TR-EX-0219": {
+    "status": "specialist_review_required",
+    "notes": "The repeated rear view isolates both triceps and clearly shows the near machine grip. The far-hand grip under load remains obscured; verify the bilateral contact and lever geometry."
+  },
+  "TR-EX-0222": {
+    "status": "approved",
+    "notes": "Both flat palms touch at index fingers and thumb tips, leaving the diamond opening. Both toes support a straight top position and posterior triceps are highlighted."
+  },
+  "TR-EX-0224": {
+    "status": "approved",
+    "notes": "Each hand holds a separate dip rail, feet are suspended, torso upright and posterior upper arms highlighted."
+  },
+  "TR-EX-0228": {
+    "status": "approved",
+    "notes": "Both palms and sets of toes support the straight-arm plank, hips are elevated in line, and only abdominal wall is colored."
+  },
+  "TR-EX-0229": {
+    "status": "approved",
+    "notes": "Forearm and stacked feet support a straight side plank. Upper hand is on hip and only the oblique wall is highlighted."
+  },
+  "TR-EX-0230": {
+    "status": "approved",
+    "notes": "Two bent knees and shins are visible. The bottom knee and forearm support the raised hips, and the obliques are highlighted."
+  },
+  "TR-EX-0231": {
+    "status": "approved",
+    "notes": "Opposite hand crosses to the shoulder, the other palm and both toes carry body weight, and highlight is limited to the abdominal wall."
+  },
+  "TR-EX-0232": {
+    "status": "approved",
+    "notes": "Two palms and the lower toes support the high plank, one trailing leg lifts, and rectus is isolated."
+  },
+  "TR-EX-0233": {
+    "status": "approved",
+    "notes": "One forearm and the opposite palm are on the floor for the transition, with separate feet and anterior abdominal highlight."
+  },
+  "TR-EX-0234": {
+    "status": "approved",
+    "notes": "Bent knees and planted feet remain stable as scapulae lift, fingertips at temples and rectus only."
+  },
+  "TR-EX-0240": {
+    "status": "approved",
+    "notes": "Knees bent, both forearms on their own pads, both hands on handles, back against padded support and feet suspended. Rectus only."
+  },
+  "TR-EX-0241": {
+    "status": "approved",
+    "notes": "Straight paired legs held out in front. Hands on grips and forearms supported by the distinct station pads. Anterior rectus only."
+  },
+  "TR-EX-0242": {
+    "status": "approved",
+    "notes": "Kneeling with both knees planted, both hands on rope ends connected to a high pulley, spine flexed and anterior rectus highlighted."
+  },
+  "TR-EX-0243": {
+    "status": "approved",
+    "notes": "Selectorized crunch machine with a chest pad, both handles gripped, feet grounded, forward flexion and rectus only."
+  },
+  "TR-EX-0237": {
+    "status": "approved",
+    "notes": "Straight paired legs raised with back and shoulders supported, hands braced alongside body, rectus alone highlighted after correction."
+  },
+  "TR-EX-0238": {
+    "status": "approved",
+    "notes": "Both hands grip the overhead bar, body suspended, both knees lifted bent at about 90 degrees. Removed color from both forearms on retry."
+  },
+  "TR-EX-0239": {
+    "status": "approved",
+    "notes": "Dead hang with both hands wrapped around the overhead bar and two straight legs held near horizontal. Removed the extra forearm color."
+  },
+  "TR-EX-0251": {
+    "status": "approved",
+    "notes": "Both hands grip the single ab wheel axle across the wheel, both knees support the long forward reach and anterior abdominal wall is isolated."
+  },
+  "TR-EX-0252": {
+    "status": "approved",
+    "notes": "Barbell rollout with each plate contacting the floor, both hands holding the shaft, both knees supporting and rectus isolated."
+  },
+  "TR-EX-0253": {
+    "status": "approved",
+    "notes": "Lower back on floor, joined legs and arms extended and hovering, rectus isolated."
+  },
+  "TR-EX-0254": {
+    "status": "approved",
+    "notes": "Frozen hollow rock phase with body balanced on rounded low back, arms extended overhead, both legs straight and only anterior abdominal wall highlighted."
+  },
+  "TR-EX-0235": {
+    "status": "approved",
+    "notes": "Supine reverse crunch after correction. Skull and shoulders rest on the floor, both feet lift with knees bent and hips curl, palms down with rectus isolated."
+  },
+  "TR-EX-0236": {
+    "status": "specialist_review_required",
+    "notes": "Bent knee and opposite-shoulder curl are suggested, but the limb overlap makes contralateral elbow-to-knee alignment difficult to confirm after a rerender."
+  },
+  "TR-EX-0245": {
+    "status": "approved",
+    "notes": "One straight arm and the opposite knee support the bird dog, with the other arm and leg extended and the abdominal wall isolated."
+  },
+  "TR-EX-0246": {
+    "status": "approved",
+    "notes": "One horizontal cable feeds a single handgrip held with both hands, feet planted and trunk resisting the side pull, oblique wall isolated."
+  },
+  "TR-EX-0247": {
+    "status": "approved",
+    "notes": "Two strands of the anchored band lead sideways from the rack to a two-hand forward press, both feet planted and only the lateral abdominal wall highlighted."
+  },
+  "TR-EX-0248": {
+    "status": "approved",
+    "notes": "Seated rotation with feet planted, knees bent, torso reclined, both hands joined to one side and lateral abdominal wall highlighted."
+  },
+  "TR-EX-0249": {
+    "status": "approved",
+    "notes": "High pulley and continuous diagonal cable to the two-hand attachment at the opposite hip, both feet planted and lateral abdominal wall only."
+  },
+  "TR-EX-0250": {
+    "status": "approved",
+    "notes": "Low pulley and continuous diagonal cable to the two-hand attachment held high at the opposite shoulder, two stable feet with abdominal obliques isolated."
+  },
+  "TR-EX-0255": {
+    "status": "approved",
+    "notes": "Both hands on separate low parallettes, feet clear of floor, elbows straight and both legs held horizontally. Rectus only."
+  },
+  "TR-EX-0256": {
+    "status": "approved",
+    "notes": "Matched dumbbells in each hand, upright torso in mid-step and abdominal wall isolated."
+  },
+  "TR-EX-0257": {
+    "status": "approved",
+    "notes": "One kettlebell as specified in the catalog, other hand empty, visible stride and non-leaning trunk. Lateral abdominal wall only."
+  },
+  "TR-EX-0258": {
+    "status": "approved",
+    "notes": "Bottom forearm and inside of upper ankle on bench support the long-lever side plank, bottom leg suspended, lateral abdominal wall only."
+  },
+  "TR-EX-0259": {
+    "status": "approved",
+    "notes": "Gentle lateral bend toward the single dumbbell with the free hand on the hip and both feet planted. Lateral abdominal wall only."
+  },
+  "TR-EX-0260": {
+    "status": "approved",
+    "notes": "Seated bench version specified in the movement instructions, with both hands braced on bench, knees drawn toward chest and anterior abdominal wall highlighted."
+  },
+  "TR-EX-0261": {
+    "status": "approved",
+    "notes": "Bodyweight standing heel raise, both forefeet support the lift, knees extended naturally and posterior calf bellies alone highlighted."
+  },
+  "TR-EX-0262": {
+    "status": "approved",
+    "notes": "Bilateral standing heel raise with two dumbbells, both forefeet on floor, heels clearly elevated, and highlight limited to posterior calf bellies."
+  },
+  "TR-EX-0263": {
+    "status": "approved",
+    "notes": "Both shoulders under machine pads, forefeet on the ledge and heels lifted, both grips visible and calf bellies alone highlighted."
+  },
+  "TR-EX-0264": {
+    "status": "approved",
+    "notes": "Thigh-padded seated lever, forefeet on footrest and heels elevated, posterior calf bellies highlighted."
+  },
+  "TR-EX-0265": {
+    "status": "approved",
+    "notes": "Back and hands supported; forefeet press the lower edge of the sled with heels free. Visible working calf belly isolated."
+  },
+  "TR-EX-0267": {
+    "status": "approved",
+    "notes": "Hip-hinged on a dedicated machine with visible plate lever and pelvis pad, forearms supported, heels elevated and calf bellies highlighted."
+  },
+  "TR-EX-0268": {
+    "status": "approved",
+    "notes": "Back supported by wall, heels planted and forefeet lifted. Anterior shin muscles only."
+  },
+  "TR-EX-0269": {
+    "status": "approved",
+    "notes": "Anchored band loops over raised forefoot, the working leg is straight, and only its anterior shin is highlighted."
+  },
+  "TR-EX-0273": {
+    "status": "specialist_review_required",
+    "notes": "Equipment-free running stride with visible reciprocal arm swing and foot placement. Kept neutral because the catalog supplies no specific muscle target."
+  },
+  "TR-EX-0277": {
+    "status": "specialist_review_required",
+    "notes": "Both hands and feet contact separate linked moving handles and platforms. Neutral figure because the catalog supplies no specific muscle target."
+  },
+  "TR-EX-0283": {
+    "status": "specialist_review_required",
+    "notes": "Open jumping jack with arms overhead and legs spread. Neutral figure because the catalog supplies no specific muscle target."
+  },
+  "TR-EX-0244": {
+    "status": "approved",
+    "notes": "New near-overhead view shows the vertical arm opposite the bent knee, the long arm opposite the long leg, and supported head and shoulders. Rectus isolated."
+  },
+  "TR-EX-0266": {
+    "status": "approved",
+    "notes": "Nearly straight vertical supporting leg with its forefoot pushing into flat floor and heel raised, opposite leg floats and only the working calf is highlighted."
+  },
+  "TR-EX-0270": {
+    "status": "approved",
+    "notes": "Side-on correction shows one forefoot on the ledge, its heel below the step surface, other foot suspended, and active rear calf isolated."
+  },
+  "TR-EX-0271": {
+    "status": "specialist_review_required",
+    "notes": "The figure remains neutral grayscale because the catalog supplies only a whole-body category and no specific muscle target. Walking phase with one heel contacting the treadmill belt and rear toes releasing."
+  },
+  "TR-EX-0272": {
+    "status": "specialist_review_required",
+    "notes": "The figure remains neutral grayscale because the catalog supplies only a whole-body category and no specific muscle target. Running phase with one stance foot and a bent, airborne trailing leg on the deck."
+  },
+  "TR-EX-0274": {
+    "status": "specialist_review_required",
+    "notes": "The figure remains neutral grayscale because the catalog supplies only a whole-body category and no specific muscle target. Reciprocal arms and stride with clear heel-to-toe walking contacts."
+  },
+  "TR-EX-0275": {
+    "status": "specialist_review_required",
+    "notes": "The figure remains neutral grayscale because the catalog supplies only a whole-body category and no specific muscle target. Upright bike with saddle supporting weight, two hands on grips and pedal contacts."
+  },
+  "TR-EX-0276": {
+    "status": "specialist_review_required",
+    "notes": "The figure remains neutral grayscale because the catalog supplies only a whole-body category and no specific muscle target. Spin bike with front flywheel, leaned torso, clear hand and pedal interfaces."
+  },
+  "TR-EX-0278": {
+    "status": "specialist_review_required",
+    "notes": "The figure remains neutral grayscale because the catalog supplies only a whole-body category and no specific muscle target. Rowing machine finish with visible feet on footplates, seat on rail, both hands on the handle and one continuous chain."
+  },
+  "TR-EX-0280": {
+    "status": "specialist_review_required",
+    "notes": "The figure remains neutral grayscale because the catalog supplies only a whole-body category and no specific muscle target. Feet on distinct treads of a motorized stepmill and light rail contact."
+  },
+  "TR-EX-0281": {
+    "status": "specialist_review_required",
+    "notes": "The figure remains neutral grayscale because the catalog supplies only a whole-body category and no specific muscle target. Upright stair ascent on static treads, with staggered shoe contact and no machine."
+  },
+  "TR-EX-0282": {
+    "status": "specialist_review_required",
+    "notes": "The figure remains neutral grayscale because the catalog supplies only a whole-body category and no specific muscle target. Both feet suspended while one continuous jump rope runs under the shoes between grips."
+  },
+  "TR-EX-0279": {
+    "status": "specialist_review_required",
+    "notes": "Figure kept neutral because the catalog supplies no specific primary muscle. SkiErg upper phase with two handles and two separate cords cleanly linked to top pulleys. Both feet grounded."
+  },
+  "TR-EX-0284": {
+    "status": "specialist_review_required",
+    "notes": "Figure kept neutral because the catalog supplies no specific primary muscle. Burpee transition with both hands planted and both flexed legs coming forward beneath torso."
+  },
+  "TR-EX-0285": {
+    "status": "specialist_review_required",
+    "notes": "Figure kept neutral because the catalog supplies no specific primary muscle. Mountain climber with both hands down, one knee approaching chest and opposite leg extended."
+  },
+  "TR-EX-0287": {
+    "status": "specialist_review_required",
+    "notes": "Figure kept neutral because the catalog supplies no specific primary muscle. One heel rises toward the glute, the opposite foot remains grounded and arm position reads as jogging."
+  },
+  "TR-EX-0288": {
+    "status": "specialist_review_required",
+    "notes": "Figure kept neutral because the catalog supplies no specific primary muscle. Separate rope ends in alternating high and low hand positions, both strands run to a common visible floor anchor."
+  },
+  "TR-EX-0289": {
+    "status": "specialist_review_required",
+    "notes": "Figure kept neutral because the catalog supplies no specific primary muscle. Both hands hold their own rope at the end of a simultaneous downward pull, both ropes connect to the visible ground anchor."
+  },
+  "TR-EX-0290": {
+    "status": "specialist_review_required",
+    "notes": "Figure kept neutral because the catalog supplies no specific primary muscle. Both hands on loaded sled handles, forward lean and staggered drive stance."
+  },
+  "TR-EX-0291": {
+    "status": "specialist_review_required",
+    "notes": "Figure kept neutral because the catalog supplies no specific primary muscle. Facing the sled and stepping backward, both hands on the continuous taut strap."
+  },
+  "TR-EX-0292": {
+    "status": "specialist_review_required",
+    "notes": "Figure kept neutral because the catalog supplies no specific primary muscle. Start of downward medicine-ball slam, one ball held overhead in both hands, both feet grounded."
+  },
+  "TR-EX-0295": {
+    "status": "specialist_review_required",
+    "notes": "Figure kept neutral because the catalog supplies no specific primary muscle. Both shoes approaching the top of the box, legs in landing tuck, platform and full body visible."
+  },
+  "TR-EX-0296": {
+    "status": "specialist_review_required",
+    "notes": "Figure kept neutral because the catalog supplies no specific primary muscle. Both feet near the floor in front of a low box, captured in rebound with bent knees."
+  },
+  "TR-EX-0298": {
+    "status": "specialist_review_required",
+    "notes": "Figure kept neutral because the catalog supplies no specific primary muscle. A single-foot stable lateral landing with trailing foot unsupported, flexed knee and opposite arm drive."
+  },
+  "TR-EX-0299": {
+    "status": "specialist_review_required",
+    "notes": "Figure kept neutral because the catalog supplies no specific primary muscle. One support foot on top of platform while the other knee is visibly driven toward hip height."
+  },
+  "TR-EX-0300": {
+    "status": "specialist_review_required",
+    "notes": "Figure kept neutral because the catalog supplies no specific primary muscle. One kettlebell in each hand stabilized directly overhead, knees straight and both feet grounded."
+  },
+  "TR-EX-0303": {
+    "status": "specialist_review_required",
+    "notes": "Figure kept neutral because the catalog supplies no specific primary muscle. Shallow knee dip with barbell supported at the front shoulders and both feet grounded."
+  },
+  "TR-EX-0304": {
+    "status": "specialist_review_required",
+    "notes": "Figure kept neutral because the catalog supplies no specific primary muscle. A single kettlebell held overhead in locked arm with the free hand empty, feet braced."
+  },
+  "TR-EX-0286": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication."
+  },
+  "TR-EX-0293": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication."
+  },
+  "TR-EX-0294": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication."
+  },
+  "TR-EX-0297": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication. Regenerated after targeted pose/contact correction."
+  },
+  "TR-EX-0301": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication."
+  },
+  "TR-EX-0302": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication."
+  },
+  "TR-EX-0305": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication."
+  },
+  "TR-EX-0306": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication."
+  },
+  "TR-EX-0307": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication. Regenerated after targeted pose/contact correction."
+  },
+  "TR-EX-0308": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication. Regenerated after targeted pose/contact correction."
+  },
+  "TR-EX-0309": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication."
+  },
+  "TR-EX-0310": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication."
+  },
+  "TR-EX-0311": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication."
+  },
+  "TR-EX-0312": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication."
+  },
+  "TR-EX-0313": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication."
+  },
+  "TR-EX-0314": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication."
+  },
+  "TR-EX-0315": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication."
+  },
+  "TR-EX-0316": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication."
+  },
+  "TR-EX-0317": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication."
+  },
+  "TR-EX-0318": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication."
+  },
+  "TR-EX-0319": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication."
+  },
+  "TR-EX-0320": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication."
+  },
+  "TR-EX-0321": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication."
+  },
+  "TR-EX-0322": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication."
+  },
+  "TR-EX-0323": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication."
+  },
+  "TR-EX-0324": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication."
+  },
+  "TR-EX-0325": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication."
+  },
+  "TR-EX-0326": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication."
+  },
+  "TR-EX-0327": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication. Regenerated after targeted pose/contact correction."
+  },
+  "TR-EX-0328": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication."
+  },
+  "TR-EX-0329": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication."
+  },
+  "TR-EX-0330": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication."
+  },
+  "TR-EX-0331": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication. Regenerated after targeted pose/contact correction."
+  },
+  "TR-EX-0332": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication."
+  },
+  "TR-EX-0333": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication."
+  },
+  "TR-EX-0334": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication."
+  },
+  "TR-EX-0335": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication."
+  },
+  "TR-EX-0336": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication."
+  },
+  "TR-EX-0337": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication."
+  },
+  "TR-EX-0338": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication."
+  },
+  "TR-EX-0339": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication."
+  },
+  "TR-EX-0340": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication."
+  },
+  "TR-EX-0341": {
+    "status": "specialist_review_required",
+    "notes": "Generated on 2026-11-19. Full-body exercise pose and framing inspected in contact sheet; confirm precise anatomy, muscle highlights and load/support contacts before publication."
+  }
+}

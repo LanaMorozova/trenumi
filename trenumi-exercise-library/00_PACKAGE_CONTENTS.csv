@@ -1,0 +1,7 @@
+﻿file,source,role
+catalog/trenumi_exercises_catalog_v3_with_video_links.json,v3 JSON (3),single source of truth
+links/01_main_video_links_341.csv,derived from JSON,341 primary selected links
+links/02_all_source_and_history_urls.csv,derived from JSON,all nested URLs (includes old/rejected candidates)
+images/batch_XX/trenumi_ex_XXXX.webp,image archive,341 original WebP files
+qa/,2026-11-19 files,historical audit references
+templates/,workout templates v2,editorial draft
