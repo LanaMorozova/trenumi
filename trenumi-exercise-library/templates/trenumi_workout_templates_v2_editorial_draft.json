@@ -1,0 +1,422 @@
+{
+  "app": "Trenumi",
+  "version": "2.0",
+  "created_on": "2026-11-18",
+  "status": "editorial_draft_coach_review_required",
+  "catalog_reference": "trenumi_exercises_catalog_v2.json",
+  "catalog_exercise_count": 341,
+  "scope": "Six individual reusable MVP workout templates; no automatic weekly scheduling and no multiweek programs",
+  "audience_note": "The audience filters represent example trainer splits and are not restrictions by sex; all templates can be copied by any trainer.",
+  "intended_duration_minutes": "45–60 including preparation, transitions, and workout; actual time varies by rest and individual needs",
+  "warmup_note": "Light activation and exercise-specific ramp-up sets are distinct from working sets.",
+  "client_weights": "Not stored in shared templates",
+  "library_behavior": {
+    "trainer_owned": "Own saved workouts",
+    "trenumi_official": "Official starter templates",
+    "filters_for_official": [
+      "Для жінок",
+      "Для чоловіків"
+    ],
+    "selection_copy_mode": "Copy official workout into editable unsaved draft; never mutate system template",
+    "sync": "Use the same template records across From Template and Library > Workouts"
+  },
+  "templates": [
+    {
+      "id": "TR-WO-F-001",
+      "title": "Низ тіла A",
+      "audience_filter": "Для жінок",
+      "focus": "Квадрицепси та сідниці",
+      "recommended_sequence_note": "Перший день спліту; пропонована послідовність",
+      "exercise_count": 5,
+      "working_sets_count": 11,
+      "activation_sets_count": 2,
+      "duration_goal_minutes": 60,
+      "exercises": [
+        {
+          "order": 1,
+          "exercise_id": "TR-EX-0050",
+          "exercise_name_uk": "Відведення стегон у тренажері сидячи",
+          "sets": 2,
+          "target_reps": "15–20",
+          "rest_seconds": 45,
+          "set_type": "warmup",
+          "per_side": false,
+          "trainer_note": "Легкі підготовчі підходи, не до відмови; за потреби можна пропустити."
+        },
+        {
+          "order": 2,
+          "exercise_id": "TR-EX-0002",
+          "exercise_name_uk": "Присідання зі штангою на спині",
+          "sets": 3,
+          "target_reps": "8–10",
+          "rest_seconds": 150,
+          "set_type": "working",
+          "per_side": false,
+          "trainer_note": "Після специфічної розминки зі штангою; стабільна опора та контроль траєкторії."
+        },
+        {
+          "order": 3,
+          "exercise_id": "TR-EX-0044",
+          "exercise_name_uk": "Хіп-траст зі штангою",
+          "sets": 3,
+          "target_reps": "8–12",
+          "rest_seconds": 120,
+          "set_type": "working",
+          "per_side": false,
+          "trainer_note": "Зберігай контроль таза; не перерозгинай поперек."
+        },
+        {
+          "order": 4,
+          "exercise_id": "TR-EX-0015",
+          "exercise_name_uk": "Жим ногами під кутом 45°",
+          "sets": 3,
+          "target_reps": "10–12",
+          "rest_seconds": 120,
+          "set_type": "working",
+          "per_side": false,
+          "trainer_note": "Не відривай таз від сидіння."
+        },
+        {
+          "order": 5,
+          "exercise_id": "TR-EX-0019",
+          "exercise_name_uk": "Розгинання ніг сидячи",
+          "sets": 2,
+          "target_reps": "12–15",
+          "rest_seconds": 60,
+          "set_type": "working",
+          "per_side": false,
+          "trainer_note": "Без ривка; контроль опускання."
+        }
+      ]
+    },
+    {
+      "id": "TR-WO-F-002",
+      "title": "Верх тіла",
+      "audience_filter": "Для жінок",
+      "focus": "Спина, груди та плечі",
+      "recommended_sequence_note": "Другий день спліту; пропонована послідовність",
+      "exercise_count": 5,
+      "working_sets_count": 13,
+      "activation_sets_count": 0,
+      "duration_goal_minutes": 60,
+      "exercises": [
+        {
+          "order": 1,
+          "exercise_id": "TR-EX-0098",
+          "exercise_name_uk": "Тяга верхнього блока до грудей широким хватом",
+          "sets": 3,
+          "target_reps": "8–12",
+          "rest_seconds": 90,
+          "set_type": "working",
+          "per_side": false,
+          "trainer_note": "Тягни перед собою до верхньої частини грудей, не за голову."
+        },
+        {
+          "order": 2,
+          "exercise_id": "TR-EX-0135",
+          "exercise_name_uk": "Жим гантелей лежачи",
+          "sets": 3,
+          "target_reps": "8–12",
+          "rest_seconds": 120,
+          "set_type": "working",
+          "per_side": false,
+          "trainer_note": "Зберігай стабільність лопаток і стоп."
+        },
+        {
+          "order": 3,
+          "exercise_id": "TR-EX-0109",
+          "exercise_name_uk": "Горизонтальна тяга нижнього блока вузьким хватом",
+          "sets": 3,
+          "target_reps": "10–12",
+          "rest_seconds": 90,
+          "set_type": "working",
+          "per_side": false,
+          "trainer_note": "Тягни лікті назад без надмірного розгойдування."
+        },
+        {
+          "order": 4,
+          "exercise_id": "TR-EX-0161",
+          "exercise_name_uk": "Жим гантелей сидячи",
+          "sets": 2,
+          "target_reps": "8–12",
+          "rest_seconds": 90,
+          "set_type": "working",
+          "per_side": false,
+          "trainer_note": "Використовуй комфортну амплітуду для плечей."
+        },
+        {
+          "order": 5,
+          "exercise_id": "TR-EX-0170",
+          "exercise_name_uk": "Підйоми гантелей через сторони",
+          "sets": 2,
+          "target_reps": "12–15",
+          "rest_seconds": 60,
+          "set_type": "working",
+          "per_side": false,
+          "trainer_note": "Без маху корпусом; контроль опускання."
+        }
+      ]
+    },
+    {
+      "id": "TR-WO-F-003",
+      "title": "Низ тіла B",
+      "audience_filter": "Для жінок",
+      "focus": "Задня поверхня стегна та сідниці",
+      "recommended_sequence_note": "Третій день спліту; пропонована послідовність",
+      "exercise_count": 4,
+      "working_sets_count": 11,
+      "activation_sets_count": 0,
+      "duration_goal_minutes": 60,
+      "exercises": [
+        {
+          "order": 1,
+          "exercise_id": "TR-EX-0071",
+          "exercise_name_uk": "Румунська тяга зі штангою",
+          "sets": 3,
+          "target_reps": "8–10",
+          "rest_seconds": 150,
+          "set_type": "working",
+          "per_side": false,
+          "trainer_note": "Виконуй рух від таза, тримай штангу близько до ніг."
+        },
+        {
+          "order": 2,
+          "exercise_id": "TR-EX-0083",
+          "exercise_name_uk": "Згинання ніг сидячи",
+          "sets": 3,
+          "target_reps": "10–12",
+          "rest_seconds": 90,
+          "set_type": "working",
+          "per_side": false,
+          "trainer_note": "Контролюй поворотну фазу; не кидай вагу."
+        },
+        {
+          "order": 3,
+          "exercise_id": "TR-EX-0027",
+          "exercise_name_uk": "Болгарські спліт-присідання з гантелями",
+          "sets": 3,
+          "target_reps": "8–10",
+          "rest_seconds": 90,
+          "set_type": "working",
+          "per_side": true,
+          "trainer_note": "Повторення для кожної ноги, роби обидві сторони до початку наступного підходу; пауза після обох ніг."
+        },
+        {
+          "order": 4,
+          "exercise_id": "TR-EX-0059",
+          "exercise_name_uk": "Махи ногою назад у кросовері",
+          "sets": 2,
+          "target_reps": "12–15",
+          "rest_seconds": 60,
+          "set_type": "working",
+          "per_side": true,
+          "trainer_note": "Повторення для кожної ноги; не розгойдуй корпус і не прогинай поперек."
+        }
+      ]
+    },
+    {
+      "id": "TR-WO-M-001",
+      "title": "Груди + біцепс",
+      "audience_filter": "Для чоловіків",
+      "focus": "Груди та біцепс",
+      "recommended_sequence_note": "Перший день спліту; пропонована послідовність",
+      "exercise_count": 5,
+      "working_sets_count": 13,
+      "activation_sets_count": 0,
+      "duration_goal_minutes": 60,
+      "exercises": [
+        {
+          "order": 1,
+          "exercise_id": "TR-EX-0131",
+          "exercise_name_uk": "Жим штанги лежачи",
+          "sets": 3,
+          "target_reps": "6–8",
+          "rest_seconds": 180,
+          "set_type": "working",
+          "per_side": false,
+          "trainer_note": "Перед робочими підходами зроби поступове розігрівання; за потреби страхування."
+        },
+        {
+          "order": 2,
+          "exercise_id": "TR-EX-0136",
+          "exercise_name_uk": "Жим гантелей на похилій лаві",
+          "sets": 3,
+          "target_reps": "8–10",
+          "rest_seconds": 120,
+          "set_type": "working",
+          "per_side": false,
+          "trainer_note": "Контроль амплітуди та стабільна лопатка."
+        },
+        {
+          "order": 3,
+          "exercise_id": "TR-EX-0156",
+          "exercise_name_uk": "Зведення рук у тренажері пек-дек",
+          "sets": 2,
+          "target_reps": "10–15",
+          "rest_seconds": 75,
+          "set_type": "working",
+          "per_side": false,
+          "trainer_note": "Рух без ривків у плечі."
+        },
+        {
+          "order": 4,
+          "exercise_id": "TR-EX-0191",
+          "exercise_name_uk": "Згинання рук зі штангою стоячи",
+          "sets": 3,
+          "target_reps": "8–12",
+          "rest_seconds": 90,
+          "set_type": "working",
+          "per_side": false,
+          "trainer_note": "Не розгойдуй тулуб."
+        },
+        {
+          "order": 5,
+          "exercise_id": "TR-EX-0195",
+          "exercise_name_uk": "Молоткові згинання рук",
+          "sets": 2,
+          "target_reps": "10–12",
+          "rest_seconds": 75,
+          "set_type": "working",
+          "per_side": false,
+          "trainer_note": "Контроль опускання гантелей."
+        }
+      ]
+    },
+    {
+      "id": "TR-WO-M-002",
+      "title": "Ноги + плечі",
+      "audience_filter": "Для чоловіків",
+      "focus": "Ноги та плечі",
+      "recommended_sequence_note": "Другий день спліту; пропонована послідовність",
+      "exercise_count": 5,
+      "working_sets_count": 13,
+      "activation_sets_count": 0,
+      "duration_goal_minutes": 60,
+      "exercises": [
+        {
+          "order": 1,
+          "exercise_id": "TR-EX-0002",
+          "exercise_name_uk": "Присідання зі штангою на спині",
+          "sets": 3,
+          "target_reps": "6–10",
+          "rest_seconds": 180,
+          "set_type": "working",
+          "per_side": false,
+          "trainer_note": "Після розминочних підходів; стабільна опора та контроль."
+        },
+        {
+          "order": 2,
+          "exercise_id": "TR-EX-0071",
+          "exercise_name_uk": "Румунська тяга зі штангою",
+          "sets": 3,
+          "target_reps": "8–10",
+          "rest_seconds": 150,
+          "set_type": "working",
+          "per_side": false,
+          "trainer_note": "Контроль тазостегнового згинання без ривка."
+        },
+        {
+          "order": 3,
+          "exercise_id": "TR-EX-0161",
+          "exercise_name_uk": "Жим гантелей сидячи",
+          "sets": 3,
+          "target_reps": "8–12",
+          "rest_seconds": 120,
+          "set_type": "working",
+          "per_side": false,
+          "trainer_note": "Не перерозгинай поперек."
+        },
+        {
+          "order": 4,
+          "exercise_id": "TR-EX-0170",
+          "exercise_name_uk": "Підйоми гантелей через сторони",
+          "sets": 2,
+          "target_reps": "12–15",
+          "rest_seconds": 60,
+          "set_type": "working",
+          "per_side": false,
+          "trainer_note": "Контроль руху без інерції."
+        },
+        {
+          "order": 5,
+          "exercise_id": "TR-EX-0083",
+          "exercise_name_uk": "Згинання ніг сидячи",
+          "sets": 2,
+          "target_reps": "10–12",
+          "rest_seconds": 75,
+          "set_type": "working",
+          "per_side": false,
+          "trainer_note": "Контрольована ексцентрична фаза."
+        }
+      ]
+    },
+    {
+      "id": "TR-WO-M-003",
+      "title": "Спина + трицепс",
+      "audience_filter": "Для чоловіків",
+      "focus": "Спина та трицепс",
+      "recommended_sequence_note": "Третій день спліту; пропонована послідовність",
+      "exercise_count": 5,
+      "working_sets_count": 13,
+      "activation_sets_count": 0,
+      "duration_goal_minutes": 60,
+      "exercises": [
+        {
+          "order": 1,
+          "exercise_id": "TR-EX-0093",
+          "exercise_name_uk": "Підтягування прямим хватом",
+          "sets": 3,
+          "target_reps": "6–10",
+          "rest_seconds": 120,
+          "set_type": "working",
+          "per_side": false,
+          "trainer_note": "За потреби використовуй допомогу гравітрона."
+        },
+        {
+          "order": 2,
+          "exercise_id": "TR-EX-0104",
+          "exercise_name_uk": "Тяга штанги в нахилі",
+          "sets": 3,
+          "target_reps": "8–10",
+          "rest_seconds": 150,
+          "set_type": "working",
+          "per_side": false,
+          "trainer_note": "Утримуй стабільний корпус; не смикай штангу."
+        },
+        {
+          "order": 3,
+          "exercise_id": "TR-EX-0112",
+          "exercise_name_uk": "Тяга сидячи в тренажері",
+          "sets": 2,
+          "target_reps": "10–12",
+          "rest_seconds": 90,
+          "set_type": "working",
+          "per_side": false,
+          "trainer_note": "Контролюй лопатки й амплітуду."
+        },
+        {
+          "order": 4,
+          "exercise_id": "TR-EX-0211",
+          "exercise_name_uk": "Розгинання рук на верхньому блоці з канатом",
+          "sets": 3,
+          "target_reps": "10–12",
+          "rest_seconds": 75,
+          "set_type": "working",
+          "per_side": false,
+          "trainer_note": "Лікті біля корпуса."
+        },
+        {
+          "order": 5,
+          "exercise_id": "TR-EX-0214",
+          "exercise_name_uk": "Розгинання рук з канатом над головою",
+          "sets": 2,
+          "target_reps": "10–12",
+          "rest_seconds": 75,
+          "set_type": "working",
+          "per_side": false,
+          "trainer_note": "Плавно розгинай лікті без ривків."
+        }
+      ]
+    }
+  ]
+}
