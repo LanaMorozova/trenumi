@@ -1,0 +1,2471 @@
+{
+  "schema": "trenumi-exercise-naming-overrides-v1",
+  "date": "2026-11-27",
+  "base_catalog": "trenumi_exercises_catalog_v3_with_video_links.json",
+  "policy": "Зрозуміла українська назва + професійний термін у дужках вибірково. Пошук за name_uk, name_en та search_aliases з нормалізацією регістру, дефісів і пробілів.",
+  "application": "Merge by id into source catalog during app import. Do not change exercise IDs, images, video URLs, English names, or movement variants.",
+  "renamed_count": 43,
+  "exercise_count": 341,
+  "exercises": [
+    {
+      "id": "TR-EX-0001",
+      "name_uk": "Присідання з власною вагою",
+      "search_aliases": [
+        "Bodyweight squat"
+      ]
+    },
+    {
+      "id": "TR-EX-0002",
+      "name_uk": "Присідання зі штангою на спині",
+      "search_aliases": [
+        "Barbell back squat"
+      ]
+    },
+    {
+      "id": "TR-EX-0003",
+      "name_uk": "Фронтальні присідання зі штангою",
+      "search_aliases": [
+        "Barbell front squat"
+      ]
+    },
+    {
+      "id": "TR-EX-0004",
+      "name_uk": "Присідання з гантеллю перед грудьми",
+      "search_aliases": [
+        "Goblet squat"
+      ]
+    },
+    {
+      "id": "TR-EX-0005",
+      "name_uk": "Присідання з двома гантелями",
+      "search_aliases": [
+        "Dumbbell squat"
+      ]
+    },
+    {
+      "id": "TR-EX-0006",
+      "name_uk": "Присідання у машині Сміта",
+      "search_aliases": [
+        "Smith machine squat"
+      ]
+    },
+    {
+      "id": "TR-EX-0007",
+      "name_uk": "Присідання на лаву",
+      "search_aliases": [
+        "Box squat"
+      ]
+    },
+    {
+      "id": "TR-EX-0008",
+      "name_uk": "Присідання сумо",
+      "search_aliases": [
+        "Sumo squat"
+      ]
+    },
+    {
+      "id": "TR-EX-0009",
+      "name_uk": "Присідання із паузою",
+      "search_aliases": [
+        "Pause squat"
+      ]
+    },
+    {
+      "id": "TR-EX-0010",
+      "name_uk": "Присідання Зерхера",
+      "search_aliases": [
+        "Zercher squat"
+      ]
+    },
+    {
+      "id": "TR-EX-0011",
+      "name_uk": "Присідання з гирею перед грудьми",
+      "search_aliases": [
+        "Kettlebell goblet squat"
+      ]
+    },
+    {
+      "id": "TR-EX-0012",
+      "name_uk": "Присідання у гак-машині",
+      "search_aliases": [
+        "Hack squat machine"
+      ]
+    },
+    {
+      "id": "TR-EX-0013",
+      "name_uk": "Присідання в маятниковому тренажері",
+      "search_aliases": [
+        "Pendulum squat"
+      ]
+    },
+    {
+      "id": "TR-EX-0014",
+      "name_uk": "Присідання з поясом навантаження",
+      "search_aliases": [
+        "Belt squat"
+      ]
+    },
+    {
+      "id": "TR-EX-0015",
+      "name_uk": "Жим ногами під кутом 45°",
+      "search_aliases": [
+        "45 degree leg press"
+      ]
+    },
+    {
+      "id": "TR-EX-0016",
+      "name_uk": "Горизонтальний жим ногами",
+      "search_aliases": [
+        "Seated leg press"
+      ]
+    },
+    {
+      "id": "TR-EX-0017",
+      "name_uk": "Вертикальний жим ногами",
+      "search_aliases": [
+        "Vertical leg press"
+      ]
+    },
+    {
+      "id": "TR-EX-0018",
+      "name_uk": "Жим ногами однією ногою",
+      "search_aliases": [
+        "Single leg press"
+      ]
+    },
+    {
+      "id": "TR-EX-0019",
+      "name_uk": "Розгинання ніг сидячи",
+      "search_aliases": [
+        "Seated leg extension"
+      ]
+    },
+    {
+      "id": "TR-EX-0020",
+      "name_uk": "Розгинання однієї ноги",
+      "search_aliases": [
+        "Single leg extension"
+      ]
+    },
+    {
+      "id": "TR-EX-0021",
+      "name_uk": "Випади вперед з власною вагою",
+      "search_aliases": [
+        "Forward lunge bodyweight"
+      ]
+    },
+    {
+      "id": "TR-EX-0022",
+      "name_uk": "Випади вперед з гантелями",
+      "search_aliases": [
+        "Dumbbell forward lunge"
+      ]
+    },
+    {
+      "id": "TR-EX-0023",
+      "name_uk": "Зворотні випади з гантелями",
+      "search_aliases": [
+        "Dumbbell reverse lunge"
+      ]
+    },
+    {
+      "id": "TR-EX-0024",
+      "name_uk": "Зворотні випади у Сміті",
+      "search_aliases": [
+        "Smith machine reverse lunge"
+      ]
+    },
+    {
+      "id": "TR-EX-0025",
+      "name_uk": "Випади зі штангою на спині",
+      "search_aliases": [
+        "Barbell lunge"
+      ]
+    },
+    {
+      "id": "TR-EX-0026",
+      "name_uk": "Ходьба випадами з гантелями",
+      "search_aliases": [
+        "Dumbbell walking lunge"
+      ]
+    },
+    {
+      "id": "TR-EX-0027",
+      "name_uk": "Болгарські спліт-присідання з гантелями",
+      "search_aliases": [
+        "Dumbbell Bulgarian split squat"
+      ]
+    },
+    {
+      "id": "TR-EX-0028",
+      "name_uk": "Болгарські спліт-присідання у Сміті",
+      "search_aliases": [
+        "Smith machine Bulgarian split squat"
+      ]
+    },
+    {
+      "id": "TR-EX-0029",
+      "name_uk": "Болгарські спліт-присідання без ваги",
+      "search_aliases": [
+        "Bodyweight Bulgarian split squat"
+      ]
+    },
+    {
+      "id": "TR-EX-0030",
+      "name_uk": "Спліт-присідання на місці",
+      "search_aliases": [
+        "Split squat"
+      ]
+    },
+    {
+      "id": "TR-EX-0031",
+      "name_uk": "Бічні випади",
+      "search_aliases": [
+        "Lateral lunge"
+      ]
+    },
+    {
+      "id": "TR-EX-0032",
+      "name_uk": "Козацькі присідання",
+      "search_aliases": [
+        "Cossack squat"
+      ]
+    },
+    {
+      "id": "TR-EX-0033",
+      "name_uk": "Підйом на платформу (степ-ап)",
+      "search_aliases": [
+        "Зашагування на платформу",
+        "Step-up",
+        "зашагування",
+        "зашагування на лаву",
+        "виступи на лавку",
+        "крок на лаву",
+        "степ ап"
+      ]
+    },
+    {
+      "id": "TR-EX-0034",
+      "name_uk": "Підйом на платформу з гантелями (степ-ап)",
+      "search_aliases": [
+        "Зашагування з гантелями",
+        "Dumbbell step-up",
+        "зашагування на лавку з гантелями"
+      ]
+    },
+    {
+      "id": "TR-EX-0035",
+      "name_uk": "Спуск із платформи (степ-даун)",
+      "search_aliases": [
+        "Спуск із платформи",
+        "Step-down"
+      ]
+    },
+    {
+      "id": "TR-EX-0036",
+      "name_uk": "Присідання на одній нозі до лави",
+      "search_aliases": [
+        "Single leg box squat"
+      ]
+    },
+    {
+      "id": "TR-EX-0037",
+      "name_uk": "Пістолетик",
+      "search_aliases": [
+        "Pistol squat"
+      ]
+    },
+    {
+      "id": "TR-EX-0038",
+      "name_uk": "Нахили назад із колін (зворотний нордік)",
+      "search_aliases": [
+        "Реверсивні нордичні нахили",
+        "Reverse Nordic curl"
+      ]
+    },
+    {
+      "id": "TR-EX-0039",
+      "name_uk": "Присідання з міністрічкою",
+      "search_aliases": [
+        "Banded squat"
+      ]
+    },
+    {
+      "id": "TR-EX-0040",
+      "name_uk": "Підйом на носки з присіду",
+      "search_aliases": [
+        "Squat calf raise"
+      ]
+    },
+    {
+      "id": "TR-EX-0041",
+      "name_uk": "Сідничний міст на підлозі",
+      "search_aliases": [
+        "Glute bridge"
+      ]
+    },
+    {
+      "id": "TR-EX-0042",
+      "name_uk": "Сідничний міст з гантеллю",
+      "search_aliases": [
+        "Dumbbell glute bridge"
+      ]
+    },
+    {
+      "id": "TR-EX-0043",
+      "name_uk": "Сідничний міст зі штангою",
+      "search_aliases": [
+        "Barbell glute bridge"
+      ]
+    },
+    {
+      "id": "TR-EX-0044",
+      "name_uk": "Підйом таза зі штангою з опорою на лаву (хіп-траст)",
+      "search_aliases": [
+        "Хіп-траст зі штангою",
+        "Barbell hip thrust",
+        "хіп траст",
+        "хіптраст",
+        "підйом таза зі штангою",
+        "сідничний міст на лаві"
+      ]
+    },
+    {
+      "id": "TR-EX-0045",
+      "name_uk": "Підйом таза у тренажері (хіп-траст)",
+      "search_aliases": [
+        "Хіп-траст у тренажері",
+        "Machine hip thrust",
+        "хіп траст тренажер"
+      ]
+    },
+    {
+      "id": "TR-EX-0046",
+      "name_uk": "Підйом таза у Сміті (хіп-траст)",
+      "search_aliases": [
+        "Хіп-траст у Сміті",
+        "Smith machine hip thrust",
+        "хіп траст сміт"
+      ]
+    },
+    {
+      "id": "TR-EX-0047",
+      "name_uk": "Підйом таза на одній нозі з опорою на лаву (хіп-траст)",
+      "search_aliases": [
+        "Хіп-траст на одній нозі",
+        "Single leg hip thrust",
+        "одноногий хіп траст"
+      ]
+    },
+    {
+      "id": "TR-EX-0048",
+      "name_uk": "Міст на одній нозі",
+      "search_aliases": [
+        "Single leg glute bridge"
+      ]
+    },
+    {
+      "id": "TR-EX-0049",
+      "name_uk": "Підйом таза зі зведеними стопами (фрог-пампс)",
+      "search_aliases": [
+        "Frog pumps",
+        "фрог пампс",
+        "жаб'ячий міст"
+      ]
+    },
+    {
+      "id": "TR-EX-0050",
+      "name_uk": "Відведення стегон у тренажері сидячи",
+      "search_aliases": [
+        "Seated hip abduction machine"
+      ]
+    },
+    {
+      "id": "TR-EX-0051",
+      "name_uk": "Відведення стегна стоячи в кросовері",
+      "search_aliases": [
+        "Standing cable hip abduction"
+      ]
+    },
+    {
+      "id": "TR-EX-0052",
+      "name_uk": "Відведення стегон із міністрічкою",
+      "search_aliases": [
+        "Banded hip abduction"
+      ]
+    },
+    {
+      "id": "TR-EX-0053",
+      "name_uk": "Бічна хода з міністрічкою",
+      "search_aliases": [
+        "Lateral band walk"
+      ]
+    },
+    {
+      "id": "TR-EX-0054",
+      "name_uk": "Монстр-хода з еспандером",
+      "search_aliases": [
+        "Monster walk"
+      ]
+    },
+    {
+      "id": "TR-EX-0055",
+      "name_uk": "Відведення ноги лежачи на боці",
+      "search_aliases": [
+        "Side lying hip abduction"
+      ]
+    },
+    {
+      "id": "TR-EX-0056",
+      "name_uk": "Розведення колін лежачи на боці (ракушка)",
+      "search_aliases": [
+        "Ракушка з міністрічкою",
+        "Banded clamshell"
+      ]
+    },
+    {
+      "id": "TR-EX-0057",
+      "name_uk": "Відведення коліна вбік стоячи навкарачки (фаєр-гідрант)",
+      "search_aliases": [
+        "Відведення коліна у квадрупеді",
+        "Fire hydrant"
+      ]
+    },
+    {
+      "id": "TR-EX-0058",
+      "name_uk": "Мах ногою назад стоячи навкарачки (донкі-кік)",
+      "search_aliases": [
+        "Махи ногою назад у квадрупеді",
+        "Donkey kick"
+      ]
+    },
+    {
+      "id": "TR-EX-0059",
+      "name_uk": "Махи ногою назад у кросовері",
+      "search_aliases": [
+        "Cable glute kickback"
+      ]
+    },
+    {
+      "id": "TR-EX-0060",
+      "name_uk": "Махи назад у тренажері",
+      "search_aliases": [
+        "Machine glute kickback"
+      ]
+    },
+    {
+      "id": "TR-EX-0061",
+      "name_uk": "Відведення ноги назад з еспандером",
+      "search_aliases": [
+        "Banded glute kickback"
+      ]
+    },
+    {
+      "id": "TR-EX-0062",
+      "name_uk": "Тяга каната між ногами (пул-тру)",
+      "search_aliases": [
+        "Пул-тру через блок",
+        "Cable pull through"
+      ]
+    },
+    {
+      "id": "TR-EX-0063",
+      "name_uk": "Зворотна гіперекстензія",
+      "search_aliases": [
+        "Reverse hyperextension"
+      ]
+    },
+    {
+      "id": "TR-EX-0064",
+      "name_uk": "Гіперекстензія з акцентом на сідниці",
+      "search_aliases": [
+        "Glute biased back extension"
+      ]
+    },
+    {
+      "id": "TR-EX-0065",
+      "name_uk": "Підйом таза на фітболі",
+      "search_aliases": [
+        "Stability ball glute bridge"
+      ]
+    },
+    {
+      "id": "TR-EX-0066",
+      "name_uk": "Хіп-траст з міністрічкою",
+      "search_aliases": [
+        "Banded hip thrust"
+      ]
+    },
+    {
+      "id": "TR-EX-0067",
+      "name_uk": "Розведення стегон стоячи у тренажері",
+      "search_aliases": [
+        "Standing hip abduction machine"
+      ]
+    },
+    {
+      "id": "TR-EX-0068",
+      "name_uk": "Приведення стегон у тренажері сидячи",
+      "search_aliases": [
+        "Seated hip adduction machine"
+      ]
+    },
+    {
+      "id": "TR-EX-0069",
+      "name_uk": "Приведення ноги у кросовері",
+      "search_aliases": [
+        "Standing cable hip adduction"
+      ]
+    },
+    {
+      "id": "TR-EX-0070",
+      "name_uk": "Бічний міст з підйомом ноги",
+      "search_aliases": [
+        "Side plank hip abduction"
+      ]
+    },
+    {
+      "id": "TR-EX-0071",
+      "name_uk": "Румунська тяга зі штангою",
+      "search_aliases": [
+        "Barbell Romanian deadlift"
+      ]
+    },
+    {
+      "id": "TR-EX-0072",
+      "name_uk": "Румунська тяга з гантелями",
+      "search_aliases": [
+        "Dumbbell Romanian deadlift"
+      ]
+    },
+    {
+      "id": "TR-EX-0073",
+      "name_uk": "Румунська тяга в Сміті",
+      "search_aliases": [
+        "Smith machine Romanian deadlift"
+      ]
+    },
+    {
+      "id": "TR-EX-0074",
+      "name_uk": "Румунська тяга на одній нозі",
+      "search_aliases": [
+        "Single leg Romanian deadlift"
+      ]
+    },
+    {
+      "id": "TR-EX-0075",
+      "name_uk": "Тяга на прямих ногах зі штангою",
+      "search_aliases": [
+        "Stiff leg deadlift"
+      ]
+    },
+    {
+      "id": "TR-EX-0076",
+      "name_uk": "Класична станова тяга",
+      "search_aliases": [
+        "Conventional barbell deadlift"
+      ]
+    },
+    {
+      "id": "TR-EX-0077",
+      "name_uk": "Станова тяга сумо",
+      "search_aliases": [
+        "Sumo deadlift"
+      ]
+    },
+    {
+      "id": "TR-EX-0078",
+      "name_uk": "Тяга з трап-грифом",
+      "search_aliases": [
+        "Trap bar deadlift"
+      ]
+    },
+    {
+      "id": "TR-EX-0079",
+      "name_uk": "Станова тяга з гантелями",
+      "search_aliases": [
+        "Dumbbell deadlift"
+      ]
+    },
+    {
+      "id": "TR-EX-0080",
+      "name_uk": "Тяга гирі з підлоги",
+      "search_aliases": [
+        "Kettlebell deadlift"
+      ]
+    },
+    {
+      "id": "TR-EX-0081",
+      "name_uk": "Нахили зі штангою на плечах (гудморнінг)",
+      "search_aliases": [
+        "Гудморнінг зі штангою",
+        "Barbell good morning",
+        "гуд морнінг"
+      ]
+    },
+    {
+      "id": "TR-EX-0082",
+      "name_uk": "Згинання ніг лежачи",
+      "search_aliases": [
+        "Lying leg curl"
+      ]
+    },
+    {
+      "id": "TR-EX-0083",
+      "name_uk": "Згинання ніг сидячи",
+      "search_aliases": [
+        "Seated leg curl"
+      ]
+    },
+    {
+      "id": "TR-EX-0084",
+      "name_uk": "Згинання ніг стоячи",
+      "search_aliases": [
+        "Standing leg curl"
+      ]
+    },
+    {
+      "id": "TR-EX-0085",
+      "name_uk": "Згинання однієї ноги лежачи",
+      "search_aliases": [
+        "Single leg lying leg curl"
+      ]
+    },
+    {
+      "id": "TR-EX-0086",
+      "name_uk": "Згинання ніг на фітболі",
+      "search_aliases": [
+        "Stability ball hamstring curl"
+      ]
+    },
+    {
+      "id": "TR-EX-0087",
+      "name_uk": "Згинання ніг із ковзанням",
+      "search_aliases": [
+        "Slider leg curl"
+      ]
+    },
+    {
+      "id": "TR-EX-0088",
+      "name_uk": "Нордичне згинання ніг",
+      "search_aliases": [
+        "Nordic hamstring curl"
+      ]
+    },
+    {
+      "id": "TR-EX-0089",
+      "name_uk": "Підйом корпусу на GHD (глют-хем рейз)",
+      "search_aliases": [
+        "Глют-хем рейз",
+        "Glute ham raise"
+      ]
+    },
+    {
+      "id": "TR-EX-0090",
+      "name_uk": "Одноногий міст з п'ятою на лаві",
+      "search_aliases": [
+        "Single leg heel elevated bridge"
+      ]
+    },
+    {
+      "id": "TR-EX-0091",
+      "name_uk": "Махи гирею",
+      "search_aliases": [
+        "Kettlebell swing"
+      ]
+    },
+    {
+      "id": "TR-EX-0092",
+      "name_uk": "Тяга штанги з підвищення",
+      "search_aliases": [
+        "Block pull"
+      ]
+    },
+    {
+      "id": "TR-EX-0093",
+      "name_uk": "Підтягування прямим хватом",
+      "search_aliases": [
+        "Pull-up pronated"
+      ]
+    },
+    {
+      "id": "TR-EX-0094",
+      "name_uk": "Підтягування зворотним хватом",
+      "search_aliases": [
+        "Chin-up supinated"
+      ]
+    },
+    {
+      "id": "TR-EX-0095",
+      "name_uk": "Підтягування нейтральним хватом",
+      "search_aliases": [
+        "Neutral grip pull-up"
+      ]
+    },
+    {
+      "id": "TR-EX-0096",
+      "name_uk": "Підтягування з еспандером",
+      "search_aliases": [
+        "Band assisted pull-up"
+      ]
+    },
+    {
+      "id": "TR-EX-0097",
+      "name_uk": "Підтягування у гравітроні",
+      "search_aliases": [
+        "Assisted pull-up machine"
+      ]
+    },
+    {
+      "id": "TR-EX-0098",
+      "name_uk": "Тяга верхнього блока до грудей широким хватом",
+      "search_aliases": [
+        "Wide grip lat pulldown"
+      ]
+    },
+    {
+      "id": "TR-EX-0099",
+      "name_uk": "Тяга верхнього блока нейтральним хватом",
+      "search_aliases": [
+        "Neutral grip lat pulldown"
+      ]
+    },
+    {
+      "id": "TR-EX-0100",
+      "name_uk": "Тяга верхнього блока зворотним хватом",
+      "search_aliases": [
+        "Supinated lat pulldown"
+      ]
+    },
+    {
+      "id": "TR-EX-0101",
+      "name_uk": "Тяга верхнього блока однією рукою",
+      "search_aliases": [
+        "Single arm lat pulldown"
+      ]
+    },
+    {
+      "id": "TR-EX-0102",
+      "name_uk": "Тяга верхнього блока вузьким хватом",
+      "search_aliases": [
+        "Close grip lat pulldown"
+      ]
+    },
+    {
+      "id": "TR-EX-0103",
+      "name_uk": "Тяга прямими руками на блоці",
+      "search_aliases": [
+        "Straight arm pulldown"
+      ]
+    },
+    {
+      "id": "TR-EX-0104",
+      "name_uk": "Тяга штанги в нахилі",
+      "search_aliases": [
+        "Bent over barbell row"
+      ]
+    },
+    {
+      "id": "TR-EX-0105",
+      "name_uk": "Тяга штанги Пендлея",
+      "search_aliases": [
+        "Тяга штанги з підлоги Пендлея",
+        "Pendlay row"
+      ]
+    },
+    {
+      "id": "TR-EX-0106",
+      "name_uk": "Тяга гантелі однією рукою",
+      "search_aliases": [
+        "One arm dumbbell row"
+      ]
+    },
+    {
+      "id": "TR-EX-0107",
+      "name_uk": "Тяга двох гантелей у нахилі",
+      "search_aliases": [
+        "Bent over dumbbell row"
+      ]
+    },
+    {
+      "id": "TR-EX-0108",
+      "name_uk": "Тяга гантелей лежачи грудьми на лаві",
+      "search_aliases": [
+        "Chest supported dumbbell row"
+      ]
+    },
+    {
+      "id": "TR-EX-0109",
+      "name_uk": "Горизонтальна тяга нижнього блока вузьким хватом",
+      "search_aliases": [
+        "Seated close grip cable row"
+      ]
+    },
+    {
+      "id": "TR-EX-0110",
+      "name_uk": "Горизонтальна тяга нижнього блока широким хватом",
+      "search_aliases": [
+        "Seated wide grip cable row"
+      ]
+    },
+    {
+      "id": "TR-EX-0111",
+      "name_uk": "Горизонтальна тяга однією рукою",
+      "search_aliases": [
+        "Single arm seated cable row"
+      ]
+    },
+    {
+      "id": "TR-EX-0112",
+      "name_uk": "Тяга сидячи в тренажері",
+      "search_aliases": [
+        "Seated machine row"
+      ]
+    },
+    {
+      "id": "TR-EX-0113",
+      "name_uk": "Тяга у тренажері з опорою грудьми",
+      "search_aliases": [
+        "Chest supported machine row"
+      ]
+    },
+    {
+      "id": "TR-EX-0114",
+      "name_uk": "Тяга Т-грифа",
+      "search_aliases": [
+        "T bar row"
+      ]
+    },
+    {
+      "id": "TR-EX-0115",
+      "name_uk": "Тяга Т-грифа з опорою грудьми",
+      "search_aliases": [
+        "Chest supported T bar row"
+      ]
+    },
+    {
+      "id": "TR-EX-0116",
+      "name_uk": "Тяга в нахилі у Сміті",
+      "search_aliases": [
+        "Smith machine row"
+      ]
+    },
+    {
+      "id": "TR-EX-0117",
+      "name_uk": "Тяга на низькій перекладині",
+      "search_aliases": [
+        "Inverted row"
+      ]
+    },
+    {
+      "id": "TR-EX-0118",
+      "name_uk": "Тяга на петлях TRX",
+      "search_aliases": [
+        "TRX row"
+      ]
+    },
+    {
+      "id": "TR-EX-0119",
+      "name_uk": "Тяга гумового еспандера сидячи",
+      "search_aliases": [
+        "Seated band row"
+      ]
+    },
+    {
+      "id": "TR-EX-0120",
+      "name_uk": "Тяга гирі однією рукою",
+      "search_aliases": [
+        "Single arm kettlebell row"
+      ]
+    },
+    {
+      "id": "TR-EX-0121",
+      "name_uk": "Тяга гантелей широкими ліктями",
+      "search_aliases": [
+        "Wide elbow dumbbell row"
+      ]
+    },
+    {
+      "id": "TR-EX-0122",
+      "name_uk": "Шраги з гантелями",
+      "search_aliases": [
+        "Dumbbell shrug"
+      ]
+    },
+    {
+      "id": "TR-EX-0123",
+      "name_uk": "Шраги зі штангою",
+      "search_aliases": [
+        "Barbell shrug"
+      ]
+    },
+    {
+      "id": "TR-EX-0124",
+      "name_uk": "Тяга каната до обличчя (фейс-пул)",
+      "search_aliases": [
+        "Тяга каната до обличчя",
+        "Face pull"
+      ]
+    },
+    {
+      "id": "TR-EX-0125",
+      "name_uk": "Зведення лопаток у висі",
+      "search_aliases": [
+        "Scapular pull-up"
+      ]
+    },
+    {
+      "id": "TR-EX-0126",
+      "name_uk": "Розгинання спини на римському стільці",
+      "search_aliases": [
+        "Back extension"
+      ]
+    },
+    {
+      "id": "TR-EX-0127",
+      "name_uk": "Супермен лежачи",
+      "search_aliases": [
+        "Superman raise"
+      ]
+    },
+    {
+      "id": "TR-EX-0128",
+      "name_uk": "Пуловер із гантеллю",
+      "search_aliases": [
+        "Dumbbell pullover"
+      ]
+    },
+    {
+      "id": "TR-EX-0129",
+      "name_uk": "Пуловер у тренажері",
+      "search_aliases": [
+        "Machine pullover"
+      ]
+    },
+    {
+      "id": "TR-EX-0130",
+      "name_uk": "Тяга каната стоячи до грудей",
+      "search_aliases": [
+        "Standing rope row"
+      ]
+    },
+    {
+      "id": "TR-EX-0131",
+      "name_uk": "Жим штанги лежачи",
+      "search_aliases": [
+        "Barbell bench press"
+      ]
+    },
+    {
+      "id": "TR-EX-0132",
+      "name_uk": "Жим штанги на похилій лаві",
+      "search_aliases": [
+        "Incline barbell bench press"
+      ]
+    },
+    {
+      "id": "TR-EX-0133",
+      "name_uk": "Жим штанги на лаві з нахилом вниз",
+      "search_aliases": [
+        "Decline barbell bench press"
+      ]
+    },
+    {
+      "id": "TR-EX-0134",
+      "name_uk": "Жим штанги вузьким хватом",
+      "search_aliases": [
+        "Close grip bench press"
+      ]
+    },
+    {
+      "id": "TR-EX-0135",
+      "name_uk": "Жим гантелей лежачи",
+      "search_aliases": [
+        "Dumbbell bench press"
+      ]
+    },
+    {
+      "id": "TR-EX-0136",
+      "name_uk": "Жим гантелей на похилій лаві",
+      "search_aliases": [
+        "Incline dumbbell press"
+      ]
+    },
+    {
+      "id": "TR-EX-0137",
+      "name_uk": "Жим гантелей на лаві з нахилом вниз",
+      "search_aliases": [
+        "Decline dumbbell press"
+      ]
+    },
+    {
+      "id": "TR-EX-0138",
+      "name_uk": "Жим гантелей на підлозі",
+      "search_aliases": [
+        "Dumbbell floor press"
+      ]
+    },
+    {
+      "id": "TR-EX-0139",
+      "name_uk": "Жим штанги на підлозі",
+      "search_aliases": [
+        "Barbell floor press"
+      ]
+    },
+    {
+      "id": "TR-EX-0140",
+      "name_uk": "Жим штанги у Сміті лежачи",
+      "search_aliases": [
+        "Smith machine bench press"
+      ]
+    },
+    {
+      "id": "TR-EX-0141",
+      "name_uk": "Жим штанги у Сміті на похилій лаві",
+      "search_aliases": [
+        "Smith machine incline bench press"
+      ]
+    },
+    {
+      "id": "TR-EX-0142",
+      "name_uk": "Жим у грудному тренажері",
+      "search_aliases": [
+        "Machine chest press"
+      ]
+    },
+    {
+      "id": "TR-EX-0143",
+      "name_uk": "Жим у грудному тренажері однією рукою",
+      "search_aliases": [
+        "Single arm machine chest press"
+      ]
+    },
+    {
+      "id": "TR-EX-0144",
+      "name_uk": "Віджимання від підлоги",
+      "search_aliases": [
+        "Push-up"
+      ]
+    },
+    {
+      "id": "TR-EX-0145",
+      "name_uk": "Віджимання з колін",
+      "search_aliases": [
+        "Knee push-up"
+      ]
+    },
+    {
+      "id": "TR-EX-0146",
+      "name_uk": "Віджимання від лави",
+      "search_aliases": [
+        "Incline push-up"
+      ]
+    },
+    {
+      "id": "TR-EX-0147",
+      "name_uk": "Віджимання з ногами на лаві",
+      "search_aliases": [
+        "Decline push-up"
+      ]
+    },
+    {
+      "id": "TR-EX-0148",
+      "name_uk": "Віджимання вузькою постановкою рук",
+      "search_aliases": [
+        "Close grip push-up"
+      ]
+    },
+    {
+      "id": "TR-EX-0149",
+      "name_uk": "Віджимання на брусах",
+      "search_aliases": [
+        "Parallel bar dip"
+      ]
+    },
+    {
+      "id": "TR-EX-0150",
+      "name_uk": "Віджимання в гравітроні",
+      "search_aliases": [
+        "Assisted dip machine"
+      ]
+    },
+    {
+      "id": "TR-EX-0151",
+      "name_uk": "Розведення гантелей лежачи",
+      "search_aliases": [
+        "Dumbbell chest fly"
+      ]
+    },
+    {
+      "id": "TR-EX-0152",
+      "name_uk": "Розведення гантелей на похилій лаві",
+      "search_aliases": [
+        "Incline dumbbell fly"
+      ]
+    },
+    {
+      "id": "TR-EX-0153",
+      "name_uk": "Зведення рук у кросовері зверху вниз",
+      "search_aliases": [
+        "High to low cable fly"
+      ]
+    },
+    {
+      "id": "TR-EX-0154",
+      "name_uk": "Зведення рук у кросовері знизу вгору",
+      "search_aliases": [
+        "Low to high cable fly"
+      ]
+    },
+    {
+      "id": "TR-EX-0155",
+      "name_uk": "Зведення рук у кросовері на рівні грудей",
+      "search_aliases": [
+        "Mid cable chest fly"
+      ]
+    },
+    {
+      "id": "TR-EX-0156",
+      "name_uk": "Зведення рук у тренажері (пек-дек)",
+      "search_aliases": [
+        "Зведення рук у тренажері пек-дек",
+        "Pec deck",
+        "пек дек",
+        "пек-дек",
+        "метелик",
+        "бабочка"
+      ]
+    },
+    {
+      "id": "TR-EX-0157",
+      "name_uk": "Розведення рук із гумою для грудей",
+      "search_aliases": [
+        "Band chest fly"
+      ]
+    },
+    {
+      "id": "TR-EX-0158",
+      "name_uk": "Жим гантелі однією рукою лежачи",
+      "search_aliases": [
+        "Single arm dumbbell chest press"
+      ]
+    },
+    {
+      "id": "TR-EX-0159",
+      "name_uk": "Жим у кросовері стоячи",
+      "search_aliases": [
+        "Standing cable chest press"
+      ]
+    },
+    {
+      "id": "TR-EX-0160",
+      "name_uk": "Віджимання з плеском",
+      "search_aliases": [
+        "Clap push-up"
+      ]
+    },
+    {
+      "id": "TR-EX-0161",
+      "name_uk": "Жим гантелей сидячи",
+      "search_aliases": [
+        "Seated dumbbell shoulder press"
+      ]
+    },
+    {
+      "id": "TR-EX-0162",
+      "name_uk": "Жим гантелей стоячи",
+      "search_aliases": [
+        "Standing dumbbell shoulder press"
+      ]
+    },
+    {
+      "id": "TR-EX-0163",
+      "name_uk": "Жим Арнольда",
+      "search_aliases": [
+        "Арнольд-прес",
+        "Arnold press"
+      ]
+    },
+    {
+      "id": "TR-EX-0164",
+      "name_uk": "Жим штанги стоячи",
+      "search_aliases": [
+        "Standing barbell overhead press"
+      ]
+    },
+    {
+      "id": "TR-EX-0165",
+      "name_uk": "Жим штанги сидячи",
+      "search_aliases": [
+        "Seated barbell shoulder press"
+      ]
+    },
+    {
+      "id": "TR-EX-0166",
+      "name_uk": "Жим у плечовому тренажері",
+      "search_aliases": [
+        "Machine shoulder press"
+      ]
+    },
+    {
+      "id": "TR-EX-0167",
+      "name_uk": "Жим однією рукою з гирею",
+      "search_aliases": [
+        "Single arm kettlebell press"
+      ]
+    },
+    {
+      "id": "TR-EX-0168",
+      "name_uk": "Жим лендмайна однією рукою",
+      "search_aliases": [
+        "Single arm landmine press"
+      ]
+    },
+    {
+      "id": "TR-EX-0169",
+      "name_uk": "Жим лендмайна двома руками",
+      "search_aliases": [
+        "Two arm landmine press"
+      ]
+    },
+    {
+      "id": "TR-EX-0170",
+      "name_uk": "Підйоми гантелей через сторони",
+      "search_aliases": [
+        "Dumbbell lateral raise"
+      ]
+    },
+    {
+      "id": "TR-EX-0171",
+      "name_uk": "Підйоми гантелі в сторону однією рукою",
+      "search_aliases": [
+        "Single arm dumbbell lateral raise"
+      ]
+    },
+    {
+      "id": "TR-EX-0172",
+      "name_uk": "Відведення руки вбік у кросовері",
+      "search_aliases": [
+        "Cable lateral raise"
+      ]
+    },
+    {
+      "id": "TR-EX-0173",
+      "name_uk": "Відведення рук у плечовому тренажері",
+      "search_aliases": [
+        "Machine lateral raise"
+      ]
+    },
+    {
+      "id": "TR-EX-0174",
+      "name_uk": "Підйоми гантелей перед собою",
+      "search_aliases": [
+        "Dumbbell front raise"
+      ]
+    },
+    {
+      "id": "TR-EX-0175",
+      "name_uk": "Підйоми диска перед собою",
+      "search_aliases": [
+        "Plate front raise"
+      ]
+    },
+    {
+      "id": "TR-EX-0176",
+      "name_uk": "Розведення гантелей у нахилі",
+      "search_aliases": [
+        "Bent over reverse fly"
+      ]
+    },
+    {
+      "id": "TR-EX-0177",
+      "name_uk": "Розведення рук назад у тренажері (зворотний пек-дек)",
+      "search_aliases": [
+        "Розведення рук назад у тренажері пек-дек",
+        "Reverse pec deck",
+        "зворотний пек дек",
+        "розведення на задню дельту"
+      ]
+    },
+    {
+      "id": "TR-EX-0178",
+      "name_uk": "Розведення рук у кросовері на задні дельти",
+      "search_aliases": [
+        "Cable rear delt fly"
+      ]
+    },
+    {
+      "id": "TR-EX-0179",
+      "name_uk": "Тяга каната до обличчя з розворотом",
+      "search_aliases": [
+        "Face pull external rotation"
+      ]
+    },
+    {
+      "id": "TR-EX-0180",
+      "name_uk": "Тяга штанги до підборіддя",
+      "search_aliases": [
+        "Upright barbell row"
+      ]
+    },
+    {
+      "id": "TR-EX-0181",
+      "name_uk": "Тяга гантелей до підборіддя",
+      "search_aliases": [
+        "Dumbbell upright row"
+      ]
+    },
+    {
+      "id": "TR-EX-0182",
+      "name_uk": "Підйом рук у формі Y на лаві",
+      "search_aliases": [
+        "Prone Y raise"
+      ]
+    },
+    {
+      "id": "TR-EX-0183",
+      "name_uk": "Підйом рук у формі T на лаві",
+      "search_aliases": [
+        "Prone T raise"
+      ]
+    },
+    {
+      "id": "TR-EX-0184",
+      "name_uk": "Розведення гумового еспандера",
+      "search_aliases": [
+        "Band pull apart"
+      ]
+    },
+    {
+      "id": "TR-EX-0185",
+      "name_uk": "Зовнішня ротація плеча з гумою",
+      "search_aliases": [
+        "Band shoulder external rotation"
+      ]
+    },
+    {
+      "id": "TR-EX-0186",
+      "name_uk": "Внутрішня ротація плеча з гумою",
+      "search_aliases": [
+        "Band shoulder internal rotation"
+      ]
+    },
+    {
+      "id": "TR-EX-0187",
+      "name_uk": "Зовнішня ротація плеча на блоці",
+      "search_aliases": [
+        "Cable shoulder external rotation"
+      ]
+    },
+    {
+      "id": "TR-EX-0188",
+      "name_uk": "Віджимання з піднятим тазом (пайк-віджимання)",
+      "search_aliases": [
+        "Пайк-віджимання",
+        "Pike push-up"
+      ]
+    },
+    {
+      "id": "TR-EX-0189",
+      "name_uk": "Віджимання у стійці на руках",
+      "search_aliases": [
+        "Handstand push-up"
+      ]
+    },
+    {
+      "id": "TR-EX-0190",
+      "name_uk": "Шраги з гирями",
+      "search_aliases": [
+        "Kettlebell shrug"
+      ]
+    },
+    {
+      "id": "TR-EX-0191",
+      "name_uk": "Згинання рук зі штангою стоячи",
+      "search_aliases": [
+        "Barbell biceps curl"
+      ]
+    },
+    {
+      "id": "TR-EX-0192",
+      "name_uk": "Згинання рук з EZ-грифом",
+      "search_aliases": [
+        "EZ bar curl"
+      ]
+    },
+    {
+      "id": "TR-EX-0193",
+      "name_uk": "Згинання рук із гантелями стоячи",
+      "search_aliases": [
+        "Standing dumbbell curl"
+      ]
+    },
+    {
+      "id": "TR-EX-0194",
+      "name_uk": "Згинання рук із гантелями сидячи",
+      "search_aliases": [
+        "Seated dumbbell curl"
+      ]
+    },
+    {
+      "id": "TR-EX-0195",
+      "name_uk": "Молоткові згинання рук",
+      "search_aliases": [
+        "Hammer curl"
+      ]
+    },
+    {
+      "id": "TR-EX-0196",
+      "name_uk": "Згинання рук на лаві Скотта",
+      "search_aliases": [
+        "Preacher curl"
+      ]
+    },
+    {
+      "id": "TR-EX-0197",
+      "name_uk": "Згинання на лаві Скотта з гантеллю",
+      "search_aliases": [
+        "Single arm preacher curl"
+      ]
+    },
+    {
+      "id": "TR-EX-0198",
+      "name_uk": "Концентроване згинання руки",
+      "search_aliases": [
+        "Concentration curl"
+      ]
+    },
+    {
+      "id": "TR-EX-0199",
+      "name_uk": "Згинання рук на похилій лаві",
+      "search_aliases": [
+        "Incline dumbbell curl"
+      ]
+    },
+    {
+      "id": "TR-EX-0200",
+      "name_uk": "Згинання рук на нижньому блоці",
+      "search_aliases": [
+        "Cable biceps curl"
+      ]
+    },
+    {
+      "id": "TR-EX-0201",
+      "name_uk": "Згинання рук на блоці з канатом",
+      "search_aliases": [
+        "Rope cable hammer curl"
+      ]
+    },
+    {
+      "id": "TR-EX-0202",
+      "name_uk": "Згинання рук у тренажері",
+      "search_aliases": [
+        "Machine biceps curl"
+      ]
+    },
+    {
+      "id": "TR-EX-0203",
+      "name_uk": "Згинання руки на блоці за корпусом (згинання Байєса)",
+      "search_aliases": [
+        "Згинання однієї руки за корпусом на блоці",
+        "Bayesian cable curl"
+      ]
+    },
+    {
+      "id": "TR-EX-0204",
+      "name_uk": "Згинання рук на верхніх блоках",
+      "search_aliases": [
+        "High cable biceps curl"
+      ]
+    },
+    {
+      "id": "TR-EX-0205",
+      "name_uk": "Зворотні згинання рук зі штангою",
+      "search_aliases": [
+        "Reverse barbell curl"
+      ]
+    },
+    {
+      "id": "TR-EX-0206",
+      "name_uk": "Згинання зап'ясть зі штангою",
+      "search_aliases": [
+        "Barbell wrist curl"
+      ]
+    },
+    {
+      "id": "TR-EX-0207",
+      "name_uk": "Розгинання зап'ясть із гантелями",
+      "search_aliases": [
+        "Dumbbell reverse wrist curl"
+      ]
+    },
+    {
+      "id": "TR-EX-0208",
+      "name_uk": "Перекочування ролика для зап'ясть",
+      "search_aliases": [
+        "Wrist roller"
+      ]
+    },
+    {
+      "id": "TR-EX-0209",
+      "name_uk": "Утримання диска пальцями",
+      "search_aliases": [
+        "Plate pinch hold"
+      ]
+    },
+    {
+      "id": "TR-EX-0210",
+      "name_uk": "Вис на турніку",
+      "search_aliases": [
+        "Dead hang"
+      ]
+    },
+    {
+      "id": "TR-EX-0211",
+      "name_uk": "Розгинання рук на верхньому блоці з канатом",
+      "search_aliases": [
+        "Rope triceps pushdown"
+      ]
+    },
+    {
+      "id": "TR-EX-0212",
+      "name_uk": "Розгинання рук на верхньому блоці з прямим грифом",
+      "search_aliases": [
+        "Bar triceps pushdown"
+      ]
+    },
+    {
+      "id": "TR-EX-0213",
+      "name_uk": "Розгинання руки на блоці однією рукою",
+      "search_aliases": [
+        "Single arm cable triceps extension"
+      ]
+    },
+    {
+      "id": "TR-EX-0214",
+      "name_uk": "Розгинання рук з канатом над головою",
+      "search_aliases": [
+        "Overhead rope triceps extension"
+      ]
+    },
+    {
+      "id": "TR-EX-0215",
+      "name_uk": "Розгинання однієї руки над головою з гантеллю",
+      "search_aliases": [
+        "Single arm overhead triceps extension"
+      ]
+    },
+    {
+      "id": "TR-EX-0216",
+      "name_uk": "Французький жим лежачи з EZ-грифом",
+      "search_aliases": [
+        "EZ bar skull crusher"
+      ]
+    },
+    {
+      "id": "TR-EX-0217",
+      "name_uk": "Французький жим лежачи з гантелями",
+      "search_aliases": [
+        "Dumbbell skull crusher"
+      ]
+    },
+    {
+      "id": "TR-EX-0218",
+      "name_uk": "Французький жим сидячи",
+      "search_aliases": [
+        "Seated overhead triceps extension"
+      ]
+    },
+    {
+      "id": "TR-EX-0219",
+      "name_uk": "Розгинання рук у тренажері",
+      "search_aliases": [
+        "Machine triceps extension"
+      ]
+    },
+    {
+      "id": "TR-EX-0220",
+      "name_uk": "Розгинання руки з гантеллю в нахилі (кікбек)",
+      "search_aliases": [
+        "Кікбек із гантеллю",
+        "Dumbbell triceps kickback"
+      ]
+    },
+    {
+      "id": "TR-EX-0221",
+      "name_uk": "Розгинання руки в кросовері назад (кікбек)",
+      "search_aliases": [
+        "Кікбек на кросовері",
+        "Cable triceps kickback"
+      ]
+    },
+    {
+      "id": "TR-EX-0222",
+      "name_uk": "Віджимання вузьким хватом на підлозі",
+      "search_aliases": [
+        "Diamond push-up"
+      ]
+    },
+    {
+      "id": "TR-EX-0223",
+      "name_uk": "Віджимання на лаві ззаду",
+      "search_aliases": [
+        "Bench dip"
+      ]
+    },
+    {
+      "id": "TR-EX-0224",
+      "name_uk": "Віджимання на брусах з акцентом на трицепс",
+      "search_aliases": [
+        "Triceps focused dip"
+      ]
+    },
+    {
+      "id": "TR-EX-0225",
+      "name_uk": "Жим вузьким хватом у Сміті",
+      "search_aliases": [
+        "Smith machine close grip press"
+      ]
+    },
+    {
+      "id": "TR-EX-0226",
+      "name_uk": "Розгинання рук із гумою",
+      "search_aliases": [
+        "Band triceps pushdown"
+      ]
+    },
+    {
+      "id": "TR-EX-0227",
+      "name_uk": "Планка на передпліччях",
+      "search_aliases": [
+        "Forearm plank"
+      ]
+    },
+    {
+      "id": "TR-EX-0228",
+      "name_uk": "Планка на прямих руках",
+      "search_aliases": [
+        "High plank"
+      ]
+    },
+    {
+      "id": "TR-EX-0229",
+      "name_uk": "Бічна планка",
+      "search_aliases": [
+        "Side plank"
+      ]
+    },
+    {
+      "id": "TR-EX-0230",
+      "name_uk": "Бічна планка з колін",
+      "search_aliases": [
+        "Kneeling side plank"
+      ]
+    },
+    {
+      "id": "TR-EX-0231",
+      "name_uk": "Планка з торканням плечей",
+      "search_aliases": [
+        "Plank shoulder taps"
+      ]
+    },
+    {
+      "id": "TR-EX-0232",
+      "name_uk": "Планка з підйомом ноги",
+      "search_aliases": [
+        "Plank leg raise"
+      ]
+    },
+    {
+      "id": "TR-EX-0233",
+      "name_uk": "Перехід із планки на лікті в планку на руках",
+      "search_aliases": [
+        "Plank up-down"
+      ]
+    },
+    {
+      "id": "TR-EX-0234",
+      "name_uk": "Скручування лежачи",
+      "search_aliases": [
+        "Crunch"
+      ]
+    },
+    {
+      "id": "TR-EX-0235",
+      "name_uk": "Зворотні скручування",
+      "search_aliases": [
+        "Reverse crunch"
+      ]
+    },
+    {
+      "id": "TR-EX-0236",
+      "name_uk": "Велосипед лежачи",
+      "search_aliases": [
+        "Bicycle crunch"
+      ]
+    },
+    {
+      "id": "TR-EX-0237",
+      "name_uk": "Підйоми ніг лежачи",
+      "search_aliases": [
+        "Lying leg raise"
+      ]
+    },
+    {
+      "id": "TR-EX-0238",
+      "name_uk": "Підйоми зігнутих колін у висі",
+      "search_aliases": [
+        "Hanging knee raise"
+      ]
+    },
+    {
+      "id": "TR-EX-0239",
+      "name_uk": "Підйоми прямих ніг у висі",
+      "search_aliases": [
+        "Hanging leg raise"
+      ]
+    },
+    {
+      "id": "TR-EX-0240",
+      "name_uk": "Підйоми колін у упорі на ліктях",
+      "search_aliases": [
+        "Captain chair knee raise"
+      ]
+    },
+    {
+      "id": "TR-EX-0241",
+      "name_uk": "Підйоми ніг у упорі на ліктях",
+      "search_aliases": [
+        "Captain chair leg raise"
+      ]
+    },
+    {
+      "id": "TR-EX-0242",
+      "name_uk": "Скручування на верхньому блоці",
+      "search_aliases": [
+        "Cable crunch"
+      ]
+    },
+    {
+      "id": "TR-EX-0243",
+      "name_uk": "Скручування у тренажері",
+      "search_aliases": [
+        "Machine crunch"
+      ]
+    },
+    {
+      "id": "TR-EX-0244",
+      "name_uk": "Почергове опускання руки й ноги лежачи (дед-баг)",
+      "search_aliases": [
+        "Дед-баг",
+        "Dead bug",
+        "дед баг"
+      ]
+    },
+    {
+      "id": "TR-EX-0245",
+      "name_uk": "Почергове витягування руки й ноги навкарачки (берд-дог)",
+      "search_aliases": [
+        "Берд-дог",
+        "Bird dog",
+        "берд дог"
+      ]
+    },
+    {
+      "id": "TR-EX-0246",
+      "name_uk": "Утримання рук перед собою з опором блока (Паллоф-прес)",
+      "search_aliases": [
+        "Паллоф-прес",
+        "Pallof press",
+        "палоф прес",
+        "паллоф прес"
+      ]
+    },
+    {
+      "id": "TR-EX-0247",
+      "name_uk": "Утримання рук перед собою з еспандером (Паллоф-прес)",
+      "search_aliases": [
+        "Паллоф-прес із еспандером",
+        "Band Pallof press",
+        "палоф прес з гумою"
+      ]
+    },
+    {
+      "id": "TR-EX-0248",
+      "name_uk": "Російські повороти",
+      "search_aliases": [
+        "Russian twist"
+      ]
+    },
+    {
+      "id": "TR-EX-0249",
+      "name_uk": "Дроворуб на блоці зверху вниз",
+      "search_aliases": [
+        "High to low cable wood chop"
+      ]
+    },
+    {
+      "id": "TR-EX-0250",
+      "name_uk": "Дроворуб на блоці знизу вгору",
+      "search_aliases": [
+        "Low to high cable wood chop"
+      ]
+    },
+    {
+      "id": "TR-EX-0251",
+      "name_uk": "Розкочування колеса для преса з колін",
+      "search_aliases": [
+        "Kneeling ab wheel rollout"
+      ]
+    },
+    {
+      "id": "TR-EX-0252",
+      "name_uk": "Розкочування штанги для преса",
+      "search_aliases": [
+        "Barbell rollout"
+      ]
+    },
+    {
+      "id": "TR-EX-0253",
+      "name_uk": "Утримання положення човника на спині (холоу-холд)",
+      "search_aliases": [
+        "Холоу-холд",
+        "Hollow body hold"
+      ]
+    },
+    {
+      "id": "TR-EX-0254",
+      "name_uk": "Погойдування в положенні човника (холоу-рок)",
+      "search_aliases": [
+        "Холоу-рок",
+        "Hollow rock"
+      ]
+    },
+    {
+      "id": "TR-EX-0255",
+      "name_uk": "L-сід на брусах",
+      "search_aliases": [
+        "L sit on parallettes"
+      ]
+    },
+    {
+      "id": "TR-EX-0256",
+      "name_uk": "Фермерська хода з гантелями",
+      "search_aliases": [
+        "Dumbbell farmer carry"
+      ]
+    },
+    {
+      "id": "TR-EX-0257",
+      "name_uk": "Хода з вагою в одній руці",
+      "search_aliases": [
+        "Suitcase carry"
+      ]
+    },
+    {
+      "id": "TR-EX-0258",
+      "name_uk": "Копенгагенська планка",
+      "search_aliases": [
+        "Copenhagen plank"
+      ]
+    },
+    {
+      "id": "TR-EX-0259",
+      "name_uk": "Сайд-бенд з гантеллю",
+      "search_aliases": [
+        "Dumbbell side bend"
+      ]
+    },
+    {
+      "id": "TR-EX-0260",
+      "name_uk": "Підйом таза на лаві з підтягуванням колін",
+      "search_aliases": [
+        "Bench reverse crunch"
+      ]
+    },
+    {
+      "id": "TR-EX-0261",
+      "name_uk": "Підйоми на носки стоячи",
+      "search_aliases": [
+        "Standing calf raise"
+      ]
+    },
+    {
+      "id": "TR-EX-0262",
+      "name_uk": "Підйоми на носки стоячи з гантелями",
+      "search_aliases": [
+        "Dumbbell standing calf raise"
+      ]
+    },
+    {
+      "id": "TR-EX-0263",
+      "name_uk": "Підйоми на носки у тренажері стоячи",
+      "search_aliases": [
+        "Machine standing calf raise"
+      ]
+    },
+    {
+      "id": "TR-EX-0264",
+      "name_uk": "Підйоми на носки сидячи",
+      "search_aliases": [
+        "Seated calf raise"
+      ]
+    },
+    {
+      "id": "TR-EX-0265",
+      "name_uk": "Підйоми на носки у жимі ногами",
+      "search_aliases": [
+        "Leg press calf raise"
+      ]
+    },
+    {
+      "id": "TR-EX-0266",
+      "name_uk": "Підйоми на носки однією ногою",
+      "search_aliases": [
+        "Single leg calf raise"
+      ]
+    },
+    {
+      "id": "TR-EX-0267",
+      "name_uk": "Підйоми на носки з нахиленим корпусом (донкі)",
+      "search_aliases": [
+        "Осел — підйоми на носки",
+        "Donkey calf raise"
+      ]
+    },
+    {
+      "id": "TR-EX-0268",
+      "name_uk": "Підйоми носків стоячи біля стіни",
+      "search_aliases": [
+        "Tibialis raise"
+      ]
+    },
+    {
+      "id": "TR-EX-0269",
+      "name_uk": "Зворотні підйоми стоп з еспандером",
+      "search_aliases": [
+        "Band dorsiflexion"
+      ]
+    },
+    {
+      "id": "TR-EX-0270",
+      "name_uk": "Ексцентричне опускання п'яти зі сходинки",
+      "search_aliases": [
+        "Eccentric heel drop"
+      ]
+    },
+    {
+      "id": "TR-EX-0271",
+      "name_uk": "Ходьба на біговій доріжці",
+      "search_aliases": [
+        "Treadmill walking"
+      ]
+    },
+    {
+      "id": "TR-EX-0272",
+      "name_uk": "Біг на біговій доріжці",
+      "search_aliases": [
+        "Treadmill running"
+      ]
+    },
+    {
+      "id": "TR-EX-0273",
+      "name_uk": "Біг на вулиці",
+      "search_aliases": [
+        "Outdoor running"
+      ]
+    },
+    {
+      "id": "TR-EX-0274",
+      "name_uk": "Швидка ходьба",
+      "search_aliases": [
+        "Brisk walking"
+      ]
+    },
+    {
+      "id": "TR-EX-0275",
+      "name_uk": "Велотренажер",
+      "search_aliases": [
+        "Stationary bike"
+      ]
+    },
+    {
+      "id": "TR-EX-0276",
+      "name_uk": "Їзда на спін-байку (сайклінг)",
+      "search_aliases": [
+        "Сайклінг на спін-байку",
+        "Spin bike cycling"
+      ]
+    },
+    {
+      "id": "TR-EX-0277",
+      "name_uk": "Еліптичний тренажер",
+      "search_aliases": [
+        "Elliptical trainer"
+      ]
+    },
+    {
+      "id": "TR-EX-0278",
+      "name_uk": "Веслування на тренажері",
+      "search_aliases": [
+        "Гребний ергометр",
+        "Rowing machine"
+      ]
+    },
+    {
+      "id": "TR-EX-0279",
+      "name_uk": "Імітація лижного ходу на тренажері (SkiErg)",
+      "search_aliases": [
+        "Лижний ергометр",
+        "Ski erg"
+      ]
+    },
+    {
+      "id": "TR-EX-0280",
+      "name_uk": "Степер",
+      "search_aliases": [
+        "Stair stepper"
+      ]
+    },
+    {
+      "id": "TR-EX-0281",
+      "name_uk": "Ходьба сходами",
+      "search_aliases": [
+        "Stair climbing"
+      ]
+    },
+    {
+      "id": "TR-EX-0282",
+      "name_uk": "Стрибки зі скакалкою",
+      "search_aliases": [
+        "Jump rope"
+      ]
+    },
+    {
+      "id": "TR-EX-0283",
+      "name_uk": "Стрибки з розведенням рук і ніг (джампінг-джеки)",
+      "search_aliases": [
+        "Джампінг-джеки",
+        "Jumping jacks",
+        "джампінг джек"
+      ]
+    },
+    {
+      "id": "TR-EX-0284",
+      "name_uk": "Берпі",
+      "search_aliases": [
+        "Burpee"
+      ]
+    },
+    {
+      "id": "TR-EX-0285",
+      "name_uk": "Почергове підтягування колін у планці (альпініст)",
+      "search_aliases": [
+        "Альпініст",
+        "Mountain climber",
+        "скелелаз"
+      ]
+    },
+    {
+      "id": "TR-EX-0286",
+      "name_uk": "Біг на місці з високими колінами",
+      "search_aliases": [
+        "High knees"
+      ]
+    },
+    {
+      "id": "TR-EX-0287",
+      "name_uk": "Біг на місці з захльостуванням гомілки",
+      "search_aliases": [
+        "Butt kicks"
+      ]
+    },
+    {
+      "id": "TR-EX-0288",
+      "name_uk": "Бойові канати — хвилі",
+      "search_aliases": [
+        "Battle rope alternating waves"
+      ]
+    },
+    {
+      "id": "TR-EX-0289",
+      "name_uk": "Бойові канати — удари двома руками",
+      "search_aliases": [
+        "Battle rope slams"
+      ]
+    },
+    {
+      "id": "TR-EX-0290",
+      "name_uk": "Штовхання саней",
+      "search_aliases": [
+        "Sled push"
+      ]
+    },
+    {
+      "id": "TR-EX-0291",
+      "name_uk": "Тягнення саней назад",
+      "search_aliases": [
+        "Backward sled drag"
+      ]
+    },
+    {
+      "id": "TR-EX-0292",
+      "name_uk": "Удар медболом об підлогу (слем)",
+      "search_aliases": [
+        "Медбол-слем",
+        "Medicine ball slam"
+      ]
+    },
+    {
+      "id": "TR-EX-0293",
+      "name_uk": "Швидкі підйоми на степ-платформу",
+      "search_aliases": [
+        "Підйоми на степ у темпі",
+        "Aerobic step-ups"
+      ]
+    },
+    {
+      "id": "TR-EX-0294",
+      "name_uk": "Присідання з вистрибуванням",
+      "search_aliases": [
+        "Jump squat"
+      ]
+    },
+    {
+      "id": "TR-EX-0295",
+      "name_uk": "Стрибок на тумбу",
+      "search_aliases": [
+        "Box jump"
+      ]
+    },
+    {
+      "id": "TR-EX-0296",
+      "name_uk": "Спуск зі стрибком з платформи",
+      "search_aliases": [
+        "Drop jump"
+      ]
+    },
+    {
+      "id": "TR-EX-0297",
+      "name_uk": "Випади з вистрибуванням",
+      "search_aliases": [
+        "Jumping lunge"
+      ]
+    },
+    {
+      "id": "TR-EX-0298",
+      "name_uk": "Бічні стрибки з ноги на ногу",
+      "search_aliases": [
+        "Lateral bounds"
+      ]
+    },
+    {
+      "id": "TR-EX-0299",
+      "name_uk": "Вибуховий підйом на платформу з підйомом коліна",
+      "search_aliases": [
+        "Бокс-степ-ап із вибуховим підйомом коліна",
+        "Explosive step-up"
+      ]
+    },
+    {
+      "id": "TR-EX-0300",
+      "name_uk": "Поштовх гирі двома руками",
+      "search_aliases": [
+        "Double kettlebell push press"
+      ]
+    },
+    {
+      "id": "TR-EX-0301",
+      "name_uk": "Присідання з жимом гантелей над головою (трастер)",
+      "search_aliases": [
+        "Трастер із гантелями",
+        "Dumbbell thruster",
+        "трастер"
+      ]
+    },
+    {
+      "id": "TR-EX-0302",
+      "name_uk": "Присідання з жимом штанги над головою (трастер)",
+      "search_aliases": [
+        "Трастер зі штангою",
+        "Barbell thruster",
+        "трастер"
+      ]
+    },
+    {
+      "id": "TR-EX-0303",
+      "name_uk": "Поштовх штанги з грудей",
+      "search_aliases": [
+        "Push press barbell"
+      ]
+    },
+    {
+      "id": "TR-EX-0304",
+      "name_uk": "Ривок гирі однією рукою",
+      "search_aliases": [
+        "Kettlebell snatch"
+      ]
+    },
+    {
+      "id": "TR-EX-0305",
+      "name_uk": "Взяття гирі на груди",
+      "search_aliases": [
+        "Kettlebell clean"
+      ]
+    },
+    {
+      "id": "TR-EX-0306",
+      "name_uk": "Турецький підйом із гирею",
+      "search_aliases": [
+        "Turkish get-up"
+      ]
+    },
+    {
+      "id": "TR-EX-0307",
+      "name_uk": "Кидок медбола від грудей",
+      "search_aliases": [
+        "Medicine ball chest pass"
+      ]
+    },
+    {
+      "id": "TR-EX-0308",
+      "name_uk": "Ротаційний кидок медбола в стіну",
+      "search_aliases": [
+        "Rotational medicine ball throw"
+      ]
+    },
+    {
+      "id": "TR-EX-0309",
+      "name_uk": "Фермерська хода з гирями",
+      "search_aliases": [
+        "Kettlebell farmer carry"
+      ]
+    },
+    {
+      "id": "TR-EX-0310",
+      "name_uk": "Хода з гирею над головою",
+      "search_aliases": [
+        "Overhead kettlebell carry"
+      ]
+    },
+    {
+      "id": "TR-EX-0311",
+      "name_uk": "Перенесення мішка на плечі",
+      "search_aliases": [
+        "Sandbag shoulder carry"
+      ]
+    },
+    {
+      "id": "TR-EX-0312",
+      "name_uk": "Присідання з мішком перед грудьми",
+      "search_aliases": [
+        "Sandbag front squat"
+      ]
+    },
+    {
+      "id": "TR-EX-0313",
+      "name_uk": "Присідання з підтримкою TRX",
+      "search_aliases": [
+        "TRX assisted squat"
+      ]
+    },
+    {
+      "id": "TR-EX-0314",
+      "name_uk": "Тяга TRX на одній нозі",
+      "search_aliases": [
+        "Single leg TRX row"
+      ]
+    },
+    {
+      "id": "TR-EX-0315",
+      "name_uk": "Віджимання на кільцях",
+      "search_aliases": [
+        "Ring push-up"
+      ]
+    },
+    {
+      "id": "TR-EX-0316",
+      "name_uk": "Підйом колін у петлях TRX",
+      "search_aliases": [
+        "TRX knee tuck"
+      ]
+    },
+    {
+      "id": "TR-EX-0317",
+      "name_uk": "Мах гирею однією рукою",
+      "search_aliases": [
+        "Single arm kettlebell swing"
+      ]
+    },
+    {
+      "id": "TR-EX-0318",
+      "name_uk": "Кішка-корова",
+      "search_aliases": [
+        "Cat cow"
+      ]
+    },
+    {
+      "id": "TR-EX-0319",
+      "name_uk": "Повороти грудного відділу лежачи на боці",
+      "search_aliases": [
+        "Open book stretch"
+      ]
+    },
+    {
+      "id": "TR-EX-0320",
+      "name_uk": "Повороти грудного відділу стоячи навкарачки",
+      "search_aliases": [
+        "Повороти грудного відділу в квадрупеді",
+        "Quadruped thoracic rotation"
+      ]
+    },
+    {
+      "id": "TR-EX-0321",
+      "name_uk": "Дитяча поза",
+      "search_aliases": [
+        "Child's pose"
+      ]
+    },
+    {
+      "id": "TR-EX-0322",
+      "name_uk": "Поза голуба",
+      "search_aliases": [
+        "Pigeon stretch"
+      ]
+    },
+    {
+      "id": "TR-EX-0323",
+      "name_uk": "Розтягнення згиначів стегна у випаді",
+      "search_aliases": [
+        "Kneeling hip flexor stretch"
+      ]
+    },
+    {
+      "id": "TR-EX-0324",
+      "name_uk": "Розтягнення квадрицепса стоячи",
+      "search_aliases": [
+        "Standing quad stretch"
+      ]
+    },
+    {
+      "id": "TR-EX-0325",
+      "name_uk": "Розтягнення задньої поверхні стегна сидячи",
+      "search_aliases": [
+        "Seated hamstring stretch"
+      ]
+    },
+    {
+      "id": "TR-EX-0326",
+      "name_uk": "Розтягнення литки біля стіни",
+      "search_aliases": [
+        "Wall calf stretch"
+      ]
+    },
+    {
+      "id": "TR-EX-0327",
+      "name_uk": "Розтягнення камбалоподібного м'яза",
+      "search_aliases": [
+        "Bent knee calf stretch"
+      ]
+    },
+    {
+      "id": "TR-EX-0328",
+      "name_uk": "Метелик для привідних м'язів",
+      "search_aliases": [
+        "Butterfly stretch"
+      ]
+    },
+    {
+      "id": "TR-EX-0329",
+      "name_uk": "Повороти стегон сидячи (90/90)",
+      "search_aliases": [
+        "90/90 ротація стегон",
+        "90 90 hip switches"
+      ]
+    },
+    {
+      "id": "TR-EX-0330",
+      "name_uk": "Глибокий присід із утриманням",
+      "search_aliases": [
+        "Deep squat hold"
+      ]
+    },
+    {
+      "id": "TR-EX-0331",
+      "name_uk": "Мобілізація гомілкостопа біля стіни",
+      "search_aliases": [
+        "Knee to wall ankle mobility"
+      ]
+    },
+    {
+      "id": "TR-EX-0332",
+      "name_uk": "Кола плечима",
+      "search_aliases": [
+        "Shoulder circles"
+      ]
+    },
+    {
+      "id": "TR-EX-0333",
+      "name_uk": "Плечові оберти з палицею",
+      "search_aliases": [
+        "Shoulder pass-through"
+      ]
+    },
+    {
+      "id": "TR-EX-0334",
+      "name_uk": "Прокатування грудного відділу ролером",
+      "search_aliases": [
+        "Thoracic foam rolling"
+      ]
+    },
+    {
+      "id": "TR-EX-0335",
+      "name_uk": "Розгинання грудного відділу на ролері",
+      "search_aliases": [
+        "Thoracic extension foam roller"
+      ]
+    },
+    {
+      "id": "TR-EX-0336",
+      "name_uk": "Прокатування квадрицепса ролером",
+      "search_aliases": [
+        "Quadriceps foam rolling"
+      ]
+    },
+    {
+      "id": "TR-EX-0337",
+      "name_uk": "Прокатування сідниці ролером",
+      "search_aliases": [
+        "Glute foam rolling"
+      ]
+    },
+    {
+      "id": "TR-EX-0338",
+      "name_uk": "Статичне витягнення грудних м'язів у дверях",
+      "search_aliases": [
+        "Doorway chest stretch"
+      ]
+    },
+    {
+      "id": "TR-EX-0339",
+      "name_uk": "Розтягнення найширших біля опори",
+      "search_aliases": [
+        "Lat stretch at bench"
+      ]
+    },
+    {
+      "id": "TR-EX-0340",
+      "name_uk": "Повороти шиї сидячи",
+      "search_aliases": [
+        "Seated neck rotation"
+      ]
+    },
+    {
+      "id": "TR-EX-0341",
+      "name_uk": "Бічні нахили шиї",
+      "search_aliases": [
+        "Neck lateral flexion"
+      ]
+    }
+  ]
+}
